@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TESTE", TESTE
-
-
 ##############################################
 ###### AGRO = 5 Canais #######################
 ##############################################
@@ -1067,54 +1064,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecb
 
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
-
-
-######################################
-###### YOUTUBE KODI 15 ###############
-######################################
-# Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Bob Esponja HD
-plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Cartoon Network Brasil HD
-plugin://plugin.video.youtube/play/?video_id=hpXd-M9ZDCE
-
-#EXTINF:-1 group-title="YOUTUBE KODI", CNN HD
-plugin://plugin.video.youtube/play/?video_id=NXmm_4lZI0c
-
-#EXTINF:-1 group-title="YOUTUBE KODI", EuroNews HD (PT)
-plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=4
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Nick Junior HD
-plugin://plugin.video.youtube/play/?video_id=ND4kwiGFU4A
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Nickelodeon HD
-plugin://plugin.video.youtube/play/?video_id=RgqzoN5SusM
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Peppa Pig Brasil HD
-plugin://plugin.video.youtube/play/?video_id=6xBFTOVef2M
-
-#EXTINF:-1 group-title="YOUTUBE KODI", PJ Maks HD
-plugin://plugin.video.youtube/play/?video_id=abqkFzyGjWc
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Record News HD
-plugin://plugin.video.youtube/play/?video_id=eFiNz4ZlWA0
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Rede TVT HD
-plugin://plugin.video.youtube/play/?video_id=9PKHCtmRRus
-
-#EXTINF:-1 group-title="YOUTUBE KODI", SBT HD
-plugin://plugin.video.youtube/play/?video_id=ABVQXgr2LW4&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=3
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Aparecida HD
-plugin://plugin.video.youtube/play/?video_id=1KIucmaYkmU
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Justiça HD
-plugin://plugin.video.youtube/play/?video_id=2u1CQdUNwTE
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
-plugin://plugin.video.youtube/play/?video_id=hFEns8TpDh4
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Warner Bros Kids Brasil HD
-plugin://plugin.video.youtube/play/?video_id=dQcA3iSoo3o
