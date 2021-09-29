@@ -125,9 +125,6 @@ https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?R
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta² HD
-https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8?ROGERIOTORRES
-
 
 ##############################################
 ###### DOCUMENTARIOS = 20 Canais #############
@@ -395,6 +392,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cinepix
+https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Romance HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
