@@ -281,22 +281,22 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="ESPORTES", TYC Sports (ESP)
 https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 1
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 1²
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 1² HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 2
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 2 HD
 https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 3
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 3 HD
 https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 4
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 4 HD
 https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 5
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 5 HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
