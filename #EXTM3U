@@ -21,7 +21,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ANIME E TOKUSATSU = 10 Canais ##########
+###### ANIME E TOKUSATSU = 7 Canais ##########
 ##############################################
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
@@ -47,7 +47,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 
 
 ##############################################
-###### CANAIS ABERTOS = 22 Canais ############
+###### CANAIS ABERTOS = 21 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
@@ -115,7 +115,7 @@ https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
 
 
 ##############################################
-###### DOCUMENTARIOS = 22 Canais #############
+###### DOCUMENTARIOS = 20 Canais #############
 ##############################################
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assim é Portugal
@@ -180,7 +180,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### EDUCATIVOS = 10 Canais ################
+###### EDUCATIVOS = 11 Canais ################
 ##############################################
 
 #EXTINF:-1 group-title="EDUCATIVOS", Cultura Educação (Master TV)
@@ -307,7 +307,7 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESTILO DE VIDA = 8 Canais ############
+###### ESTILO DE VIDA = 10 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
@@ -342,7 +342,7 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### FILMES E SÉRIES = 77 Canais ###########
+###### FILMES E SÉRIES = 62 Canais ###########
 ##############################################
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A&E HD
@@ -533,7 +533,7 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 
 
 ######################################
-###### GEEK = 35 Canais ##############
+###### GEEK = 32 Canais ##############
 ######################################
 
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
@@ -632,8 +632,9 @@ https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w1046929354.m3u8?ROGERIO
 #EXTINF:-1 group-title="GEEK", YEEAAH TV HD
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
 
+
 ######################################
-###### INFANTIL = 25 Canais ##########
+###### INFANTIL = 18 Canais ##########
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", A vida moderna de Rocko HD
@@ -692,7 +693,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 
 ######################################
-###### JORNALISMO = 9 Canais #########
+###### JORNALISMO = 8 Canais #########
 ######################################
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
@@ -721,7 +722,7 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 
 
 ######################################
-###### MUSICAS = 33 Canais ###########
+###### MUSICAS = 37 Canais ###########
 ######################################
 
 #EXTINF:-1 group-title="MUSICAS", 1HD Music
@@ -851,7 +852,7 @@ https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?R
 
 
 ##############################################
-###### VARIEDADES = 76 Canais ################
+###### VARIEDADES = 66 Canais ################
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
