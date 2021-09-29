@@ -533,7 +533,7 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 
 
 ######################################
-###### GEEK = 32 Canais ##############
+###### GEEK = 33 Canais ##############
 ######################################
 
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
@@ -589,6 +589,9 @@ https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Manchete 2
 https://stmv1.srvif.com/penasd/penasd/chunklist_w547913844.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", TV Max 90
+https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Natal
 http://tvnatal.ddns.net:1935/vmix/myStream/chunklist_w2042378885.m3u8?ROGERIOTORRES
@@ -852,7 +855,7 @@ https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?R
 
 
 ##############################################
-###### VARIEDADES = 66 Canais ################
+###### VARIEDADES = 67 Canais ################
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
