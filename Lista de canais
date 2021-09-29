@@ -110,11 +110,20 @@ http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Aberta HD
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (MG)
+http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
 https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(LNaSUMFNSGQs1YBnM8XhLQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGIQgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara (SP)
+https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
-https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8
+https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -850,20 +859,6 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/chunklist_w1884756249.m3u8?ROGERIO
 
 #EXTINF:-1 group-title="MUSICAS", Wham TV
 https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w858265847.m3u8?ROGERIOTORRES
-
-
-##############################################
-###### POLITICO = 3 Canais ###################
-##############################################
-
-#EXTINF:-1 group-title="POLITICO", TV Assembleia (MG)
-http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="POLITICO", TV Camera HD
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="POLITICO", TV Camara (SP)
-https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
