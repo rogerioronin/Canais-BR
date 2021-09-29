@@ -557,6 +557,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Jetsons TV 2
+https://stmv1.srvstm.com/jetsontv2/jetsontv2/chunklist_w1550510636.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Rede Clone TV HD
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/chunklist_w1944295461.m3u8?ROGERIOTORRES
 
