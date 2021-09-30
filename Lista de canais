@@ -128,6 +128,9 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOT
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Unisc TV HD
+https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
+
 
 ##############################################
 ###### DOCUMENTARIOS = 20 Canais #############
