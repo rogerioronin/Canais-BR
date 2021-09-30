@@ -128,9 +128,6 @@ http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOT
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Unisc TV HD
-https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
-
 
 ##############################################
 ###### DOCUMENTARIOS = 20 Canais #############
@@ -204,8 +201,11 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="EDUCATIVOS", Cultura Educação (Master TV)
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="EDUCATIVOS", Futura (TV o Povo)
+#EXTINF:-1 group-title="EDUCATIVOS", Futura - TV o Povo HD
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2061817278.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EDUCATIVOS", Futura - Unisc TV HD
+https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="EDUCATIVOS", Multi Rio
 http://187.111.97.45:1935/webtv/webtv/chunklist_w363674007.m3u8?ROGERIOTORRES
