@@ -531,6 +531,9 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Telemundo Telenovelas HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", TVJN Filmes
+https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Toro TV HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=862
 
@@ -555,8 +558,8 @@ https://stmv1.srvstm.com/tvserie5/tvserie5/chunklist_w1212004882.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Series - Jornada Nas Estrelas
 https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w1512057141.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", TVJN Filmes
-https://5cf4a2c2512a2.streamlock.net/jornaldonorteste/jornaldonorteste/chunklist_w455959427.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", TV Sul
+https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
