@@ -50,7 +50,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 
 
 ##############################################
-###### CANAIS ABERTOS = 28 Canais ############
+###### CANAIS ABERTOS = 29 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
@@ -100,6 +100,9 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzf
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT (RJ)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT - Rede Massa HD (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT (AM)
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
