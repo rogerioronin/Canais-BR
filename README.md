@@ -1,7 +1,7 @@
 # Canais-BR
 
 **OBJETIVO**:
-O objetivo deste projeto é manter uma lista atualizada. 
+Manter a lista atualizada sempre que possível. 
 
 **SEJA UM COLABORADOR**:
 Você conhece algum canal estavel e interessante, informe para que seja adicionado!
