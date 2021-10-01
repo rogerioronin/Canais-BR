@@ -641,6 +641,9 @@ https://stmv4.samcast.com.br/jeova3318/jeova3318/chunklist_w1240384144.m3u8?ROGE
 #EXTINF:-1 group-title="GEEK", TV Recreio
 https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Tokio
+https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", TV Vale Das Artes
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w846519369.m3u8?ROGERIOTORRES
 
