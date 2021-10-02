@@ -59,8 +59,8 @@ https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 29 HD (ESP)
-http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w858131162_b414000_sleng.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1927315438_b2628000_sleng.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
