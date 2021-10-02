@@ -65,7 +65,7 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w858131162_b41
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE² HD (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE³ HD (PR)
@@ -173,10 +173,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K (ENG)
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
+https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K² (ENG)
-https://origin-02.nxplay.com.br/LOVENATURE_NX/playlist.m3u8?ROGERIOTORRES
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Misterios HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
