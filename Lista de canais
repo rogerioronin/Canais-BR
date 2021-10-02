@@ -266,8 +266,11 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Bahrain Sport 1 (ARABE)
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", beIN SPORTS XTRA HD (ENG)
-https://siloh-sp.plutotv.net/lilo/production/bein/master.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="ESPORTES", Band Sports HD 
+http://cdn-1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Band Sports² HD 
+http://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
