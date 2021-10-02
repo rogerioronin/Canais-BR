@@ -68,6 +68,9 @@ http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w858131162_b41
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP)
+http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8?ROGERIOTORRES
 
