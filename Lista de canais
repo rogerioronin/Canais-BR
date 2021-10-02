@@ -797,6 +797,9 @@ http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/chunklist_w671569393.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", America Latino HD
+http://origin-02.nxplay.com.br/AMERICOLATINO/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/chunklist_w202718482.m3u8?ROGERIOTORRES
 
@@ -812,6 +815,9 @@ https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvstm.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", H!tts HD
+http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Italianissimo HD
 https://vcp.myplaytv.com/italianissimo/italianissimo/chunklist_w44146542.m3u8?ROGERIOTORRES
 
@@ -820,6 +826,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d63
 
 #EXTINF:-1 group-title="MUSICAS", M2O HD
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Mega HD
+http://origin-02.nxplay.com.br/MEGA/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Master Show TV HD
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?ROGERIOTORRES
