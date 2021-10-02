@@ -7,6 +7,9 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV² HD
+https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="AGRO", Agro Mais
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
@@ -121,6 +124,9 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
 https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(LNaSUMFNSGQs1YBnM8XhLQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGIQgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
+https://origin-02.nxplay.com.br/TV_BRASIL_2/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
@@ -265,12 +271,6 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Bahrain Sport 1 (ARABE)
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Band Sports HD 
-http://cdn-1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Band Sports² HD 
-http://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/tracks-v1a1a2/mono.m3u8
 
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -461,6 +461,9 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
 http://video02.kshost.com.br/manoel2072/manoel2072/chunklist_w2101506280.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Film&Arts HD
+https://origin-02.nxplay.com.br/Film_Arts_Brasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -821,6 +824,9 @@ http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 group-title="MUSICAS", Music Box Brazil HD
+https://origin-02.nxplay.com.br/MUSIC_HD/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ROGERIOTORRES
 
@@ -1110,6 +1116,9 @@ https://5ad482a77183d.streamlock.net/portaldailhagmail.com/portaldailhagmail.com
 
 #EXTINF:-1 group-title="VARIEDADES", VH1 Classics HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="VARIEDADES", Woohoo HD
+https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
