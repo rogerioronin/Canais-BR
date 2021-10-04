@@ -74,11 +74,23 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8?ROGERI
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE² HD (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="EDUCATIVOS", Cultura Educação - Master TV HD
+http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro
 https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w2128604356.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Futura - TV o Povo HD
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2061817278.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
+https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (RJ)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Rio
+http://187.111.97.45:1935/webtv/webtv/chunklist_w363674007.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
@@ -94,6 +106,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGE
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Familia HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist_b1628000.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
+https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1620318509~exp=1620325109~acl=/*~hmac=bfe0d938a706afd747014b53a08203eb790df7ba8d3241f96e27fa33a209e2cd
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (SP)
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?ROGERIOTORRES
@@ -113,11 +128,17 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT)
 http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Aberta HD
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EDUCATIVOS", TV Artes HD
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w642749451.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (MG)
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
@@ -134,6 +155,15 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara (SP)
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD (DF)
+https://edge-df-01.eduplay.rnp.br/media/ocp(r(-up5PQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(8TF0e-YyHE71UfnmOYOFDA)n(a(ozOW-4v4TOPRR0ipVzWUnaaZeSi5e2ua)s(nCk)'a(GSV-xoq4gzxFn-VaxUzMufbL)s(wZk)))s(t(E7k)b(oXqtZWIMCDVwg0yxrQe0zueeAAIblLPNVoZ-G06C_xLWtLEFfeboLJ0mNTjouGny22hgEiK6D0DA71BL63gF0y42USnTLgWVW5Mg3Eg4EzxFM1-9k84D4EkV0gyGd4vrAjqeWvnP9f6_tbfOORDVJ8GPYx6gnFp2TdOwCcnQ)'t(cEo)b(xI0q2x9MvTlVqrASW1l0YdCCPm8Evz0iMcok)))/live_540_index.m3u8
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVE² HD
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
 
@@ -143,6 +173,9 @@ http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo² HD
 http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Preve
+https://video02.kshost.com.br/paulispar7372/paulispar7372/chunklist_w172754701.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
@@ -150,6 +183,9 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 ##############################################
 ###### DOCUMENTARIOS = 20 Canais #############
 ##############################################
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", Aish TV Brasil HD
+https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w721524554.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assim é Portugal
 https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
@@ -187,6 +223,9 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Misterios HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a51/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV (ENG)
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Naturescape HD
 https://samsung-br.ott-channels.stingray.com/naturescape/master.m3u8?ROGERIOTORRES
 
@@ -213,50 +252,6 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-sams
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", XR Health HD
 https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
-
-
-##############################################
-###### EDUCATIVOS = 13 Canais ################
-##############################################
-
-#EXTINF:-1 group-title="EDUCATIVOS", Aish TV Brasil HD
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist_w721524554.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", Cultura Educação - Master TV HD
-http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", Futura - TV o Povo HD
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2061817278.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", Futura - Unisc TV HD
-https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", Multi Rio
-http://187.111.97.45:1935/webtv/webtv/chunklist_w363674007.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", NASA TV (ENG)
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", Rede Minas HD
-https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist_b1261568.m3u8?sts=st=1620318509~exp=1620325109~acl=/*~hmac=bfe0d938a706afd747014b53a08203eb790df7ba8d3241f96e27fa33a209e2cd
-
-#EXTINF:-1 group-title="EDUCATIVOS", SESC TV HD
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", TV Artes HD
-https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w642749451.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", TV Escola HD (DF)
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(-up5PQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(8TF0e-YyHE71UfnmOYOFDA)n(a(ozOW-4v4TOPRR0ipVzWUnaaZeSi5e2ua)s(nCk)'a(GSV-xoq4gzxFn-VaxUzMufbL)s(wZk)))s(t(E7k)b(oXqtZWIMCDVwg0yxrQe0zueeAAIblLPNVoZ-G06C_xLWtLEFfeboLJ0mNTjouGny22hgEiK6D0DA71BL63gF0y42USnTLgWVW5Mg3Eg4EzxFM1-9k84D4EkV0gyGd4vrAjqeWvnP9f6_tbfOORDVJ8GPYx6gnFp2TdOwCcnQ)'t(cEo)b(xI0q2x9MvTlVqrASW1l0YdCCPm8Evz0iMcok)))/live_540_index.m3u8
-
-#EXTINF:-1 group-title="EDUCATIVOS", TV Preve
-https://video02.kshost.com.br/paulispar7372/paulispar7372/chunklist_w172754701.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", TVE HD
-http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EDUCATIVOS", TVE² HD
-http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
