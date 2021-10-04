@@ -74,7 +74,7 @@ http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8?ROGERI
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE² HD (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="EDUCATIVOS", Cultura Educação - Master TV HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura Educação - Master TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro
@@ -137,7 +137,7 @@ http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Aberta HD
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="EDUCATIVOS", TV Artes HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Artes HD
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w642749451.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (MG)
