@@ -42,6 +42,9 @@ https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w978781840.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Animestat!on HD
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Locomotion (ESP)
+http://51.222.85.85:81/hls/loco/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
