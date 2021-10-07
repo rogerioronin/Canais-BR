@@ -983,6 +983,9 @@ https://stmv1.srvsite.com/ely/ely/chunklist_w891908021.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Estilo TV HD
 https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w783970995.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", EuTV HD
+https://cdn.jmvstream.com/w/AVJ-10423/playlist/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", FailArmy HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
