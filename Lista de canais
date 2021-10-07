@@ -7,9 +7,6 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV² HD
-https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="AGRO", Agro Mais
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
@@ -122,9 +119,6 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/SLmOiqg505FQZnhkfn01x94qWLHzQzf
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT (RJ)
 http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT - Rede Massa HD (PR)
-https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT (AM)
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
@@ -149,9 +143,6 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
 https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(LNaSUMFNSGQs1YBnM8XhLQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGIQgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
-https://origin-02.nxplay.com.br/TV_BRASIL_2/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 
@@ -175,9 +166,6 @@ http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo² HD
 http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Preve
-https://video02.kshost.com.br/paulispar7372/paulispar7372/chunklist_w172754701.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
@@ -378,7 +366,7 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Weather Spy HD
-https://jukin-weatherspy-2-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", World Fashion Channel (ENG)
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
