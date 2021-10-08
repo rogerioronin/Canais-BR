@@ -33,9 +33,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist_w245003336.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV 2
-https://stmv1.srvstm.com/animetv2/animetv2/chunklist_w978781840.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Animestat!on HD
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8?ROGERIOTORRES
 
