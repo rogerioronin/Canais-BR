@@ -391,9 +391,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 #EXTINF:-1 group-title="FILMES E SÉRIES", BET Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1 HD
-https://stmv1.srvstm.com/channel1/channel1/chunklist_w110236281.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
 https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1815803775.m3u8?ROGERIOTORRES
 
@@ -415,9 +412,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cinepix
-https://stmv1.srvif.com/cinepix/cinepix/chunklist_w1910848225.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Romance HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -434,10 +428,7 @@ https://stmv6.srvstm.com/classique/classique/chunklist_w1892970465.m3u8?ROGERIOT
 https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1215395784.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Noir
-https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u88?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
-https://stmv1.srvstm.com/classique2/classique2/chunklist.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
@@ -466,14 +457,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV 2
-https://stmv1.srvstm.com/gospelf2/gospelf2/chunklist_w44640082.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca - TV Series
 https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w885482235.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca 2 - TV Series
-https://stmv1.srvstm.com/tvserie5/tvserie5/chunklist_w1212004882.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -505,9 +490,6 @@ https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w740718702.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="FILMES E SÉRIES", Paramount HD
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte
-https://5ad482a77183d.streamlock.net/flaviagm1hotmail.com/flaviagm1hotmail.com/chunklist_w785143346.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -529,14 +511,8 @@ http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Spotlight HD (ESP)
-https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Star Trek Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99ac4fded33000078f29ab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Stormcast Novelas TV HD (ESP)
-https://stormcast-telenovelatv-1-fr.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Tela Viva TV HD
 https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8?ROGERIOTORRES
