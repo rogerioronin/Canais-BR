@@ -232,6 +232,9 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", TV Um
 https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/chunklist_w2063415249.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w1955343572.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Urban TV Docs HD
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
 
