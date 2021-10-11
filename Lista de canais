@@ -905,6 +905,9 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w1003198192.m3u
 #EXTINF:-1 group-title="VARIEDADES", Canal 8
 https://serv1.videovox.pw/associacaodasentidades3493/associacaodasentidades3493/chunklist_w1429951855.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Canal 10
+http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Canal 25 HD
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?ROGERIOTORRES
 
