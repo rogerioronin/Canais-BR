@@ -430,6 +430,9 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1215395784.m3u8?ROG
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Noir
 https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
+https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 
