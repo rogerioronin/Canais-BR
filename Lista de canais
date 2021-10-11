@@ -36,6 +36,9 @@ https://stmv1.srvif.com/animetv/animetv/chunklist_w245003336.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Animestat!on HD
 https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", AZTV (ESP)
+https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Locomotion (ESP)
 http://51.222.85.85:81/hls/loco/index.m3u8?ROGERIOTORRES
 
