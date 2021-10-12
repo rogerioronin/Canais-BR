@@ -386,10 +386,10 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Mulher Bionica - TV Series
-https://stmv1.srvstm.com/tvserie2/tvserie2/chunklist_w682522985.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras - TV Series
-https://stmv1.srvstm.com/tvserie/tvserie/chunklist_w969537022.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", AXN HD
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8?ROGERIOTORRES
@@ -404,7 +404,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b800084986
 https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
-https://stmv1.srvstm.com/tvserie4/tvserie4/chunklist_w1815803775.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cidade HD
 https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u8?ROGERIOTORRES
@@ -482,7 +482,7 @@ https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w885482235.m3u8?ROGERIOTORRE
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jornada Nas Estrelas - TV Series
-https://stmv1.srvstm.com/tvserie3/tvserie3/chunklist_w1512057141.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kuriakos Filmes
 http://c2.manasat.com:1935/kcine/kcine2/chunklist_w1643733230.m3u8?ROGERIOTORRES
