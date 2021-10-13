@@ -359,6 +359,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294
 #EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Life Channel HD
+https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Lifetime HD
 http://d31ii3fk8fd7mh.cloudfront.net/e99907efe2284822af0f0953d29a88a3/index_3.m3u8?ROGERIOTORRES
 
