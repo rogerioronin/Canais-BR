@@ -1122,9 +1122,6 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/chunklist_w670829923.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Porto HD (PT)
-https://streamer-a03.videos.sapo.pt/live/portocanal/chunklist_w760040790.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES", TV Video News
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w236785001.m3u8?ROGERIOTORRES
 
