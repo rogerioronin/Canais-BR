@@ -953,7 +953,7 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?ROGERIOTORRES
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Central TV
-https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w1037346020.m3u8?ROGERIOTORRES
+https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Chef TV HD
 http://canaishd.servidor.tv:8080/michel12/12michel/53519
