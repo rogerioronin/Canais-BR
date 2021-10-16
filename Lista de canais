@@ -252,6 +252,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 ###### ESPORTES = 29 Canais ##################
 ##############################################
 
+
 #EXTINF:-1 group-title="ESPORTES", All Elite Wrestling HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -266,6 +267,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 
 #EXTINF:-1 group-title="ESPORTES", Boxing HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac425f949b4600079938f3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="ESPORTES", CR Arena Sport 1 HD (CRO)
+https://srv1.iptviliria.com/ArenaSport1/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF:-1 group-title="ESPORTES", CR Arena Sport 3 HD (CRO)
+https://srv1.iptviliria.com/ArenaSport3/index.m3u8?ROGERIOTORRES
+ 
+#EXTINF:-1 group-title="ESPORTES", CR Arena Sport 4 HD (CRO)
+https://srv1.iptviliria.com/ArenaSport4/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", DeporTV HD (ESP)
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist.m3u8?ROGERIOTORRES
