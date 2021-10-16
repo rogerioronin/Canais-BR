@@ -1071,9 +1071,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 #EXTINF:-1 group-title="VARIEDADES", The Pet Collective 2 HD (ENG)
 https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Top TV (PR)
-https://serv2.videovox.pw/joaorodrigo7309/joaorodrigo7309/chunklist_w651837102.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES", TV 3 HD
 https://video01.logicahost.com.br/tv3tv/tv3tv/chunklist_w868710770.m3u8?ROGERIOTORRES
 
