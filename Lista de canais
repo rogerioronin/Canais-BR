@@ -50,7 +50,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 
 
 ##############################################
-###### CANAIS ABERTOS = 29 Canais ############
+###### CANAIS ABERTOS = 39 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
@@ -172,7 +172,7 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### DOCUMENTARIOS = 20 Canais #############
+###### DOCUMENTARIOS = 24 Canais #############
 ##############################################
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Aish TV Brasil HD
@@ -249,7 +249,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESPORTES = 29 Canais ##################
+###### ESPORTES = 33 Canais ##################
 ##############################################
 
 
@@ -354,7 +354,7 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESTILO DE VIDA = 10 Canais ############
+###### ESTILO DE VIDA = 14 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
@@ -401,7 +401,7 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### FILMES E SÉRIES = 63 Canais ###########
+###### FILMES E SÉRIES = 60 Canais ###########
 ##############################################
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A&E HD
@@ -755,7 +755,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 
 ######################################
-###### JORNALISMO = 9 Canais #########
+###### JORNALISMO = 11 Canais ########
 ######################################
 
 #EXTINF:-1 group-title="JORNALISMO", Band News HD
@@ -793,7 +793,7 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 
 
 ######################################
-###### MUSICAS = 37 Canais ###########
+###### MUSICAS = 43 Canais ###########
 ######################################
 
 #EXTINF:-1 group-title="MUSICAS", 1HD Music
@@ -927,7 +927,7 @@ https://srv5.zcast.com.br/andre4369/andre4369/chunklist_w858265847.m3u8?ROGERIOT
 
 
 ##############################################
-###### VARIEDADES = 70 Canais ################
+###### VARIEDADES = 79 Canais ################
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
