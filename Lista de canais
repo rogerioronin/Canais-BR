@@ -589,6 +589,9 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1792297687.m3u8
 #EXTINF:-1 group-title="GEEK", Canal 29 HD
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w725901303.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Canal TV GO
+https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Imperial TV HD
 https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1718299115.m3u8?ROGERIOTORRES
 
@@ -945,8 +948,6 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Canal I+TV
 http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal TV GO
-https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal TV Rio
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8?ROGERIOTORRES
