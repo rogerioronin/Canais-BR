@@ -89,6 +89,9 @@ https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (RJ)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVI HD (PT)
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPTlvQmhTam54QTVTZGk4aVVZS2pVZUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lZjY0MDZkOC04ZjYzLTQ4M2YtYTQ1OC1mNTZhYWFiNjFlY2E=
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
 
