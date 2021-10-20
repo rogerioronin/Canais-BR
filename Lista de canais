@@ -89,9 +89,6 @@ https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (RJ)
 http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TVI HD (PT)
-https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPTlvQmhTam54QTVTZGk4aVVZS2pVZUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lZjY0MDZkOC04ZjYzLTQ4M2YtYTQ1OC1mNTZhYWFiNjFlY2E=
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
 
@@ -163,6 +160,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVI HD (PT)
+https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPTlvQmhTam54QTVTZGk4aVVZS2pVZUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lZjY0MDZkOC04ZjYzLTQ4M2YtYTQ1OC1mNTZhYWFiNjFlY2E=
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo HD
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
@@ -796,6 +796,10 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGE
 
 #EXTINF:-1 group-title="JORNALISMO", Reuters HD
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", TVI 24 HD (PT)
+https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPTQrSE5RY1BpTEIyaHFYb2RQd1Z5U0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZDAyODk5Mi0yYjg3LTRkYTEtOTZmMi0yYmFlZjAwMDEwYmE=
+
 
 #EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
