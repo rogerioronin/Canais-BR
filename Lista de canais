@@ -208,7 +208,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP)
 http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K² (ENG)
+#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K (ENG)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Misterios HD
@@ -785,6 +785,9 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", Euronews HD² (PT)
+https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -799,7 +802,6 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="JORNALISMO", TVI 24 HD (PT)
 https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPTQrSE5RY1BpTEIyaHFYb2RQd1Z5U0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZDAyODk5Mi0yYjg3LTRkYTEtOTZmMi0yYmFlZjAwMDEwYmE=
-
 
 #EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
