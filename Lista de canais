@@ -92,6 +92,9 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2061817278
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD [Sem Som]
+http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 
@@ -783,7 +786,7 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?ROGERIOTORRES
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Canal 324 HD (CAT)
-https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
@@ -797,11 +800,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", Euronews HD² (PT)
-https://rakuten-euronews-8-pt.samsung.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
-http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8
+http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
