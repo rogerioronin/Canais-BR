@@ -782,6 +782,9 @@ https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", Canal 324 HD (CAT)
+https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8
+
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
 
