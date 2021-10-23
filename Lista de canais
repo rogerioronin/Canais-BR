@@ -173,9 +173,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TVI Internacional HD (PT)
-https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPVJISEhQUG9lSUgyTUtvZ1BxdmpSaEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iZmMyOWRiZi1jMzU0LTQ2MDMtYTZlOS0wNmZjZjY0MGFjOGE=
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo HD
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
 
