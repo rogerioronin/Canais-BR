@@ -809,9 +809,6 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGE
 #EXTINF:-1 group-title="JORNALISMO", Reuters HD
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", TVI 24 HD (PT)
-https://video-auth6.iol.pt/live_tvi24/live_tvi24/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjAvMjAyMSA1OjA6MiBQTSZoYXNoX3ZhbHVlPTQrSE5RY1BpTEIyaHFYb2RQd1Z5U0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wZDAyODk5Mi0yYjg3LTRkYTEtOTZmMi0yYmFlZjAwMDEwYmE=
-
 #EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
 
