@@ -1146,6 +1146,9 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/chunklist.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="VARIEDADES", TV Germana HD
 https://59f1cbe63db89.streamlock.net:1443/tvgermana/_definst_/tvgermana/chunklist_w115191932.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", TVideo News
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", TV Japi
 https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1374978049.m3u8?ROGERIOTORRES
 
