@@ -937,6 +937,9 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 #EXTINF:-1 group-title="MUSICAS", Top TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
+http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Vevo 2K HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
