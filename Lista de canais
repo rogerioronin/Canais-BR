@@ -518,6 +518,9 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca - TV Series
 https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w885482235.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Interior TV
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w1930307077.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
