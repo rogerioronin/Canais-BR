@@ -1062,6 +1062,9 @@ https://cdn.jmvstream.com/w/AVJ-10423/playlist/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", FailArmy HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="VARIEDADES", Giro TV News HD
+https://596639ebdd89b.streamlock.net/8096/8096/chunklist_w127416716.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", ISTV HD
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTORRES
 
