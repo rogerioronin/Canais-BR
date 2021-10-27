@@ -1223,6 +1223,9 @@ plugin://plugin.video.youtube/play/?video_id=hpXd-M9ZDCE
 #EXTINF:-1 group-title="YOUTUBE KODI", EuroNews HD (PT)
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=4
 
+#EXTINF:-1 group-title="YOUTUBE KODI", Jovem Pan News HD
+plugin://plugin.video.youtube/play/?video_id=uuYodSCCMNE
+
 #EXTINF:-1 group-title="YOUTUBE KODI", Nick Junior HD
 plugin://plugin.video.youtube/play/?video_id=ND4kwiGFU4A
 
@@ -1236,19 +1239,22 @@ plugin://plugin.video.youtube/play/?video_id=6xBFTOVef2M
 plugin://plugin.video.youtube/play/?video_id=abqkFzyGjWc
 
 #EXTINF:-1 group-title="YOUTUBE KODI", Record News HD
-plugin://plugin.video.youtube/play/?video_id=eFiNz4ZlWA0
+plugin://plugin.video.youtube/play/?video_id=saz29dZJR04
+
+#EXTINF:-1 group-title="YOUTUBE KODI", Rede Vida HD
+plugin://plugin.video.youtube/play/?video_id=KlYSWyoMMi4
 
 #EXTINF:-1 group-title="YOUTUBE KODI", SBT HD
 plugin://plugin.video.youtube/play/?video_id=ABVQXgr2LW4&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=3
+
+#EXTINF:-1 group-title="YOUTUBE KODI", TV A Crítica HD
+plugin://plugin.video.youtube/play/?video_id=ksRHHGUN0Wk
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Aparecida HD
 plugin://plugin.video.youtube/play/?video_id=1KIucmaYkmU
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Justiça HD
-plugin://plugin.video.youtube/play/?video_id=2u1CQdUNwTE
+plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
-plugin://plugin.video.youtube/play/?video_id=2krLuSdr778
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Warner Bros Kids Brasil HD
-plugin://plugin.video.youtube/play/?video_id=dQcA3iSoo3o
+plugin://plugin.video.youtube/play/?video_id=qtcOwfOCT5k
