@@ -1015,7 +1015,7 @@ http://d1wwtskvr1r98k.cloudfront.net/e957ddc8e14c4fe1a45bb76ead75006f/index_1.m3
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583d2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="VARIEDADES", Conect TV HD
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8?ROGERIOTORRES
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", CTV HD
 https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1893836183.m3u8?ROGERIOTORRES
