@@ -1267,3 +1267,166 @@ plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
 plugin://plugin.video.youtube/play/?video_id=qtcOwfOCT5k
+
+
+######################################
+################ TESTE ###############
+######################################
+
+#EXTINF:-1 group-title="TESTE", Agro Brasil TV
+https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Agro Brasil TV²
+http://origin-02.nxplay.com.br/AGROBRASIL_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Band SP Interior
+http://origin-02.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Band SP Interior²
+http://cdn-1.nxplay.com.br/BAND_HD_PFZ/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Band News
+http://origin-02.nxplay.com.br/BAND_NEWS_NXPLAY_/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Band News²
+http://cdn-1.nxplay.com.br/BAND_NEWS/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Band Sports
+http://origin-02.nxplay.com.br/BAND_SPORTS_NXPLAY/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TESTE", Band Sports²
+http://cdn-1.nxplay.com.br/BAND_SPORTS/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Futura
+http://origin-02.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Futura²
+http://cdn-1.nxplay.com.br/FUTURA_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Fish TV
+http://origin-02.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Fish TV²
+https://origin-02.nxplay.com.br/FISH_TV_NX/video.m3u8
+
+#EXTINF:-1 group-title="TESTE", Fish TV³
+http://cdn-1.nxplay.com.br/FISH_TV_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Woohoo
+http://origin-02.nxplay.com.br/WOOHOO_NXPLAY/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Woohoo²
+https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
+
+
+#EXTINF:-1 group-title="TESTE", Zoomoo
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX_01/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Zoomoo²
+http://origin-02.nxplay.com.br/ZOOMOO_HD_NX/video.m3u8
+
+#EXTINF:-1 group-title="TESTE", Zoomoo³
+http://cdn-1.nxplay.com.br/ZOOMOO_HD/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", MTV HD
+http://origin-02.nxplay.com.br/MTV_BR_98588_99_123/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", MTV Live
+http://origin-02.nxplay.com.br/MTVNI_HD_NX/tracks-v1a1a2/mono.m3u8
+
+#EXTINF:-1 group-title="TESTE", Film&Arts
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Film&Arts²
+https://origin-02.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1a2a3l2/mono.m3u8
+
+#EXTINF:-1 group-title="TESTE", Film&Arts³
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Film&Arts¹²
+http://cdn-1.nxplay.com.br/Film_Arts_Brasil/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Film&Arts¹³
+https://origin-02.nxplay.com.br/Film_Arts_Brasil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", AMC
+http://origin-02.nxplay.com.br/AMC_BRASIL/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TBS
+http://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TBS²
+https://origin-02.nxplay.com.br/TBS_01/tracks-v1a1/mono.m3u8?token=
+
+#EXTINF:-1 group-title="TESTE", Nick
+http://origin-02.nxplay.com.br/NICK_BR_HD_dr/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TESTE", Arte 1
+http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Music Box Brazil
+http://origin-02.nxplay.com.br/MUSIC_HD/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Music Box Brazil²
+http://origin-02.nxplay.com.br/MUSIC_HD/video.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Music Box Brazil³
+http://cdn-1.nxplay.com.br/PRIME_HD/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Music Box Brazil¹²
+https://origin-02.nxplay.com.br/MUSIC_HD/playlist.m3u8?ROGERIOTORRES (Funcionando)
+
+#EXTINF:-1 group-title="TESTE", Prime Box Brasil
+https://origin-02.nxplay.com.br/PRIME_HD/video.m3u8?
+
+#EXTINF:-1 group-title="TESTE", Play TV
+http://origin-02.nxplay.com.br/PLAY_TV_NXPLAY/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", COMEDY CENTRAL
+http://origin-02.nxplay.com.br/CCLB_HD_NXPLAY/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", Canal do boi
+https://origin-02.nxplay.com.br/CANAL_DO_BOI_NX/playlist.m3u8
+
+#EXTINF:-1 group-title="TESTE", Canal do boi²
+http://cdn-1.nxplay.com.br/CANAL_DO_BOI/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+
+#EXTINF:-1 group-title="TESTE", Paramount HD
+http://origin-02.nxplay.com.br/PCBR_HD_NX_9998_/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="TESTE", Paramount HD²
+http://nxplay-srv1.nxplay.com.br/PCBR_HD/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="TESTE", Canal Saude
+https://origin-02.nxplay.com.br/TV_SAUDE/video.m3u8
+
+#EXTINF:-1 group-title="TESTE", Canal Saude²
+https://origin-02.nxplay.com.br/TV_SAUDE/playlist.m3u8?ROGERIOTORRES
+
+
+#EXTINF:-1 group-title="TESTE", SCH
+https://origin-02.nxplay.com.br/SCH/video.m3u8?token=
+
+#EXTINF:-1 group-title="TESTE", SCH²
+http://cdn-1.nxplay.com.br/SCH/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Gazeta SP
+http://origin-02.nxplay.com.br/TV_GAZETA_NX/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 group-title="TESTE", TV Aparecida
+http://cdn-1.nxplay.com.br/TV_APARECIDA/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Canção Nova
+http://cdn-1.nxplay.com.br/CANCAO_NOVA/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Brasil 2 HD
+http://origin-02.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Brasil 2² HD
+http://cdn-1.nxplay.com.br/TV_BRASIL_2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="TESTE", TV Brasil 2³ HD
+https://origin-02.nxplay.com.br/TV_BRASIL_2/playlist.m3u8?ROGERIOTORRES
