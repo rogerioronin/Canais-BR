@@ -842,6 +842,9 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGE
 #EXTINF:-1 group-title="JORNALISMO", Reuters HD
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", TVI 24H (PT)
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
 
