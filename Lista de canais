@@ -8,6 +8,9 @@
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV²
+https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV³
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Mais
@@ -393,6 +396,9 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
 http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1² HD
+http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Chef TV HD
 http://canaishd.servidor.tv:8080/michel12/12michel/53519
 
@@ -517,6 +523,9 @@ http://video02.kshost.com.br/manoel2072/manoel2072/chunklist_w2101506280.m3u8?RO
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD
 https://origin-02.nxplay.com.br/Film_Arts_Brasil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts² HD
+http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -1218,6 +1227,7 @@ https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
 
+
 ######################################
 ###### YOUTUBE KODI 13 ###############
 ######################################
@@ -1276,20 +1286,3 @@ plugin://plugin.video.youtube/play/?video_id=qtcOwfOCT5k
 #EXTINF:-1 group-title="TESTE", Agro Brasil TV
 https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="TESTE", Woohoo²
-https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="TESTE", Film&Arts
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="TESTE", Film&Arts²
-https://origin-02.nxplay.com.br/Film_Arts_Brasil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="TESTE", Arte 1
-http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="TESTE", Music Box Brazil
-http://origin-02.nxplay.com.br/MUSIC_HD/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="TESTE", TV Brasil 2³ HD
-https://origin-02.nxplay.com.br/TV_BRASIL_2/playlist.m3u8?ROGERIOTORRES
