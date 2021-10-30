@@ -937,6 +937,9 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?R
 #EXTINF:-1 group-title="MUSICAS", Ocko Star HD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", Portal News Web TV
+https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Qwest Classical HD
 https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
