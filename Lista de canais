@@ -321,6 +321,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="ESPORTES", Dubai Sport HD (ARA)
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Dubai Sports 2 HD (ARA)
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8  
+
+#EXTINF:-1 group-title="ESPORTES", Dubai Sports 3 HD (ARA)
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
+
 #EXTINF:-1 group-title="ESPORTES", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
