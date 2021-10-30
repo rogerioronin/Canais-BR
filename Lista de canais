@@ -623,6 +623,9 @@ https://stmv1.srvif.com/tvnaza/tvnaza/chunklist_w1071564775.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w400399276.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", UniTV
+http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
 
