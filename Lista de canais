@@ -185,7 +185,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara (SP)
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD (DF)
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
 https://edge-df-01.eduplay.rnp.br/media/ocp(r(-up5PQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(8TF0e-YyHE71UfnmOYOFDA)n(a(ozOW-4v4TOPRR0ipVzWUnaaZeSi5e2ua)s(nCk)'a(GSV-xoq4gzxFn-VaxUzMufbL)s(wZk)))s(t(E7k)b(oXqtZWIMCDVwg0yxrQe0zueeAAIblLPNVoZ-G06C_xLWtLEFfeboLJ0mNTjouGny22hgEiK6D0DA71BL63gF0y42USnTLgWVW5Mg3Eg4EzxFM1-9k84D4EkV0gyGd4vrAjqeWvnP9f6_tbfOORDVJ8GPYx6gnFp2TdOwCcnQ)'t(cEo)b(xI0q2x9MvTlVqrASW1l0YdCCPm8Evz0iMcok)))/live_540_index.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
@@ -318,6 +318,9 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Eleven Sports HD (ENG)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fight TV HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
