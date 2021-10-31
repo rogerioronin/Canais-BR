@@ -137,18 +137,6 @@ https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (ES)
 https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://colunadatv.com/wp-content/uploads/2017/01/logo-da-redetv.png",Rede TV!¹ (SP)
-http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://colunadatv.com/wp-content/uploads/2017/01/logo-da-redetv.png",Rede TV!² (SP)
-http://origin-02.nxplay.com.br/REDETV_HD_SIMBA/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://colunadatv.com/wp-content/uploads/2017/01/logo-da-redetv.png",Rede TV!¹ (SP)
-http://origin-02.nxplay.com.br/REDETV_HD/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://colunadatv.com/wp-content/uploads/2017/01/logo-da-redetv.png",Rede TV!² (SP)
-http://origin-02.nxplay.com.br/REDETV_HD/tracks-v2a1/mono.m3u8
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (SP)
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?ROGERIOTORRES
 
