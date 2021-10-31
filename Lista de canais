@@ -134,6 +134,9 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas - GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/chunklist_w1107061616.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (ES)
+https://hls.brasilstream.com.br/live/redetv/redetv/tracks-v1a1/mono.m3u8?token=5874329047397081000
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (SP)
 https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist.m3u8?ROGERIOTORRES
 
