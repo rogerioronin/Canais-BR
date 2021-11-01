@@ -669,9 +669,6 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 ###### GEEK = 35 Canais ##############
 ######################################
 
-#EXTINF:-1 group-title="GEEK", Adult Swim - Off The Air (ENG)
-https://adultswim-vodlive.cdn.turner.com/live/off-the-air/stream.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1792297687.m3u8?ROGERIOTORRES
 
@@ -698,9 +695,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w785146852.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Rick And Morty (ENG)
-http://adultswim-vodlive.cdn.turner.com/live/rick-and-morty/stream.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", RSC TV Brasil
 http://177.11.96.110:9080/hls/sictv.m3u8?ROGERIOTORRES
