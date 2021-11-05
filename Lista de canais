@@ -610,8 +610,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/chunklist_w740718702.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="FILMES E SÉRIES", Paramount HD
 http://d31ii3fk8fd7mh.cloudfront.net/89192ec7abc24480bac975aa4ab2dffe/index_1.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte
-https://5cf4a2c2512a2.streamlock.net/tvplanalto/tvplanalto/chunklist_w792027382.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte HD
+https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Rede TV Sul HD
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8?ROGERIOTORRES
