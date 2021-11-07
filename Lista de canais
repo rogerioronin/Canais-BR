@@ -185,6 +185,9 @@ https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2² HD
+https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjloikeuMoj5cYG-npPbJ8o)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 
