@@ -925,7 +925,7 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
-https://stmv1.srvstm.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", H!tts HD
 http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
