@@ -1319,6 +1319,9 @@ plugin://plugin.video.youtube/play/?video_id=saz29dZJR04
 #EXTINF:-1 group-title="YOUTUBE KODI", Rede Vida HD
 plugin://plugin.video.youtube/play/?video_id=o3w_u1oZf3Q
 
+#EXTINF:-1 group-title="YOUTUBE KODI", Ricky Zoom Brasil HD
+plugin://plugin.video.youtube/play/?video_id=lsFm5LexHE0
+
 #EXTINF:-1 group-title="YOUTUBE KODI", SBT HD
 plugin://plugin.video.youtube/play/?video_id=ABVQXgr2LW4&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=3
 
