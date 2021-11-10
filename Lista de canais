@@ -396,6 +396,9 @@ https://introuble-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Motorvision HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Nitro TV HD
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Oman Sport HD (ARA)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?ROGERIOTORRES
 
