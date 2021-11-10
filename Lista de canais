@@ -104,6 +104,9 @@ https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
 http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
+http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", MultiRio HD
 http://187.111.97.45:1935/webtv/webtv/playlist.m3u8?ROGERIOTORRES
 
