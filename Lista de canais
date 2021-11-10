@@ -990,6 +990,9 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 #EXTINF:-1 group-title="MUSICAS", Portal News Web TV
 https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", Qello Concerts HD
+https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Qwest Classical HD
 https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
