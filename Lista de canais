@@ -694,7 +694,7 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1792297687.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal 29 HD
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w725901303.m3u8?ROGERIOTORRES
+https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal TV GO
 https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8?ROGERIOTORRES
@@ -1098,7 +1098,7 @@ https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8?R
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", BS TV HD
-https://596639ebdd89b.streamlock.net/tvonline/tvonline/chunklist_w1003198192.m3u8?ROGERIOTORRES
+https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 10
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/chunklist_w565111683.m3u8?ROGERIOTORRES
@@ -1146,10 +1146,10 @@ https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?ROGERIOTORRES
 http://d1wwtskvr1r98k.cloudfront.net/637de7ec0ab74fdc95ce3382677e2eb1/index_1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Elemental Channel HD
-https://5d82644094cc0.streamlock.net/8116/8116/chunklist_w2073523630.m3u8?ROGERIOTORRES
+https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Elytv
-https://stmv1.srvsite.com/ely/ely/chunklist_w891908021.m3u8?ROGERIOTORRES
+https://stmv1.srvsite.com/ely/ely/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Estilo TV HD
 https://596639ebdd89b.streamlock.net/estilo/estilo/chunklist_w783970995.m3u8?ROGERIOTORRES
