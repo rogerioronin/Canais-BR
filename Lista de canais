@@ -1,7 +1,7 @@
 #EXTM3U
 
 ##############################################
-###### AGRO = 6 Canais #######################
+########### AGRO = 10 Canais #################
 ##############################################
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
@@ -36,7 +36,7 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8?ROGERIOT
 
 
 ##############################################
-###### ANIME E TOKUSATSU = 7 Canais ##########
+###### ANIME E TOKUSATSU = 8 Canais ##########
 ##############################################
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
@@ -65,7 +65,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 
 
 ##############################################
-###### CANAIS ABERTOS = 39 Canais ############
+###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
@@ -309,7 +309,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESPORTES = 33 Canais ##################
+###### ESPORTES = 47 Canais ##################
 ##############################################
 
 #EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 1 HD (ARA)
@@ -455,7 +455,7 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESTILO DE VIDA = 14 Canais ############
+###### ESTILO DE VIDA = 16 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
@@ -508,7 +508,7 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### FILMES E SÉRIES = 60 Canais ###########
+###### FILMES E SÉRIES = 61 Canais ###########
 ##############################################
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A&E HD
@@ -696,7 +696,7 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 
 
 ######################################
-###### GEEK = 35 Canais ##############
+###### GEEK = 31 Canais ##############
 ######################################
 
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
@@ -794,7 +794,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### INFANTIL = 18 Canais ##########
+###### INFANTIL = 19 Canais ##########
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", A vida moderna de Rocko HD
@@ -856,7 +856,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 
 ######################################
-###### JORNALISMO = 11 Canais ########
+###### JORNALISMO = 20 Canais ########
 ######################################
 
 #EXTINF:-1 group-title="JORNALISMO", Band News HD
@@ -921,7 +921,7 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 
 
 ######################################
-###### MUSICAS = 43 Canais ###########
+###### MUSICAS = 52 Canais ###########
 ######################################
 
 #EXTINF:-1 group-title="MUSICAS", 1HD Music
@@ -1082,7 +1082,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 
 
 ##############################################
-###### VARIEDADES = 79 Canais ################
+###### VARIEDADES = 76 Canais ################
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", Aish TV Brasil HD
@@ -1315,7 +1315,7 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 
 
 ######################################
-###### YOUTUBE KODI 13 ###############
+###### YOUTUBE KODI 16 ###############
 ######################################
 # Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
