@@ -729,12 +729,6 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist_w785146852.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Retro Cartoon 2
 https://stmv1.srvif.com/retrotv2/retrotv2/chunklist_w1246852173.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", RSC TV Brasil
-http://177.11.96.110:9080/hls/sictv.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Soul Kids HD
-https://video01.soultv.com.br/soulkids/soulkids/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", South Park HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -771,17 +765,11 @@ https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Potengi
 https://stmv4.samcast.com.br/jeova3318/jeova3318/chunklist_w1240384144.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Recreio
-https://srv2.zcast.com.br/maria6815/maria6815/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Tokio
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", TV Recreio HD
+https://video01.logicahost.com.br/tvrecreio/tvrecreio/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Vale Das Artes
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/chunklist_w846519369.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Web Guarei HD
-https://stmv1.srvif.com/radiowebguarei/radiowebguarei/chunklist_w730284523.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Urban TV Kids HD
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -800,9 +788,6 @@ https://novo.bitstreaming.info:1936/oprogressotvstation/oprogressotvstation/chun
 
 #EXTINF:-1 group-title="GEEK", Web TV Xtreme
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Wham TV Classic
-https://srv4.zcast.com.br/andre2183/andre2183/chunklist_w1046929354.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", YEEAAH TV HD
 http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
