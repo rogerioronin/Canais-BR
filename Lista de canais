@@ -19,6 +19,9 @@ https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO", Canal da Pecuária
 https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="AGRO", Canal do Boi
+http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/chunklist_w1614773474_b1585000_sleng.m3u8?ROGERIOTORRES
 
