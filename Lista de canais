@@ -68,11 +68,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ###### CANAIS ABERTOS = 39 Canais ############
 ##############################################
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
+https://www.dailymotion.com/embed/video/kGk7f7l2OqdLYRxaX2y
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band² HD
+https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
-https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1927315438_b2628000_sleng.m3u8?ROGERIOTORRES
@@ -195,7 +198,7 @@ http://srv6.zoeweb.tv:1935/z404-live/stream/chunklist_w76368286.m3u8?ROGERIOTORR
 https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(LNaSUMFNSGQs1YBnM8XhLQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGIQgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLjloikeuMoj5cYG-npPbJ8o)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://www.dailymotion.com/video/x82pp99
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
