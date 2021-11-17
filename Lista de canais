@@ -1041,6 +1041,9 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/chunklist_
 #EXTINF:-1 group-title="MUSICAS", Top TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", TV A Folha
+https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
 
