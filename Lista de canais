@@ -690,20 +690,23 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 ###### GEEK = 31 Canais ##############
 ######################################
 
+#EXTINF:-1 group-title="GEEK", TV Alagonet
+https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/chunklist_w1792297687.m3u8?ROGERIOTORRES
+https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal 29 HD
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal TV GO
-https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8?ROGERIOTORRES
+https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV CEI
 https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8
 
 #EXTINF:-1 group-title="GEEK", Imperial TV HD
-https://5d2c98775bafe.streamlock.net/8098/8098/chunklist_w1718299115.m3u8?ROGERIOTORRES
+https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Jackie Chan HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
