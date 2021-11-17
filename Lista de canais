@@ -173,9 +173,6 @@ https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2
 #EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT)
 http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Teledifusão de Macau (PT)
-https://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Aberta HD
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
 
