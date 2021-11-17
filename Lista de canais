@@ -693,6 +693,9 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 #EXTINF:-1 group-title="GEEK", TV Alagonet
 https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Babitonga HD
+https://stmv3.samcast.com.br/christianalves2862/christianalves2862/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 
