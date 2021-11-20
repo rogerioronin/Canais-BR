@@ -23,16 +23,16 @@ https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/
 http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
-https://5f984b2feeeb4.streamlock.net/crur/smil:canalrural.smil/chunklist_w1614773474_b1585000_sleng.m3u8?ROGERIOTORRES
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist_w893706706_b2596000_sleng.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Nova Tv Agrotour
-https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/chunklist_w1257565174.m3u8?ROGERIOTORRES
+https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Terra Viva
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", TV Milagro Brasil
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8?ROGERIOTORRES
+https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -43,13 +43,13 @@ https://srv5.zcast.com.br/tvmilagro/tvmilagro/chunklist_w363747208.m3u8?ROGERIOT
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV
-https://stmv1.srvif.com/animetv/animetv/chunklist_w245003336.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Animestat!on HD
-https://stmv.video.expressolider.com.br/animestation1/animestation1/chunklist_w2074350440.m3u8?ROGERIOTORRES
+https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", AZTV (ESP)
 https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
@@ -90,7 +90,7 @@ http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
-http://wowza4.catve.com.br:1935/live/livestream/chunklist_w848894322.m3u8?ROGERIOTORRES
+http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE² HD (PR)
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
@@ -99,10 +99,10 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOT
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro
-https://streaming03.zas.media:1936/tvfuturo/tvfuturo/chunklist_w2128604356.m3u8?ROGERIOTORRES
+https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - TV o Povo HD
-https://stmv1.transmissaodigital.com/ronald6259/ronald6259/chunklist_w2061817278.m3u8?ROGERIOTORRES
+https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
@@ -177,13 +177,13 @@ http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
 https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Artes HD
-https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/chunklist_w642749451.m3u8?ROGERIOTORRES
+https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (MG)
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (CE)
-http://srv6.zoeweb.tv:1935/z404-live/stream/chunklist_w76368286.m3u8?ROGERIOTORRES
+http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
 https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(LNaSUMFNSGQs1YBnM8XhLQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGIQgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
@@ -281,10 +281,10 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", TV Um
-https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/chunklist_w2063415249.m3u8?ROGERIOTORRES
+https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist_w1955343572.m3u8?ROGERIOTORRES
+https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Urban TV Docs HD
 https://5ad482a77183d.streamlock.net/urbantvdocsgmail.com/urbantvdocsgmail.com/playlist.m3u8?ROGERIOTORRES
@@ -506,10 +506,10 @@ https://d1wwtskvr1r98k.cloudfront.net/3c9cf3a801dd4728a868f96f1ed032d2/index_1.m
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Mulher Bionica - TV Series
-https://stmv1.srvif.com/tvserie2/tvserie2/chunklist_w1556462638.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras - TV Series
-https://stmv1.srvif.com/tvserie/tvserie/chunklist_w173840741.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", AXN HD
 http://d31ii3fk8fd7mh.cloudfront.net/3b3c200d68af40e6aeac65f4d8782516/index_3.m3u8?ROGERIOTORRES
@@ -524,13 +524,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b800084986
 https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
-https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
-https://stmv1.srvif.com/tvserie4/tvserie4/chunklist_w1474334923.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cidade HD
-https://stmv1.srvstm.com/webradiocidade/webradiocidade/chunklist_w1407966166.m3u8?ROGERIOTORRES
+https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8?ROGERIOTORRES
@@ -557,16 +557,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV
-https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV 2
-https://stmv1.srvif.com/classiquetv1/classiquetv1/chunklist_w1215395784.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Classique Noir
-https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
-https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
@@ -575,7 +572,7 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
-http://video02.kshost.com.br/manoel2072/manoel2072/chunklist_w2101506280.m3u8?ROGERIOTORRES
+http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
@@ -596,19 +593,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca - TV Series
-https://stmv1.srvif.com/tvserie5/tvserie5/chunklist_w885482235.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Interior TV
-https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/chunklist_w1930307077.m3u8?ROGERIOTORRES
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jornada Nas Estrelas - TV Series
-https://stmv1.srvif.com/tvserie3/tvserie3/chunklist_w1440479755.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kuriakos Filmes
-http://c2.manasat.com:1935/kcine/kcine2/chunklist_w1643733230.m3u8?ROGERIOTORRES
+http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Londrina TV HD
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist_w1963860689.m3u8?ROGERIOTORRES
@@ -1285,7 +1282,7 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/chunklist_w1374978049.m3u8?ROGERIOTORRES
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/chunklist_w681654246.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Metrópole HD
-https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w2133373253.m3u8?ROGERIOTORRES
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV MOM HD
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?ROGERIOTORRES
