@@ -736,6 +736,9 @@ https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8
 #EXTINF:-1 group-title="GEEK", TV Gallo HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Ita News
+https://stmv1.samcast.com.br/ronaldo7151/ronaldo7151/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", TV KidMais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
 
