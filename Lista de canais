@@ -688,6 +688,9 @@ https://d1wwtskvr1r98k.cloudfront.net/2725d7761f9b462997b6ab804a13ee19/index.m3u
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", BR Super TV
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Canal 29 HD
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8?ROGERIOTORRES
 
