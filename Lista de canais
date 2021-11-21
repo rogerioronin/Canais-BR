@@ -595,9 +595,6 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca - TV Series
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Interior TV
-https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -1170,6 +1167,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb
 #EXTINF:-1 group-title="VARIEDADES", Giro TV News HD
 https://596639ebdd89b.streamlock.net/8096/8096/chunklist_w127416716.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Interior TV
+https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", ISTV HD
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTORRES
 
@@ -1244,6 +1244,9 @@ https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 
 #EXTINF:-1 group-title="VARIEDADES", TV 3 HD
 https://video01.logicahost.com.br/tv3tv/tv3tv/chunklist_w868710770.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV8 RO
+https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?ROGERIOTORRES
