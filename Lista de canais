@@ -116,22 +116,19 @@ https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", MultiRio HD
-http://187.111.97.45:1935/webtv/webtv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal² HD (PT) 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
 https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record (PT)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT)
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
@@ -158,10 +155,10 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGER
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://5a1c76baf08c0.streamlock.net/sbtinterior/N7W3PajeirMQEqDVqf3xKgk/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT (AM)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (AM)
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT (PI)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
@@ -179,10 +176,10 @@ https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8?ROGER
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Artes HD
 https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (MG)
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (MG)
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia (CE)
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (CE)
 http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
@@ -197,7 +194,7 @@ http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara HD (SP)
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
