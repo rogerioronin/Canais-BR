@@ -580,7 +580,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Online 1 HD
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD (off)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
@@ -601,7 +601,7 @@ http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Londrina TV HD
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Liberdade TV HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Liberdade TV HD (off)
 https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movies HD
@@ -633,9 +633,6 @@ https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Series HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Sony HD
-http://d31ii3fk8fd7mh.cloudfront.net/9fdb3c3ec36c48a1847cbd25e8e763c6/index_1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
