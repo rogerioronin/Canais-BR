@@ -1083,9 +1083,6 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="VARIEDADES", AWC Channel HD
 https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", BraziTV HD
-https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/chunks.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES", BRZ Brasi TV HD
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?ROGERIOTORRES
 
@@ -1155,7 +1152,7 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="VARIEDADES", FailArmy HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="VARIEDADES", Interior TV
+#EXTINF:-1 group-title="VARIEDADES", Interior TV (off)
 https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", ISTV HD
@@ -1188,7 +1185,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da37
 #EXTINF:-1 group-title="VARIEDADES", Nosey Escandalos HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="VARIEDADES", Nova Gazeta HD
+#EXTINF:-1 group-title="VARIEDADES", Nova Gazeta HD (off)
 http://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Novo Tempo HD
@@ -1248,7 +1245,7 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Cidade Canal 9 HD
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Cidade Tiradentes
+#EXTINF:-1 group-title="VARIEDADES", TV Cidade Tiradentes (off)
 https://novo.bitstreaming.info:1936/8284/8284/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Clube Web
@@ -1281,7 +1278,7 @@ https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Max HD
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Metrópole HD
+#EXTINF:-1 group-title="VARIEDADES", TV Metrópole HD (off)
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV MOM HD
@@ -1293,7 +1290,7 @@ https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Rio Madeira
+#EXTINF:-1 group-title="VARIEDADES", TV Rio Madeira (off)
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Vianney
