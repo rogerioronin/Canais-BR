@@ -535,6 +535,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Família HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Lite Classic HD
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -580,7 +583,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Online 1 HD
 https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD (off)
+#EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
@@ -601,7 +604,7 @@ http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Londrina TV HD
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Liberdade TV HD (off)
+#EXTINF:-1 group-title="FILMES E SÉRIES", Liberdade TV HD
 https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movies HD
