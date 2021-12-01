@@ -732,9 +732,6 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Natal
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV Pombal
 https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8?ROGERIOTORRES
 
