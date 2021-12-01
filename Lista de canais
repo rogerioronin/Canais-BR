@@ -688,9 +688,6 @@ https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="GEEK", BR Super TV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Canal 29 HD
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", Canal TV GO
 https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/playlist.m3u8?ROGERIOTORRES
 
