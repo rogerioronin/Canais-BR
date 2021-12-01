@@ -729,9 +729,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil HD
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 
