@@ -1383,14 +1383,14 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Band
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/224.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Band News
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/118.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Band Palmas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/299.m3u8
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", Band (RN)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/294.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Band (TO)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/299.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Band News
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/118.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Band Sports
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/119.m3u8
@@ -1575,47 +1575,53 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Globo
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/231.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Brasilia
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/3.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Florianopolis
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/5.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Minas
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/6.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Natal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/7.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Rede Amazonica
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/11.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Rio
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/13.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo Rio Grande Do Sul
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/12.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo RPC Curitiba
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/14.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo RPC Maringa
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/112.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo SP
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (SP)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/15.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo TV Anhanguera Goiania
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (RJ)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/13.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (DF)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/3.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (SC)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/5.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (MG)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/6.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (RN)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/7.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (AM)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/11.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (RS)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/12.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo² (PR)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/14.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (PR)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/112.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (GO)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/16.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo TV Bahia
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (BH)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/17.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo TV Liberal Belem
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (PA)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/18.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo TV Mirante
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo (MA)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/19.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo - Nordeste
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/75.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Globo - TV Anhanguera
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/303.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Globo News
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/232.m3u8
@@ -1719,6 +1725,9 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Polishop
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/272.m3u8
 
+#EXTINF:-1 group-title="DWIGHT FARROKH", Premiere Clubes
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/184.m3u8
+
 #EXTINF:-1 group-title="DWIGHT FARROKH", Premiere 2
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/179.m3u8
 
@@ -1737,46 +1746,46 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Premiere 7
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/237.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Premiere Clubes
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/184.m3u8
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", Prime Box Brazil
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/185.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record BAHIA 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/23.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record Brasilia 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/25.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record Goias 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/26.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record Manaus
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/22.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", RECORD MG
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/32.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record Minas 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/27.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record Para 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/30.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record Rio 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/31.m3u8
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record SP 
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/33.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Record TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/300.m3u8
 
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (SP)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/33.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (RJ) 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/31.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (BA) 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/23.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (DF) 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/25.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (GO) 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/26.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (AM)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/22.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (MG)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/32.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record² (MG) 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/27.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (PA) 
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/30.m3u8
+
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record (RN)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/298.m3u8
+
 #EXTINF:-1 group-title="DWIGHT FARROKH", Record News 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/28.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Record News TO
+#EXTINF:-1 group-title="DWIGHT FARROKH", Record News (TO)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/301.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Rede Genesis
@@ -1875,9 +1884,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Alepe
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/72.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", TV Anhanguera - GLOBO
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/303.m3u8
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Arapuan
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/98.m3u8
 
@@ -1908,9 +1914,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Evangelizar
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/91.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", TV Globo (NE)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/75.m3u8
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Guararapes
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/73.m3u8
 
@@ -1923,7 +1926,7 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Jornal
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/76.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", TV Miramar (PB)
+#EXTINF:-1 group-title="DWIGHT FARROKH", TV Miramar
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/102.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Mundial
@@ -1956,16 +1959,13 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Tribuna
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/77.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", TV Tropical - Record TV
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/298.m3u8
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV UFPB TV
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/104.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV União
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/92.m3u8
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", TV Verde Mares (CE)
+#EXTINF:-1 group-title="DWIGHT FARROKH", TV Verde Mares
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/306.m3u8
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", TV Verde Vale
@@ -1993,3 +1993,4 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS 
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY;name=DWIGHT FARROKH LISTAS GRATIS;&amp;buffer=60000;url=http://45.224.115.214:80/live/damaris/123456/244.m3u8
 
 
+AGRADEÇO AO "DWIGHT FARROKH" POR ESTA MARAVILHOSA LISTA "https://pasteall.org/DyMd/raw?fbclid=IwAR3uJU1myRUsYJoBqANF1YIwjw2-ri21T4JDH44791cIQwgXPxCLiqlaBZM" (endereço original).
