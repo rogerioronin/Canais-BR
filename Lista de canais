@@ -54,6 +54,9 @@ https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", AZTV (ESP)
 https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime (ENG)
+https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Locomotion (ESP)
 http://51.222.85.85:81/hls/loco/index.m3u8?ROGERIOTORRES
 
