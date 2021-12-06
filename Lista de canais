@@ -402,6 +402,9 @@ https://introuble-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", MMA Junkie HD (ENG)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", MMA TV HD (ENG)
+https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Motorvision HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
 
