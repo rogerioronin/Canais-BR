@@ -110,7 +110,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (PR)
 http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
@@ -918,6 +918,9 @@ http://origin-02.nxplay.com.br/classichit/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV HD
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", ColdPlay HD
+https://play-akamai.pongalo.com/coldplay-glastonbury/coldplay-glastonbury_1-1/hls_2500.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
