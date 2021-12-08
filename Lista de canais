@@ -1396,14 +1396,8 @@ plugin://plugin.video.youtube/play/?video_id=8DyvZAm_73E
 # Estes canais só funcionam no KODI 18.9, isso porque ele depende do plugin "f4mTester" para o KODI instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Jovem Pan News HD
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=https://panflix.cdn.upx.com/out/v1/8db04b5b75d24204a65faeb43fc7e6a0/index_6.m3u8?DWIGHT FARROKH LISTAS GRATIS|Origin=https://jovempan.com.br|Referer=https://jovempan.com.br
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/113.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Agro Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/263.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Agro Canal
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/264.m3u8?DWIGHT FARROKH LISTAS GRATIS
