@@ -72,9 +72,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
-https://stream-04.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm496lSYS6Iq-3W4es4ZwCbUs)/dm/3/x83vbd6/s/live-3.m3u8#cell=lnyc
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band² HD
 https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
