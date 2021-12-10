@@ -8,6 +8,9 @@ Manter a lista atualizada sempre que possível.
 
 **CANAIS "YOUTUBE KODI":** Estes canais só funcionam no KODI (**https://kodi.tv/download/**), para funcionar o KODI tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "**IPTV Simple / PVR**" que é onde você deve colocar a "**Lista de canais**" com o endereço "**https://raw.githubusercontent.com/rogerioronin/Canais-BR/main/Lista%20de%20canais**" devidamente configurado.
 
+**ENDEREÇO ENCURTADO**:
+**https://bityli.com/9qKHYr
+**
 **IMPORTANTE**:
 Os endereços disponíveis neste projeto, são pesquisados na internet, de modo geral evito ao máximo usar endereços que possam dar problema, no entanto se o endereço lhe pertencer e você sentir lesado, mande uma mensagem para que eu possa remover.
 
