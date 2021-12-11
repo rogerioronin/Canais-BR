@@ -728,6 +728,9 @@ https://stmv2.voxtvhd.com.br/alagonet/alagonet/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV CEI
 https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Channel Network
+https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", TV Classicos
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist.m3u8?ROGERIOTORRES
 
