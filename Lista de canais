@@ -713,6 +713,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Rede Clone TV HD
 https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Rede Que Demais
+https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
 
