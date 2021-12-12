@@ -527,9 +527,6 @@ https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
 https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cidade HD [erro]
-https://stmv1.srvstm.com/webradiocidade/webradiocidade/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8?ROGERIOTORRES
 
@@ -569,7 +566,7 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Colina TV [erro]
+#EXTINF:-1 group-title="FILMES E SÉRIES", Colina TV
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
