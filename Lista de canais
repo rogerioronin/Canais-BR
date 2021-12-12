@@ -358,7 +358,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?RO
 #EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", FreeSports HD (ENG) [erro]
+#EXTINF:-1 group-title="ESPORTES", FreeSports HD (ENG)
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fuel TV HD
@@ -369,9 +369,6 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Horizon Sports HD (ENG) [erro]
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/high/c.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Insight TV HD (ENG)
 https://insight-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
