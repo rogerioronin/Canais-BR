@@ -1334,12 +1334,8 @@ plugin://plugin.video.youtube/play/?video_id=8DyvZAm_73E
 ################################################
 # Estes canais só funcionam no KODI 18.9, isso porque ele depende do plugin "f4mTester" para o KODI instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", A&E
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/113.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Agro Canal
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/264.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", AMC
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/223.m3u8?DWIGHT FARROKH LISTAS GRATIS
@@ -1362,9 +1358,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.2
 #EXTINF:-1 group-title="DWIGHT FARROKH", Band (RN)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/294.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Band (TO)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/299.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", Band News
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/118.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
@@ -1386,12 +1379,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.2
 #EXTINF:-1 group-title="DWIGHT FARROKH", Canal Do Boi
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/266.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Canal Rural
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/268.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Canal Saude
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/284.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", Canal Sony
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/123.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
@@ -1400,9 +1387,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.2
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Cartoon Network
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/124.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
-#EXTINF:-1 group-title="DWIGHT FARROKH", Cine Brasil
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/269.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Cine SKY 01
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/48.m3u8?DWIGHT FARROKH LISTAS GRATIS
@@ -1491,9 +1475,6 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.2
 #EXTINF:-1 group-title="DWIGHT FARROKH", E!
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/141.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Educação
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/285.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", ESPN
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/142.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
@@ -1575,11 +1556,8 @@ plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.2
 #EXTINF:-1 group-title="DWIGHT FARROKH", Globo (RS)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/12.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
-#EXTINF:-1 group-title="DWIGHT FARROKH", Globo² (PR)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/14.m3u8?DWIGHT FARROKH LISTAS GRATIS
-
 #EXTINF:-1 group-title="DWIGHT FARROKH", Globo (PR)
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/112.m3u8?DWIGHT FARROKH LISTAS GRATIS
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/14.m3u8?DWIGHT FARROKH LISTAS GRATIS
 
 #EXTINF:-1 group-title="DWIGHT FARROKH", Globo (GO)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:80/live/damaris/123456/16.m3u8?DWIGHT FARROKH LISTAS GRATIS
