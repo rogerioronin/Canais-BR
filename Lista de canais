@@ -450,9 +450,6 @@ http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1² HD
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Chef TV HD [erro]
-http://canaishd.servidor.tv:8080/michel12/12michel/53519
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
  
