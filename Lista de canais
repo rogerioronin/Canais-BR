@@ -260,9 +260,6 @@ https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Travel Box Brazil HD
 http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", TV Um [erro]
-https://59f2354c05961.streamlock.net:1443/tvumdigital/_definst_/tvumdigital/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
 
