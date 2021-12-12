@@ -214,8 +214,6 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 ###### DOCUMENTARIOS = 24 Canais #############
 ##############################################
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Assim é Portugal [erro]
-https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Ghost TV
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
