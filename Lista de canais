@@ -641,17 +641,14 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", SBC TV [erro]
-https://srv6.zcast.com.br/sbctv/sbctv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Series HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Tela Viva TV HD [erro]
-https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Tela Viva TV HD
+https://srv6.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?ROGERIOTORRES
@@ -935,7 +932,7 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", FURG TV HD [erro]
+#EXTINF:-1 group-title="MUSICAS", FURG TV HD
 http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
@@ -1090,7 +1087,7 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 group-title="VARIEDADES", BS TV HD
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 10 [erro]
+#EXTINF:-1 group-title="VARIEDADES", Canal 10
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 25 HD
