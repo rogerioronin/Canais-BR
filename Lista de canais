@@ -16,9 +16,6 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO", Agro Mais
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Canal da Pecuária [off]
-https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="AGRO", Canal do Boi
 http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
 
