@@ -458,8 +458,8 @@ http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3
 #EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1² HD
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Chef TV HD
-http://canaishd.servidor.tv:8080/michel12/12michel/53519 [erro]
+#EXTINF:-1 group-title="ESTILO DE VIDA", Chef TV HD [erro]
+http://canaishd.servidor.tv:8080/michel12/12michel/53519
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da0007421177/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -473,8 +473,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294
 #EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD
 https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Life Channel HD [erro]
-https://hls.brasilstream.com.br/live/lifechannel/lifechannel/tracks-v1a1/mono.m3u8?token=4365564105550557000
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Loupe Arte + Musica HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600b248969c6580007e91a2d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
