@@ -1298,6 +1298,12 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ######################################
 # Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
+#EXTINF:-1 group-title="YOUTUBE KODI", Antiks Brasil HD
+plugin://plugin.video.youtube/play/?video_id=fs7buNFJMJ0
+
+#EXTINF:-1 group-title="YOUTUBE KODI", Baby Alive HD
+plugin://plugin.video.youtube/play/?video_id=9Yt-MDzIaf0
+
 #EXTINF:-1 group-title="YOUTUBE KODI", Bob Esponja HD
 plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs
 
