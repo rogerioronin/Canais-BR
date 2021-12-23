@@ -104,7 +104,7 @@ http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD [off]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
@@ -119,7 +119,7 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&reb
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT) [off]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT)
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
@@ -179,7 +179,7 @@ https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
 https://www.dailymotion.com/video/x82pp99
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD [off]
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
@@ -660,7 +660,7 @@ https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.c
 #EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Web TV Classicos Do Cinema
+#EXTINF:-1 group-title="FILMES E SÉRIES", Web TV Classicos Do Cinema HD
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
 
 
