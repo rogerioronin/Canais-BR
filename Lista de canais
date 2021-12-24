@@ -447,10 +447,8 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 ###### ESTILO DE VIDA = 16 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
-http://d1wwtskvr1r98k.cloudfront.net/522752a704da4d93b18eeb077042ccff/index_1.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1² HD
+#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
@@ -814,6 +812,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f5fabf0721880007cd50
 
 #EXTINF:-1 group-title="INFANTIL", O Reino Infantil HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="INFANTIL", PBS Kids HD (ENG)
+https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
