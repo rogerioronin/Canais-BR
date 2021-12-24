@@ -361,7 +361,7 @@ https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?RO
 #EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", FreeSports HD (ENG)
+#EXTINF:-1 group-title="ESPORTES", FreeSports HD (ENG) [off]
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fuel TV HD
@@ -394,7 +394,7 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3
 #EXTINF:-1 group-title="ESPORTES", Oman Sport HD (ARA)
 https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Poker TV HD (ENG)
+#EXTINF:-1 group-title="ESPORTES", Poker TV HD (ENG) [off]
 http://51.210.199.17/hls/stream.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Red Bull TV HD (ENG)
@@ -874,6 +874,9 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Record News² HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="JORNALISMO", Record New³ HD
+http://solutionplay.xyz:8080/techruthes/10987658/6104
+
 #EXTINF:-1 group-title="JORNALISMO", Record News (ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
 
@@ -959,6 +962,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbb
 
 #EXTINF:-1 group-title="MUSICAS", MTV Live HD
 http://origin-02.nxplay.com.br/MTVLIVE/video.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", MTV Mistle YO! HD
+http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4dalivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
