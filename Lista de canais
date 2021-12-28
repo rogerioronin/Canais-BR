@@ -1320,6 +1320,9 @@ plugin://plugin.video.youtube/play/?video_id=fs7buNFJMJ0
 #EXTINF:-1 group-title="YOUTUBE KODI", Baby Alive HD
 plugin://plugin.video.youtube/play/?video_id=9Yt-MDzIaf0
 
+#EXTINF:-1 group-title="YOUTUBE KODI", BM&C News HD
+plugin://plugin.video.youtube/play/?video_id=LmEh4yDhkkI
+
 #EXTINF:-1 group-title="YOUTUBE KODI", Bob Esponja HD
 plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs
 
