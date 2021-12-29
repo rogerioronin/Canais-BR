@@ -1021,6 +1021,36 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e06
 #EXTINF:-1 group-title="MUSICAS", Spirit TV HD
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", Stingray Greatest Hits HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Hit List HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Classic Rock HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Rock Alternative HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Pop Adult HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Urban Beat HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Hot Country HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Flashback 70s HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Everything 80s HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Stingray Today's Latin Pop HD
+https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
 
