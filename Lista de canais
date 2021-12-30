@@ -1200,6 +1200,9 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Murilo TV
+https://stmv1.samcast.com.br/murilotv/murilotv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Nosey Casos HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da3779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
