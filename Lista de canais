@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV² [erro]
 https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV³
@@ -49,7 +49,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV
-https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8?ROGERIOTORRES
+https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -104,7 +104,7 @@ http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD [erro]
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
@@ -158,7 +158,7 @@ https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGER
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT) [erro]
 http://live.impresa.pt/live/sicint/sicint.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Aberta HD
@@ -179,7 +179,7 @@ https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
 https://www.dailymotion.com/video/x82pp99
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD [erro]
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
@@ -263,7 +263,7 @@ https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Travel Box Brazil HD
+#EXTINF:-1 group-title="DOCUMENTARIOS", Travel Box Brazil HD [erro]
 http://origin-02.nxplay.com.br/TRAVEL_HD/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews
@@ -313,7 +313,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP)
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", BMTV HD
+#EXTINF:-1 group-title="ESPORTES", BMTV HD [erro]
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Boxing HD (ENG)
@@ -439,7 +439,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Viasat Sport HD (ENG)
+#EXTINF:-1 group-title="ESPORTES", Viasat Sport HD (ENG) [erro]
 http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 
 
@@ -448,7 +448,7 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 ##############################################
 
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
+#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD [erro]
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
