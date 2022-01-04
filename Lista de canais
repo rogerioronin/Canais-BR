@@ -628,7 +628,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b93
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Tela Viva TV HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Tela Viva TV HD [erro]
 https://srv6.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Telecine Action
@@ -639,9 +639,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d1
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Top TV Sul
 https://srv2.zcast.com.br/tvtopsul/tvtopsul/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", TV Encauca
-https://srv1.paineldevideo.com/encaucafm/encaucafm/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TVJN Filmes
 https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?ROGERIOTORRES
@@ -721,10 +718,10 @@ https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist.m3u8?ROG
 #EXTINF:-1 group-title="GEEK", TV Encauca
 https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Gallo HD
+#EXTINF:-1 group-title="GEEK", TV Gallo HD [erro]
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Ita News
+#EXTINF:-1 group-title="GEEK", TV Ita News [erro]
 https://stmv1.samcast.com.br/ronaldo7151/ronaldo7151/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV KidMais
@@ -739,7 +736,7 @@ https://video01.kshost.com.br:4443/alexandre8394/alexandre8394/chunklist.m3u8?RO
 #EXTINF:-1 group-title="GEEK", TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Pombal
+#EXTINF:-1 group-title="GEEK", TV Pombal [erro]
 https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Potengi
@@ -839,7 +836,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 ###### JORNALISMO = 20 Canais ########
 ######################################
 
-#EXTINF:-1 group-title="JORNALISMO", Band News HD
+#EXTINF:-1 group-title="JORNALISMO", Band News HD [erro]
 https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
@@ -916,7 +913,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", America Latino HD
+#EXTINF:-1 group-title="MUSICAS", America Latino HD [erro]
 http://origin-02.nxplay.com.br/AMERICOLATINO/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
@@ -937,7 +934,7 @@ http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", H!tts HD
+#EXTINF:-1 group-title="MUSICAS", H!tts HD [erro]
 http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Italianissimo HD
@@ -958,13 +955,13 @@ https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", M2O HD
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Mega HD
+#EXTINF:-1 group-title="MUSICAS", Mega HD [erro]
 http://origin-02.nxplay.com.br/MEGA/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2ff/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="MUSICAS", MTV Live HD
+#EXTINF:-1 group-title="MUSICAS", MTV Live HD [erro]
 http://origin-02.nxplay.com.br/MTVLIVE/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Mistle YO! HD
@@ -973,7 +970,7 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8?
 #EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4dalivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="MUSICAS", Music Box Brazil HD
+#EXTINF:-1 group-title="MUSICAS", Music Box Brazil HD [erro]
 https://origin-02.nxplay.com.br/MUSIC_HD/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Music Top
