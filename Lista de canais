@@ -448,7 +448,7 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 ##############################################
 
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD [erro]
+#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
@@ -624,9 +624,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b93
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Tela Viva TV HD [erro]
-https://srv6.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Telecine Action
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?ROGERIOTORRES
