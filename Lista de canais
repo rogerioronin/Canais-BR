@@ -824,9 +824,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 ###### JORNALISMO = 20 Canais ########
 ######################################
 
-#EXTINF:-1 group-title="JORNALISMO", Band News HD [erro]
-https://evpp.mm.uol.com.br/geob_band/bandnewstv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
