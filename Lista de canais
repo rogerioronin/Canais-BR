@@ -1402,3 +1402,9 @@ plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
 plugin://plugin.video.youtube/play/?video_id=8DyvZAm_73E
+
+#EXTINF:-1 group-title="YOUTUBE KODI", Marisol
+plugin://plugin.video.youtube/play/?video_id=kBkSQ2mkRW0?rel=0&modestbranding=1&enablejsapi=1&showinfo=0&autoplay=0&controls=0&mute=0&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%2300FF00%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBTVideos%2FMarisol%2Fvideo%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%2C%22cust_params%22%3A%22%22%2C%22pmnd%22%3A5000%2C%22pmxd%22%3A15000%2C%22pmad%22%3A2%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbtvideos.com.br&widgetid=1
+
+#EXTINF:-1 group-title="YOUTUBE KODI", Marisol 2
+plugin://plugin.video.youtube/play/?video_id=kBkSQ2mkRW0
