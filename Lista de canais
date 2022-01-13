@@ -119,6 +119,9 @@ https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&reb
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT)
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?ROGERIOTORRES
 
