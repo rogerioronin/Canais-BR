@@ -373,6 +373,9 @@ https://fueltv-fueltv-9-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Horizon Sports HD (ENG)
+https://horizonsports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d095934e486f077c20b4_horizonsports-live-1/c.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Insight TV HD (ENG)
 https://insight-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
