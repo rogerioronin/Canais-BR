@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV² [erro]
 https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV³
@@ -68,7 +68,7 @@ https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP) [erro]
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Parlamento HD (PT)
@@ -77,7 +77,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOT
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP) [erro]
 http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
@@ -104,7 +104,7 @@ http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD [erro]
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
@@ -155,7 +155,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR) [erro]
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
@@ -182,7 +182,7 @@ https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
 https://www.dailymotion.com/video/x82pp99
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD [erro]
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
@@ -239,10 +239,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K (ESP)
 http://177.20.208.58:8000/play/a03r/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ENG)
+#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ENG/ESP)
 http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K (ENG)
+#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 4K (ENG/ESP)
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Minha Estranha Obsessão HD
@@ -343,9 +343,6 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 group-title="ESPORTES", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", EDGEsport² (ENG)
-https://img-edgesport.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESPORTES", Eleven Sports HD (ENG)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
@@ -409,7 +406,7 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 group-title="ESPORTES", Sharjah Sports HD (ARA)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Sport 1 (ucr)
+#EXTINF:-1 group-title="ESPORTES", Sport 1 (UCR)
 https://95-213-224-183.livesports24.online/sport1ua.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Sport Russia (RUS)
@@ -442,7 +439,7 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Viasat Sport HD (ENG)
+#EXTINF:-1 group-title="ESPORTES", Viasat Sport HD (ENG) [erro]
 http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 
 
@@ -450,8 +447,7 @@ http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
 ###### ESTILO DE VIDA = 16 Canais ############
 ##############################################
 
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
+#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD [erro]
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
@@ -490,7 +486,7 @@ https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Weather Spy HD
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", World Fashion Channel
+#EXTINF:-1 group-title="ESTILO DE VIDA", World Fashion Channel HD
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 
 
@@ -562,7 +558,7 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Colina TV
+#EXTINF:-1 group-title="FILMES E SÉRIES", Colina TV [erro]
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
@@ -574,7 +570,7 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD [erro]
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
@@ -585,9 +581,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c094
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", GLN TV HD
-https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
@@ -682,8 +675,11 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGE
 #EXTINF:-1 group-title="GEEK", BR Super TV²
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", #EXTINF:1, Fandom TV HD
+#EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", GLN TV HD
+https://srv2.zcast.com.br/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Imperial TV HD
 https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8?ROGERIOTORRES
@@ -694,7 +690,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Nova Gazeta HD
+#EXTINF:-1 group-title="GEEK", Nova Gazeta HD [erro]
 http://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Q Tal Channel
@@ -727,6 +723,9 @@ https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?R
 #EXTINF:-1 group-title="GEEK", TV Classicos
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Clube Web
+https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", TV Encauca
 https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8?ROGERIOTORRES
 
@@ -739,7 +738,7 @@ https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil HD
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Manchete Web 2
+#EXTINF:-1 group-title="GEEK", TV Manchete Web 2 [erro]
 https://video01.kshost.com.br:4443/alexandre8394/alexandre8394/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Max 90
@@ -748,7 +747,7 @@ https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Potengi
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Recreio HD
+#EXTINF:-1 group-title="GEEK", TV Recreio HD [erro]
 https://video01.logicahost.com.br/tvrecreio/tvrecreio/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Revista
@@ -757,7 +756,7 @@ https://stmv1.srvif.com/tvrevista/tvrevista/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist.m3u?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Vale Das Artes
+#EXTINF:-1 group-title="GEEK", TV Vale Das Artes [erro]
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Urban TV Kids HD
@@ -916,7 +915,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", America Latino HD
+#EXTINF:-1 group-title="MUSICAS", America Latino HD [erro]
 http://origin-02.nxplay.com.br/AMERICOLATINO/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV HD
@@ -925,7 +924,7 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Classic Hits HD
+#EXTINF:-1 group-title="MUSICAS", Classic Hits HD [erro]
 http://origin-02.nxplay.com.br/classichit/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV HD
@@ -940,7 +939,7 @@ http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", H!tts HD
+#EXTINF:-1 group-title="MUSICAS", H!tts HD [erro]
 http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Italianissimo HD
@@ -961,7 +960,7 @@ https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", M2O HD
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Mega HD
+#EXTINF:-1 group-title="MUSICAS", Mega HD [erro]
 http://origin-02.nxplay.com.br/MEGA/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
@@ -1009,7 +1008,7 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Radio Capital
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Radio Mix Cidade HD
+#EXTINF:-1 group-title="MUSICAS", Radio Mix Cidade HD [erro]
 https://stmv1.srvstm.com/gustavocampelo/gustavocampelo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Rede RC
@@ -1066,9 +1065,6 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m
 #EXTINF:-1 group-title="MUSICAS", Top TV
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", TV A Folha
-https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
 
@@ -1090,16 +1086,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007f
 #EXTINF:-1 group-title="MUSICAS", Vevo Country HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="MUSICAS", Vevo Pop HD
+#EXTINF:-1 group-title="MUSICAS", Vevo POP HD [erro]
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 group-title="MUSICAS", VH1 I Love Reality
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0fb8790-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9c8bf79-8759-4e47-a808-d6b5e45f63a8&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="MUSICAS", Web TV Music
 https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Zapping Music HD
+#EXTINF:-1 group-title="MUSICAS", Zapping Music HD [erro]
 https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 
 
@@ -1107,7 +1100,7 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 ###### RELIGIOSO = 76 Canais ################
 ##############################################
 
-#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD
+#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD [erro]
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8
 
 
@@ -1133,7 +1126,7 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="VARIEDADES", Canal 10
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 25 HD
+#EXTINF:-1 group-title="VARIEDADES", Canal 25 HD [erro]
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 38 News Vale Notícias HD
@@ -1145,7 +1138,7 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Canal Smart
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal TV Rio
+#EXTINF:-1 group-title="VARIEDADES", Canal TV Rio [erro]
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Central TV
@@ -1199,7 +1192,7 @@ https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGER
 #EXTINF:-1 group-title="VARIEDADES", ISTV HD
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Latina Sat HD
+#EXTINF:-1 group-title="VARIEDADES", Latina Sat HD [erro]
 https://stmv1.srvstm.com/joaomatheus8496/joaomatheus8496/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Master Show TV HD
@@ -1219,9 +1212,6 @@ https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u
 
 #EXTINF:-1 group-title="VARIEDADES", Murilo TV
 https://stmv1.samcast.com.br/murilotv/murilotv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", Nosey Casos HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b096236af340008da3779/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="VARIEDADES", Nosey Escandalos HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -1271,6 +1261,9 @@ https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV8 RO
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", TV A Folha
+https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", TV Aracati
 https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
@@ -1286,11 +1279,8 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Cidade Canal 9 HD
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Cidade Tiradentes
+#EXTINF:-1 group-title="VARIEDADES", TV Cidade Tiradentes [erro]
 https://novo.bitstreaming.info:1936/8284/8284/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", TV Clube Web [FILME]
-https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Com Brasil HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8?ROGERIOTORRES
@@ -1331,7 +1321,7 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS
+#EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS [erro]
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Rio Madeira
@@ -1343,9 +1333,6 @@ https://cdn.jmvstream.com/w/AVJ-10557/playlist/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Vianney
 https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Video News
-https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES", Urban TV HD
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8?ROGERIOTORRES
 
@@ -1355,7 +1342,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecb
 #EXTINF:-1 group-title="VARIEDADES", Web TV Progresso
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Woohoo HD
+#EXTINF:-1 group-title="VARIEDADES", Woohoo HD [erro]
 https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
@@ -1423,9 +1410,3 @@ plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
 plugin://plugin.video.youtube/play/?video_id=8DyvZAm_73E
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Marisol
-plugin://plugin.video.youtube/play/?video_id=kBkSQ2mkRW0?rel=0&modestbranding=1&enablejsapi=1&showinfo=0&autoplay=0&controls=0&mute=0&embed_config=%7B%22autonavRelatedVideos%22%3Afalse%2C%22disableRelatedVideos%22%3Atrue%2C%22hideInfoBar%22%3Atrue%2C%22primaryThemeColor%22%3A%22%2300FF00%22%2C%22relatedChannels%22%3A%5B%5D%2C%22relatedVideos%22%3A%5B%5D%2C%22adsConfig%22%3A%7B%22adTagParameters%22%3A%7B%22iu%22%3A%22%2F1011235%2FSBTVideos%2FMarisol%2Fvideo%22%2C%22ppid%22%3A%22%22%2C%22pp%22%3A%22%22%2C%22cust_params%22%3A%22%22%2C%22pmnd%22%3A5000%2C%22pmxd%22%3A15000%2C%22pmad%22%3A2%7D%2C%22disableAds%22%3Afalse%2C%22nonPersonalizedAd%22%3Afalse%7D%7D&origin=https%3A%2F%2Fwww.sbtvideos.com.br&widgetid=1
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Marisol 2
-plugin://plugin.video.youtube/play/?video_id=kBkSQ2mkRW0
