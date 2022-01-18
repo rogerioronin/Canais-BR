@@ -406,6 +406,9 @@ https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjY
 #EXTINF:-1 group-title="ESPORTES", Sharjah Sports HD (ARA)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Spartan TV HD (ENG)
+https://spartantv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_618c22cb691f690b620235d2_spartantv-live-1/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Sport 1 (UCR)
 https://95-213-224-183.livesports24.online/sport1ua.m3u8?ROGERIOTORRES
 
