@@ -921,7 +921,7 @@ https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", America Latino HD [erro]
+#EXTINF:-1 group-title="MUSICAS", America Latino HD
 http://origin-02.nxplay.com.br/AMERICOLATINO/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV HD
@@ -930,7 +930,7 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Classic Hits HD [erro]
+#EXTINF:-1 group-title="MUSICAS", Classic Hits HD
 http://origin-02.nxplay.com.br/classichit/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV HD
@@ -945,7 +945,7 @@ http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", H!tts HD [erro]
+#EXTINF:-1 group-title="MUSICAS", H!tts HD
 http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Italianissimo HD
@@ -966,7 +966,7 @@ https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", M2O HD
 https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Mega HD [erro]
+#EXTINF:-1 group-title="MUSICAS", Mega HD
 http://origin-02.nxplay.com.br/MEGA/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
@@ -1013,9 +1013,6 @@ https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Radio Capital
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Radio Mix Cidade HD [erro]
-https://stmv1.srvstm.com/gustavocampelo/gustavocampelo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Rede RC
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8?ROGERIOTORRES
