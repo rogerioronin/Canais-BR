@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV² [erro]
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
 https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV³
@@ -68,7 +68,7 @@ https://evpp.mm.uol.com.br/geob_band/band/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Parlamento HD (PT)
@@ -77,7 +77,7 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOT
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP)
 http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
@@ -104,7 +104,7 @@ http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
@@ -155,7 +155,7 @@ https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
@@ -182,7 +182,7 @@ https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
 https://www.dailymotion.com/video/x82pp99
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
@@ -202,6 +202,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta - TVC HD
+https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo HD
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
@@ -448,15 +451,12 @@ https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Viasat Sport HD (ENG) [erro]
-http://persik.by/stream/2944/263250/10249.m3u8?ROGERIOTORRES
-
 
 ##############################################
 ###### ESTILO DE VIDA = 16 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD [erro]
+#EXTINF:-1 group-title="ESTILO DE VIDA", Arte 1 HD
 http://origin-02.nxplay.com.br/ARTE1_NX/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
@@ -567,7 +567,7 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Colina TV [erro]
+#EXTINF:-1 group-title="FILMES E SÉRIES", Colina TV
 https://srv1.zcast.com.br/paulohenrique7705/paulohenrique7705/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
@@ -579,7 +579,7 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD [erro]
+#EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD
 http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
@@ -702,8 +702,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Nova Gazeta HD [erro]
-http://video02.kshost.com.br/sueli3485/sueli3485/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Nova Gazeta HD
+https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Q Tal Channel
 https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8?ROGERIOTORRES
