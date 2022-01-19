@@ -762,9 +762,6 @@ https://stmv1.srvif.com/tvrevista/tvrevista/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist.m3u?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Vale Das Artes [erro]
-https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", Urban TV Kids HD
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
 
