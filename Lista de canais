@@ -3,16 +3,6 @@
 #EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SEX PRIVÉ)
 https://origin-02.nxplay.com.br/SEXPRIVE_HD/playlist.m3u8
 
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (ELEVEN 1)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (ELEVEN 2)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CHAVES 24h)
-https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
-
 #EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CHAPOLIN 24h)
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
 
@@ -368,6 +358,12 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Eleven Sports HD (ENG)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Eleven Sports 1 HD (ENG)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 group-title="ESPORTES", Eleven Sports 2 HD (ENG)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
 #EXTINF:-1 group-title="ESPORTES", ESPN 2
 https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/playlist.m3u8?ROGERIOTORRES
 
@@ -555,6 +551,9 @@ https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horast
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Chaves - 24h
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
 https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
