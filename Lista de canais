@@ -1,7 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CNN Brasil)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
 
 #EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SEX PRIVÉ)
 https://origin-02.nxplay.com.br/SEXPRIVE_HD/playlist.m3u8
@@ -894,6 +893,12 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", CNN Brasil² HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
+#EXTINF:-1 group-title="JORNALISMO", CNN Portugal HD
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CNN International HD (ENG)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
