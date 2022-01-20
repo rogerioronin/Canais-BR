@@ -352,6 +352,9 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Eleven Sports HD (ENG)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", ESPN 2
+https://transcoder-itatiba-01.nxplay.com.br/ESPN_INT/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
