@@ -1,5 +1,38 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CNN Brasil)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCvdwhh_fDyWccR42-rReZLw/live
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SEX PRIVÉ)
+https://origin-02.nxplay.com.br/SEXPRIVE_HD/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CNN PORTUGAL)
+https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (Euronews)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (Fox Sports Sur)
+https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SportTV PT 2)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SportTV PT 3)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (ELEVEN 1)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (ELEVEN 2)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CHAVES 24h)
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
+
+#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CHAPOLIN 24h)
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8
+
 ##############################################
 ########### AGRO = 10 Canais #################
 ##############################################
