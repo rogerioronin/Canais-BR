@@ -1,24 +1,8 @@
 #EXTM3U
 
-
-
 #EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SEX PRIVÉ)
 https://origin-02.nxplay.com.br/SEXPRIVE_HD/playlist.m3u8
 
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (CNN PORTUGAL)
-https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (Euronews)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (Fox Sports Sur)
-https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SportTV PT 2)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
-
-#EXTINF:-1 group-title="CANAIS EM TESTE", Teste (SportTV PT 3)
-https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1 group-title="CANAIS EM TESTE", Teste (ELEVEN 1)
 https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$Eleven_Sports_1_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
@@ -400,6 +384,9 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
 http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ESP)
+https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Fox Sports² HD (ESP)
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
@@ -455,6 +442,12 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTO
 
 #EXTINF:-1 group-title="ESPORTES", Spartan TV HD (ENG)
 https://spartantv-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_618c22cb691f690b620235d2_spartantv-live-1/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", SportTV 2 (PT)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV2_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
+
+#EXTINF:-1 group-title="ESPORTES", SportTV 3 (PT)
+https://da-d50d173c.online.meo.pt/wp/cdn-vspp-pcs1.online.meo.pt/shls/LIVE$SPORTTV3_HD/index.m3u8?device=IOS_Live&start=2021-12-03T23:19:00&end=END
 
 #EXTINF:-1 group-title="ESPORTES", Sport 1 (UCR)
 https://95-213-224-183.livesports24.online/sport1ua.m3u8?ROGERIOTORRES
@@ -908,6 +901,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c
 
 #EXTINF:-1 group-title="JORNALISMO", Euronews² HD (PT)
 https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Euronews³ HD (PT)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 
 #EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
 http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
