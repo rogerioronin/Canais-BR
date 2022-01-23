@@ -720,7 +720,7 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGE
 #EXTINF:-1 group-title="GEEK", BR Super TV²
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Chaves - 24h
+#EXTINF:-1 group-title="GEEK", Chaves - 24h
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
