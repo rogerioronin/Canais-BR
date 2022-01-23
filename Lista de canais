@@ -801,6 +801,9 @@ https://stmv.video.expressolider.com.br/tvsingularhd/tvsingularhd/chunklist.m3u8
 #EXTINF:-1 group-title="GEEK", TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist.m3u?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Tokyo²
+https://alanza.iptv2022.com/TV_TOKYO/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Urban TV Kids HD
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
 
@@ -812,6 +815,9 @@ https://stmv6.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Web TV Cine HD
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Web TV Cine² HD
+https://alanza.iptv2022.com/WEB_tv_Cine/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Web TV Xtreme
 https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8?ROGERIOTORRES
@@ -1317,6 +1323,9 @@ https://video01.logicahost.com.br/tv3tv/tv3tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV8 RO
 https://stmv3.samcast.com.br/jose8272/jose8272/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV A7 Caldas Novas
+https://alanza.iptv2022.com/TV_A7/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV A Folha
 https://video02.kshost.com.br/elton3601/elton3601/playlist.m3u8?ROGERIOTORRES
