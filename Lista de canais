@@ -546,9 +546,6 @@ https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horast
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Chaves - 24h
-https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
 https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
 
@@ -714,6 +711,9 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGE
 #EXTINF:-1 group-title="GEEK", BR Super TV²
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Chaves - 24h
+https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
@@ -785,6 +785,9 @@ https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Revista
 https://stmv1.srvif.com/tvrevista/tvrevista/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", TV Singular HD
+https://stmv.video.expressolider.com.br/tvsingularhd/tvsingularhd/chunklist.m3u8
 
 #EXTINF:-1 group-title="GEEK", TV Tokyo
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist.m3u?ROGERIOTORRES
