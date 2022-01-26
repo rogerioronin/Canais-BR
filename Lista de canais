@@ -839,6 +839,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4
 #EXTINF:-1 group-title="INFANTIL", Babyfirst HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="INFANTIL", Cartoon Network Brasil HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hpXd-M9ZDCE
+
 #EXTINF:-1 group-title="INFANTIL", Chroma TV HD
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
@@ -1431,9 +1434,6 @@ plugin://plugin.video.youtube/play/?video_id=LmEh4yDhkkI
 
 #EXTINF:-1 group-title="YOUTUBE KODI", Bob Esponja HD
 plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Cartoon Network Brasil HD
-plugin://plugin.video.youtube/play/?video_id=hpXd-M9ZDCE
 
 #EXTINF:-1 group-title="YOUTUBE KODI", EuroNews HD (PT)
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=4
