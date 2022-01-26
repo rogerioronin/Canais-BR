@@ -146,6 +146,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (SP)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=ABVQXgr2LW4&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=3
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?ROGERIOTORRES
 
@@ -1461,9 +1464,6 @@ plugin://plugin.video.youtube/play/?video_id=o3w_u1oZf3Q
 
 #EXTINF:-1 group-title="YOUTUBE KODI", Ricky Zoom Brasil HD
 plugin://plugin.video.youtube/play/?video_id=lsFm5LexHE0
-
-#EXTINF:-1 group-title="YOUTUBE KODI", SBT HD
-plugin://plugin.video.youtube/play/?video_id=ABVQXgr2LW4&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=3
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV A Crítica HD
 plugin://plugin.video.youtube/play/?video_id=ksRHHGUN0Wk
