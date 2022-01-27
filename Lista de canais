@@ -1149,14 +1149,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007f
 #EXTINF:-1 group-title="MUSICAS", Vevo Country HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="MUSICAS", Vevo POP HD [erro]
+#EXTINF:-1 group-title="MUSICAS", Vevo POP HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 group-title="MUSICAS", Web TV Music
 https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Zapping Music HD [erro]
-https://zmlive.zappingtv.com/zm-free/zm.smil/chunklist_0_sles.m3u8
 
 
 ##############################################
