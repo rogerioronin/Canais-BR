@@ -98,7 +98,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (PR) [erro]
 http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
@@ -183,10 +183,7 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
-https://edge-mg-01.eduplay.rnp.br/media/ocp(r(SOtSyQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(LNaSUMFNSGQs1YBnM8XhLQ)n(a(kLbutb9FljfAzjoWmXgS8Rnp6_GUlkq0)s(rRg)'a(T-aZqqGIQgBm6ZHJp3tHyyjZ)s(fvc)))s(t(eT8)b(6P9w9Nu8wcNIUaKqkTKqXRWNHWIhMz8mxUoA4mgo1tqnqVYwaZMCmldOaMbaZB0n33FR3ttihZ1JvOivSGdZIuhde-5ZIl_f4tK0pFaa_lpv5gVXuaKHBhpJxYHQpAySe8UfuTry1gihrKpUq-DVrvTLAVcN_NYL-OR5gME)'t(ccA)b(Q_39q61nTExyyL-LZijmcTvd7twmucXBiaA)))/live_720_index.m3u8
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
-https://www.dailymotion.com/video/x82pp99
+https://6fa56255cc1a8b78f6dcfc6941498a9a.livehwc3.cn/streaming.ebc.com.br/live/ebcplay.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=83344491daa3224ca64b05a33fb69459
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
@@ -198,7 +195,7 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
-https://edge-df-01.eduplay.rnp.br/media/ocp(r(-up5PQ)t(AAAAAAAAAAA)p(d(ADo)k(EBE)m(8TF0e-YyHE71UfnmOYOFDA)n(a(ozOW-4v4TOPRR0ipVzWUnaaZeSi5e2ua)s(nCk)'a(GSV-xoq4gzxFn-VaxUzMufbL)s(wZk)))s(t(E7k)b(oXqtZWIMCDVwg0yxrQe0zueeAAIblLPNVoZ-G06C_xLWtLEFfeboLJ0mNTjouGny22hgEiK6D0DA71BL63gF0y42USnTLgWVW5Mg3Eg4EzxFM1-9k84D4EkV0gyGd4vrAjqeWvnP9f6_tbfOORDVJ8GPYx6gnFp2TdOwCcnQ)'t(cEo)b(xI0q2x9MvTlVqrASW1l0YdCCPm8Evz0iMcok)))/live_540_index.m3u8
+https://edge-ro-01.eduplay.rnp.br/media/ocp(r(AqzEfw)t(Fs5A7FobyKw)p(d(KHg)k(ViI)m(84-i6UIaLeH5knegbWp_rw)n(a(lQElGuYVSiIjFzL2KQcme1eaWorHBr-Bo8cB)s(lhY)'a(4k0OIQMjstyqJHHlGeBaeam9)s(yas)))s(t(bAo)b(k01J-A91wRRgL9iW8hc2VC7DqhC88luAtExYpLKoBwux6-cy9puTXS9cSbdmJ2NO4Idh7jXMAjfD6GeGVDfqRYid8_Da5QmkvegoELCJowfmnYBD88ozrPbo_V2Ed1OGqfDs6NYjP1N4T330e3t2KR_50ybMBk7wUCjm3E7MU1aEqQ)'t(cAM)b(Q1Hpn9kPMvtq4J16qiLdXZkWJS-YdIjW_tRP)))/live_540_index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
@@ -1342,8 +1339,8 @@ https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Cidade Canal 9 HD
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Cidade Tiradentes [erro]
-https://novo.bitstreaming.info:1936/8284/8284/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="VARIEDADES", TV Cidade Tiradentes
+https://5a0c3936c25c8.streamlock.net/8284/8284/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Com Brasil HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8?ROGERIOTORRES
@@ -1384,7 +1381,7 @@ https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Nova Onda
 https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS [erro]
+#EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Rio Madeira
@@ -1405,7 +1402,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecb
 #EXTINF:-1 group-title="VARIEDADES", Web TV Progresso
 https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Woohoo HD [erro]
+#EXTINF:-1 group-title="VARIEDADES", Woohoo HD
 https://origin-02.nxplay.com.br/WOOHOO_NXPLAY/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
