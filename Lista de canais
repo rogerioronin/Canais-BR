@@ -1157,8 +1157,29 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
 ###### RELIGIOSO = 76 Canais ################
 ##############################################
 
+#EXTINF:-1 group-title="RELIGIOSO", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", Rede Gospel HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", RBC TV HD
+http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", TV Aparecida HD
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PEDROJUNIORTUTORIAIS
+
+#EXTINF:-1 group-title="RELIGIOSO", TV Evangelizar HD
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", TV Pai Eterno HD
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
