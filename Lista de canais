@@ -1160,8 +1160,8 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
 ###### RELIGIOSO = 76 Canais ################
 ##############################################
 
-#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD [erro]
-https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8
+#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD
+https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -1186,7 +1186,7 @@ https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="VARIEDADES", Canal 10
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 25 HD [erro]
+#EXTINF:-1 group-title="VARIEDADES", Canal 25 HD
 https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 38 News Vale Notícias HD
@@ -1198,7 +1198,7 @@ http://tv02.logicahost.com.br:1935/itutv/itutv/live.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Canal Smart
 https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal TV Rio [erro]
+#EXTINF:-1 group-title="VARIEDADES", Canal TV Rio
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Central TV
@@ -1251,9 +1251,6 @@ https://5cf4a2c2512a2.streamlock.net/interiortv9/interiortv9/playlist.m3u8?ROGER
 
 #EXTINF:-1 group-title="VARIEDADES", ISTV HD
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", Latina Sat HD [erro]
-https://stmv1.srvstm.com/joaomatheus8496/joaomatheus8496/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Master Show TV HD
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?ROGERIOTORRES
