@@ -884,6 +884,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f9200078883
 #EXTINF:-1 group-title="INFANTIL", PBS Kids HD (ENG)
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Peppa Pig Brasil HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6xBFTOVef2M/live
+
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -1450,23 +1453,11 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 #EXTINF:-1 group-title="YOUTUBE KODI", BM&C News HD
 plugin://plugin.video.youtube/play/?video_id=LmEh4yDhkkI
 
-#EXTINF:-1 group-title="YOUTUBE KODI", Bob Esponja HD
-plugin://plugin.video.youtube/play/?video_id=b6sPQ8x3kDs
-
 #EXTINF:-1 group-title="YOUTUBE KODI", EuroNews HD (PT)
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=4
 
 #EXTINF:-1 group-title="YOUTUBE KODI", Jovem Pan News HD
 plugin://plugin.video.youtube/play/?video_id=uuYodSCCMNE
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Nick Junior HD
-plugin://plugin.video.youtube/play/?video_id=ND4kwiGFU4A
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Nickelodeon HD
-plugin://plugin.video.youtube/play/?video_id=RgqzoN5SusM
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Peppa Pig Brasil HD
-plugin://plugin.video.youtube/play/?video_id=6xBFTOVef2M
 
 #EXTINF:-1 group-title="YOUTUBE KODI", PJ Maks HD
 plugin://plugin.video.youtube/play/?video_id=abqkFzyGjWc
