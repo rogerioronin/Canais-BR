@@ -887,6 +887,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROG
 #EXTINF:-1 group-title="INFANTIL", Peppa Pig Brasil HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=6xBFTOVef2M/live
 
+#EXTINF:-1 group-title="INFANTIL", PJ Maks HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=abqkFzyGjWc/live
+
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -945,6 +948,9 @@ http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Jovem Pan News² HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=uuYodSCCMNE/live
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -1453,26 +1459,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ######################################
 # Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
-#EXTINF:-1 group-title="YOUTUBE KODI", EuroNews HD (PT)
-plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=4
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Jovem Pan News HD
-plugin://plugin.video.youtube/play/?video_id=uuYodSCCMNE
-
-#EXTINF:-1 group-title="YOUTUBE KODI", PJ Maks HD
-plugin://plugin.video.youtube/play/?video_id=abqkFzyGjWc
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Record News HD
-plugin://plugin.video.youtube/play/?video_id=saz29dZJR04
-
 #EXTINF:-1 group-title="YOUTUBE KODI", Rede Vida HD
 plugin://plugin.video.youtube/play/?video_id=o3w_u1oZf3Q
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV A Crítica HD
-plugin://plugin.video.youtube/play/?video_id=ksRHHGUN0Wk
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Aparecida HD
-plugin://plugin.video.youtube/play/?video_id=1KIucmaYkmU
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV Justiça HD
 plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
