@@ -910,6 +910,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", BM&C News HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=keJILQcm9pc/live
+
 #EXTINF:-1 group-title="JORNALISMO", Canal 324 HD (CAT)
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8?ROGERIOTORRES
 
@@ -1450,9 +1453,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ######################################
 # Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
-#EXTINF:-1 group-title="YOUTUBE KODI", BM&C News HD
-plugin://plugin.video.youtube/play/?video_id=LmEh4yDhkkI
-
 #EXTINF:-1 group-title="YOUTUBE KODI", EuroNews HD (PT)
 plugin://plugin.video.youtube/play/?video_id=VOw7bts_rGQ&list=PLwM8wgYp7sRi5xxo_UyHNRDq1HAsqk9cD&index=4
 
@@ -1467,9 +1467,6 @@ plugin://plugin.video.youtube/play/?video_id=saz29dZJR04
 
 #EXTINF:-1 group-title="YOUTUBE KODI", Rede Vida HD
 plugin://plugin.video.youtube/play/?video_id=o3w_u1oZf3Q
-
-#EXTINF:-1 group-title="YOUTUBE KODI", Ricky Zoom Brasil HD
-plugin://plugin.video.youtube/play/?video_id=lsFm5LexHE0
 
 #EXTINF:-1 group-title="YOUTUBE KODI", TV A Crítica HD
 plugin://plugin.video.youtube/play/?video_id=ksRHHGUN0Wk
