@@ -152,6 +152,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Vida
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (SP)
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=q7-1M3annmM/live
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?ROGERIOTORRES
 
