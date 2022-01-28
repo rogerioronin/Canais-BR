@@ -65,6 +65,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (SP)
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
+http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
@@ -98,8 +101,8 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (PR) [erro]
-http://45.226.83.14/live/RPCHD/720p.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
+http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", GNM TV
 https://59e4b6c1beddc.streamlock.net/tvgazeta/tvgazeta/playlist.m3u8?ROGERIOTORRES
