@@ -137,7 +137,7 @@ http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (ES)
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Vida
@@ -185,7 +185,7 @@ http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara HD (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara HD (SP) [erro]
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
