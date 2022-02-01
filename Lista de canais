@@ -13,22 +13,22 @@ https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV³
 http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Mais
+#EXTINF:-1 group-title="AGRO", Agro Mais HD
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Canal do Boi
+#EXTINF:-1 group-title="AGRO", Canal do Boi HD
 http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Nova Tv Agrotour
+#EXTINF:-1 group-title="AGRO", Nova Tv Agrotour HD
 https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Terra Viva
+#EXTINF:-1 group-title="AGRO", Terra Viva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", TV Milagro Brasil
+#EXTINF:-1 group-title="AGRO", TV Milagro Brasil HD
 https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8?ROGERIOTORRES
 
 
@@ -45,10 +45,10 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime (ENG)
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime HD (ENG)
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV HD
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto HD
@@ -62,11 +62,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (SP)
-http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
 http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band² HD
+http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
@@ -95,7 +95,7 @@ https://streaming03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - TV o Povo HD
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD [erro]
 http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (BA)
@@ -134,10 +134,10 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?ROG
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (SP)
 http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (ES)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (ES)
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
@@ -190,9 +190,6 @@ http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camara HD (SP) [erro]
-https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
 https://edge-ro-01.eduplay.rnp.br/media/ocp(r(AqzEfw)t(Fs5A7FobyKw)p(d(KHg)k(ViI)m(84-i6UIaLeH5knegbWp_rw)n(a(lQElGuYVSiIjFzL2KQcme1eaWorHBr-Bo8cB)s(lhY)'a(4k0OIQMjstyqJHHlGeBaeam9)s(yas)))s(t(bAo)b(k01J-A91wRRgL9iW8hc2VC7DqhC88luAtExYpLKoBwux6-cy9puTXS9cSbdmJ2NO4Idh7jXMAjfD6GeGVDfqRYid8_Da5QmkvegoELCJowfmnYBD88ozrPbo_V2Ed1OGqfDs6NYjP1N4T330e3t2KR_50ybMBk7wUCjm3E7MU1aEqQ)'t(cAM)b(Q1Hpn9kPMvtq4J16qiLdXZkWJS-YdIjW_tRP)))/live_540_index.m3u8?ROGERIOTORRES
