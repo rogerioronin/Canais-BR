@@ -63,10 +63,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
-http://api.magiaiptv.com/live/800261/138645/m3_3zFNpotNh0Q0iR_1080p
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band² HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (MG)
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
@@ -511,7 +511,6 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 ###### FILMES E SÉRIES = 61 Canais ###########
 ##############################################
 
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
 
@@ -690,7 +689,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ######################################
 ###### GEEK = 31 Canais ##############
 ######################################
-
 
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
