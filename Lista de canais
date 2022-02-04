@@ -839,9 +839,6 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="INFANTIL", Chroma TV HD
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="INFANTIL", DC Kids Brasil HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=fLPYJEKXiT0/live
-
 #EXTINF:-1 group-title="INFANTIL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
 
