@@ -192,7 +192,7 @@ https://6fa56255cc1a8b78f6dcfc6941498a9a.livehwc3.cn/streaming.ebc.com.br/live/e
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
-https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
+https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
 https://edge-ro-01.eduplay.rnp.br/media/ocp(r(AqzEfw)t(Fs5A7FobyKw)p(d(KHg)k(ViI)m(84-i6UIaLeH5knegbWp_rw)n(a(lQElGuYVSiIjFzL2KQcme1eaWorHBr-Bo8cB)s(lhY)'a(4k0OIQMjstyqJHHlGeBaeam9)s(yas)))s(t(bAo)b(k01J-A91wRRgL9iW8hc2VC7DqhC88luAtExYpLKoBwux6-cy9puTXS9cSbdmJ2NO4Idh7jXMAjfD6GeGVDfqRYid8_Da5QmkvegoELCJowfmnYBD88ozrPbo_V2Ed1OGqfDs6NYjP1N4T330e3t2KR_50ybMBk7wUCjm3E7MU1aEqQ)'t(cAM)b(Q1Hpn9kPMvtq4J16qiLdXZkWJS-YdIjW_tRP)))/live_540_index.m3u8?ROGERIOTORRES
@@ -957,6 +957,9 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="JORNALISMO", STV Noticias (PT)
 http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", TRT World HD (ENG)
+https://tv-trtworld.live.trt.com.tr/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", TVI 24H (PT)
 https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?ROGERIOTORRES
