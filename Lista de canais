@@ -68,7 +68,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band² HD
-https://stream-02.nyc.dailymotion.com/sec(jgGqWSgcC1UbbwRnedTC2t65NJ5oE3A_43vOx8P3SHU)/dm/3/x80o7x4/d/live-4.m3u8#cell=lnyc?ROGERIOTORRES
+https://stream-01.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm41bv4lZ2m3GCla42dVITuss)/dm/3/x83vbd6/s/live-4.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1050678701.m3u8?ROGERIOTORRES
