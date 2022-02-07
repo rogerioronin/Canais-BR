@@ -520,6 +520,9 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 ###### FILMES E SÉRIES = 61 Canais ###########
 ##############################################
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Agente 86 - TV Series
+https://stmv1.srvif.com/tvserie7/tvserie7/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
 
