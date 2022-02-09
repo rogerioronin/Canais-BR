@@ -1473,15 +1473,1189 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 
 
 ######################################
-###### YOUTUBE KODI 16 ###############
+###### KODI 16 ###############
 ######################################
 # Estes canais só funcionam no KODI, tem que estar com o plugin do Youtube (para o KODI) instalado, assim como o plugin "IPTV Simple / PVR" também instalado e configurado.
 
-#EXTINF:-1 group-title="YOUTUBE KODI", Rede Vida HD
-plugin://plugin.video.youtube/play/?video_id=o3w_u1oZf3Q
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Justiça HD
-plugin://plugin.video.youtube/play/?video_id=aFTesbPwc7I
-
-#EXTINF:-1 group-title="YOUTUBE KODI", TV Senado HD
-plugin://plugin.video.youtube/play/?video_id=8DyvZAm_73E
+#EXTINF:-1,TELECINE ACTION HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33730
+#EXTINF:-1,AMC HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33731
+#EXTINF:-1,Film & Arts
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33732
+#EXTINF:-1,FUTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33733
+#EXTINF:-1,FUTURA FHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33734
+#EXTINF:-1,GLOBO TV VERDES MARES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33736
+#EXTINF:-1,Globo TV Liberal HD Belém
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33737
+#EXTINF:-1,MUSIC BOX BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33738
+#EXTINF:-1,GLOOBINHO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33739
+#EXTINF:-1,GLOOBINHO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33740
+#EXTINF:-1,GLOOBINHO H265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33741
+#EXTINF:-1,Like HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33742
+#EXTINF:-1,PAI ETERNO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/33743
+#EXTINF:-1,Warner Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16765
+#EXTINF:-1,A&E HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16691
+#EXTINF:-1,AMC HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16692
+#EXTINF:-1,Animal Planet HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16693
+#EXTINF:-1,Arte 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16694
+#EXTINF:-1,AXN HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16695
+#EXTINF:-1,Band News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16696
+#EXTINF:-1,Band SP HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16697
+#EXTINF:-1,Band Sports HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16698
+#EXTINF:-1,Boomerang HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16699
+#EXTINF:-1,Canal Sony HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16700
+#EXTINF:-1,Cartoon Network HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16701
+#EXTINF:-1,Cinemax HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16702
+#EXTINF:-1,Combate HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16703
+#EXTINF:-1,Comedy Central HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16704
+#EXTINF:-1,Discovery Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16705
+#EXTINF:-1,Discovery H&H HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16706
+#EXTINF:-1,Discovery Kids HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16707
+#EXTINF:-1,Discovery Science HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16708
+#EXTINF:-1,Discovery Theater HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16709
+#EXTINF:-1,Discovery TLC HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16710
+#EXTINF:-1,Discovery Turbo HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16711
+#EXTINF:-1,Discovery World HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16712
+#EXTINF:-1,Disney Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16713
+#EXTINF:-1,Disney Junior HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16714
+#EXTINF:-1,Disney XD HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16715
+#EXTINF:-1,ESPN 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16716
+#EXTINF:-1,ESPN Brasil HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16717
+#EXTINF:-1,ESPN HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16718
+#EXTINF:-1,Food Network HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16719
+#EXTINF:-1,STAR CHANNEL HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16720
+#EXTINF:-1,Fox Life HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16721
+#EXTINF:-1,STAR HITS 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16722
+#EXTINF:-1,STAR HITS 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16723
+#EXTINF:-1,Fox Sports 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16724
+#EXTINF:-1,Fox Sports 1 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16725
+#EXTINF:-1,FX HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16726
+#EXTINF:-1,Globo News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16727
+#EXTINF:-1,Globo Nordeste HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16728
+#EXTINF:-1,Globo RJ HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16729
+#EXTINF:-1,Globo SP HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16730
+#EXTINF:-1,Globo TV Bahia HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16731
+#EXTINF:-1,Gloob HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16732
+#EXTINF:-1,H2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16733
+#EXTINF:-1,HGTV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16734
+#EXTINF:-1,History Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16735
+#EXTINF:-1,ID Investigao Discovery HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16736
+#EXTINF:-1,Mais Globosat HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16737
+#EXTINF:-1,MTV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16738
+#EXTINF:-1,MTV Live HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16739
+#EXTINF:-1,Multishow HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16740
+#EXTINF:-1,Nat Geo Kids HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16741
+#EXTINF:-1,Nat Geo Wild HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16742
+#EXTINF:-1,National Geographic HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16743
+#EXTINF:-1,Nick Jr HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16744
+#EXTINF:-1,Nickelodeon HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16745
+#EXTINF:-1,Paramount Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16746
+#EXTINF:-1,Record News HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16747
+#EXTINF:-1,Record SP HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16748
+#EXTINF:-1,SBT SP HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16749
+#EXTINF:-1,Space HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16750
+#EXTINF:-1,SporTV 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16751
+#EXTINF:-1,SporTV 3 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16752
+#EXTINF:-1,SporTV HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16753
+#EXTINF:-1,Studio Universal HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16754
+#EXTINF:-1,SyFy HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16755
+#EXTINF:-1,Telecine Fun HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16756
+#EXTINF:-1,Telecine Pipoca HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16757
+#EXTINF:-1,Telecine Premium HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16758
+#EXTINF:-1,Telecine Touch HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16759
+#EXTINF:-1,TNT HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16760
+#EXTINF:-1,TNT Sies HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16761
+#EXTINF:-1,Tooncast HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16762
+#EXTINF:-1,Universal Channel HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16763
+#EXTINF:-1,Viva HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/16764
+#EXTINF:-1,ANIMAL PLANET 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31029
+#EXTINF:-1,BAND 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31030
+#EXTINF:-1,CARTOON NETWORK 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31031
+#EXTINF:-1,COMBATE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31032
+#EXTINF:-1,DISCOVERY CHANNEL 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31033
+#EXTINF:-1,ESPN 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31034
+#EXTINF:-1,FOX SPORTS 2 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31035
+#EXTINF:-1,FOX SPORTS 1 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31036
+#EXTINF:-1,GAZETA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31037
+#EXTINF:-1,GLOBO 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31038
+#EXTINF:-1,MULTISHOW 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31041
+#EXTINF:-1,PREMIERE CLUBES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31042
+#EXTINF:-1,RECORDTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31043
+#EXTINF:-1,REDE TV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31044
+#EXTINF:-1,SBT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31045
+#EXTINF:-1,SPACE 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31046
+#EXTINF:-1,SPORTV 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31047
+#EXTINF:-1,STAR CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31048
+#EXTINF:-1,TELECINE PIPOCA 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31049
+#EXTINF:-1,TELECINE PREMIUM 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31050
+#EXTINF:-1,TNT 4K
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31051
+#EXTINF:-1,BAND RJ HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31053
+#EXTINF:-1,BAND RJ HD³
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31055
+#EXTINF:-1,BAND RJ SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31056
+#EXTINF:-1,ALTIORA TV 
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31058
+#EXTINF:-1,BAND CAMPINAS ¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31059
+#EXTINF:-1,BAND FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31060
+#EXTINF:-1,BAND HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31061
+#EXTINF:-1,BAND PA (RBATV)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31062
+#EXTINF:-1,CANAL BRASIL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31063
+#EXTINF:-1,CANAL DO BOI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31064
+#EXTINF:-1,CLASSIQUE TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31066
+#EXTINF:-1,CLASSIQUE TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31067
+#EXTINF:-1,GAZETA ¹ SP
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31069
+#EXTINF:-1,GOSPEL CARTOON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31070
+#EXTINF:-1,REDE TV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31071
+#EXTINF:-1,REDE TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31072
+#EXTINF:-1,SBT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31075
+#EXTINF:-1,SBT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31076
+#EXTINF:-1,SBT RJ ¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31077
+#EXTINF:-1,SBT TV ALTEROSA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31078
+#EXTINF:-1,SBT TV SERRA DOURADA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31080
+#EXTINF:-1,TV ARATU HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31082
+#EXTINF:-1,TV CULTURA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31083
+#EXTINF:-1,TV CULTURA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31084
+#EXTINF:-1,TV DIARIO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31085
+#EXTINF:-1,TV DIGITAL BIRIGUI
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31086
+#EXTINF:-1,TV GAZETA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31087
+#EXTINF:-1,GLOBO TV GAZETA NORTE MINEIRA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31088
+#EXTINF:-1,TV JORNAL DO NORDESTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31091
+#EXTINF:-1,TV JUSTIÇA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31092
+#EXTINF:-1,TV NOVA ONDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31097
+#EXTINF:-1,TV SERRA VERDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31099
+#EXTINF:-1,TV UNIÃO DE NATAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31101
+#EXTINF:-1,ANIMAL PLANET FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31104
+#EXTINF:-1,ANIMAL PLANET HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31105
+#EXTINF:-1,DISCOVERY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31106
+#EXTINF:-1,DISCOVERY HOME & HEALTH FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31107
+#EXTINF:-1,DISCOVERY HOME & HEALTH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31108
+#EXTINF:-1,DISCOVERY ID FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31109
+#EXTINF:-1,DISCOVERY ID HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31110
+#EXTINF:-1,DISCOVERY SCIENCE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31111
+#EXTINF:-1,DISCOVERY SCIENCE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31112
+#EXTINF:-1,DISCOVERY THEATHER FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31113
+#EXTINF:-1,DISCOVERY TURBO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31114
+#EXTINF:-1,DISCOVERY TURBO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31115
+#EXTINF:-1,DISCOVERY WORLD FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31116
+#EXTINF:-1,DISCOVERY WORLD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31117
+#EXTINF:-1,H2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31118
+#EXTINF:-1,H2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31119
+#EXTINF:-1,HGTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31121
+#EXTINF:-1,HISTORY FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31122
+#EXTINF:-1,HISTORY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31123
+#EXTINF:-1,NATGEO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31124
+#EXTINF:-1,NATGEO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31125
+#EXTINF:-1,NATGEO WILD FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31126
+#EXTINF:-1,NATGEO WILD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31127
+#EXTINF:-1,SMITHSONIAN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31128
+#EXTINF:-1,TLC FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31129
+#EXTINF:-1,TRAVEL BOX BRAZIL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31130
+#EXTINF:-1,ALL SPORTS TV²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31131
+#EXTINF:-1,ALL SPORTS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31132
+#EXTINF:-1,BAND SPORTS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31133
+#EXTINF:-1,BAND SPORTS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31134
+#EXTINF:-1,BAND SPORTS HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31135
+#EXTINF:-1,COMBATE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31136
+#EXTINF:-1,COMBATE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31137
+#EXTINF:-1,COMBATE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31138
+#EXTINF:-1,ESPN 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31139
+#EXTINF:-1,ESPN 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31140
+#EXTINF:-1,ESPN 2 HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31141
+#EXTINF:-1,ESPN BRASIL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31142
+#EXTINF:-1,ESPN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31143
+#EXTINF:-1,ESPN BRASIL HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31144
+#EXTINF:-1,ESPN EXTRA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31145
+#EXTINF:-1,ESPN EXTRA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31146
+#EXTINF:-1,ESPN EXTRA HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31147
+#EXTINF:-1,ESPN FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31148
+#EXTINF:-1,ESPN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31149
+#EXTINF:-1,ESPN HD+
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31150
+#EXTINF:-1,FISH TV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31151
+#EXTINF:-1,FISH TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31152
+#EXTINF:-1,FOX SPORTS 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31153
+#EXTINF:-1,FOX SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31154
+#EXTINF:-1,FOX SPORTS 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31155
+#EXTINF:-1,FOX SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31156
+#EXTINF:-1,GOLF CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31158
+#EXTINF:-1,OFF FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31159
+#EXTINF:-1,OFF HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31160
+#EXTINF:-1,SPORTV 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31162
+#EXTINF:-1,SPORTV 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31163
+#EXTINF:-1,SPORTV 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31165
+#EXTINF:-1,SPORTV 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31166
+#EXTINF:-1,SPORTV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31168
+#EXTINF:-1,SPORTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31169
+#EXTINF:-1,SPORTV HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31170
+#EXTINF:-1,WOOHOO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31171
+#EXTINF:-1,WOOHOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31172
+#EXTINF:-1,CONMEBOL 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31189
+#EXTINF:-1,CONMEBOL 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31191
+#EXTINF:-1,A BOLA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31203
+#EXTINF:-1,DAZN2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31210
+#EXTINF:-1,DAZN2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31211
+#EXTINF:-1,TNT SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31223
+#EXTINF:-1,TNT SPORTS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31224
+#EXTINF:-1,TNT SPORTS 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31226
+#EXTINF:-1,TNT SPORTS 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31227
+#EXTINF:-1,TNT SPORTS 4 SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31228
+#EXTINF:-1,TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31229
+#EXTINF:-1,TNT SPORTS 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31230
+#EXTINF:-1,TNT SPORTS 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31231
+#EXTINF:-1,TNT SPORTS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31237
+#EXTINF:-1,CBTV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31242
+#EXTINF:-1,ELEVEN SPORTS 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31243
+#EXTINF:-1,ELEVEN SPORTS 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31244
+#EXTINF:-1,ELEVEN SPORTS 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31245
+#EXTINF:-1,GOLF CHANNEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31246
+#EXTINF:-1,MLB NETWORK
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31247
+#EXTINF:-1,NBA TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31248
+#EXTINF:-1,RED BULL TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31250
+#EXTINF:-1,SPORT TV +
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31251
+#EXTINF:-1,SPORT TV 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31253
+#EXTINF:-1,SPORTING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31258
+#EXTINF:-1,AL KASS SPORTS 04
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31266
+#EXTINF:-1,A&E FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31268
+#EXTINF:-1,AMC HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31269
+#EXTINF:-1,AXN FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31270
+#EXTINF:-1,AXN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31271
+#EXTINF:-1,CANAL SONY FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31272
+#EXTINF:-1,CANAL SONY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31273
+#EXTINF:-1,CINEMAX FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31274
+#EXTINF:-1,CINEMAX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31275
+#EXTINF:-1,FX FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31276
+#EXTINF:-1,FX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31277
+#EXTINF:-1,MEGAPIX FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31278
+#EXTINF:-1,MEGAPIX HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31279
+#EXTINF:-1,PARAMOUNT CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31280
+#EXTINF:-1,PARAMOUNT CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31281
+#EXTINF:-1,SPACE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31282
+#EXTINF:-1,SPACE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31283
+#EXTINF:-1,SPACE HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31284
+#EXTINF:-1,STAR CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31285
+#EXTINF:-1,STAR CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31286
+#EXTINF:-1,STAR HITS 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31287
+#EXTINF:-1,STAR HITS 2 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31288
+#EXTINF:-1,STAR HITS 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31289
+#EXTINF:-1,STAR HITS 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31290
+#EXTINF:-1,STUDIO UNIVERSAL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31291
+#EXTINF:-1,STUDIO UNIVERSAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31292
+#EXTINF:-1,SYFY FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31293
+#EXTINF:-1,SYFY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31294
+#EXTINF:-1,TBS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31295
+#EXTINF:-1,TBS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31296
+#EXTINF:-1,TCM FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31297
+#EXTINF:-1,TCM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31298
+#EXTINF:-1,TNT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31299
+#EXTINF:-1,TNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31300
+#EXTINF:-1,TNT SERIES FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31301
+#EXTINF:-1,TNT SERIES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31302
+#EXTINF:-1,UNIVERSAL CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31303
+#EXTINF:-1,UNIVERSAL TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31304
+#EXTINF:-1,WARNER CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31305
+#EXTINF:-1,CINEMA 1
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31316
+#EXTINF:-1,CINEMA 2
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31317
+#EXTINF:-1,CINEMA 3
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31318
+#EXTINF:-1,CINEMA 4
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31319
+#EXTINF:-1,CINEMA 5
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31320
+#EXTINF:-1,CINEMA 6
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31321
+#EXTINF:-1,CINEMA 7
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31322
+#EXTINF:-1,CINEMA 8
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31324
+#EXTINF:-1,CINE SKY 9 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31325
+#EXTINF:-1,HBO 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31460
+#EXTINF:-1,HBO FAMILY FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31461
+#EXTINF:-1,HBO FAMILY HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31462
+#EXTINF:-1,HBO FAMILY HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31463
+#EXTINF:-1,HBO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31464
+#EXTINF:-1,HBO 1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31465
+#EXTINF:-1,HBO MUNDI FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31466
+#EXTINF:-1,HBO MUNDI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31467
+#EXTINF:-1,HBO PLUS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31468
+#EXTINF:-1,HBO PLUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31469
+#EXTINF:-1,HBO POP FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31470
+#EXTINF:-1,HBO POP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31471
+#EXTINF:-1,HBO SIGNATURE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31472
+#EXTINF:-1,HBO SIGNATURE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31473
+#EXTINF:-1,HBO XTREAME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31474
+#EXTINF:-1,HBO XTREME FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31475
+#EXTINF:-1,BABY TV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31476
+#EXTINF:-1,BABY TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31477
+#EXTINF:-1,BOOMERANG FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31478
+#EXTINF:-1,CARTOON NETWORK FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31479
+#EXTINF:-1,CARTOON NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31480
+#EXTINF:-1,DISCOVERY KIDS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31481
+#EXTINF:-1,DISCOVERY KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31482
+#EXTINF:-1,DISNEY CHANNEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31483
+#EXTINF:-1,DISNEY CHANNEL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31484
+#EXTINF:-1,DISNEY JUNIOR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31485
+#EXTINF:-1,DISNEY JUNIOR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31486
+#EXTINF:-1,DISNEY XD FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31487
+#EXTINF:-1,DISNEY XD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31488
+#EXTINF:-1,GLOOB FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31491
+#EXTINF:-1,GLOOB HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31492
+#EXTINF:-1,LOADING TV
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31494
+#EXTINF:-1,NATGEO KIDS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31495
+#EXTINF:-1,NATGEO KIDS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31496
+#EXTINF:-1,NICK JR FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31497
+#EXTINF:-1,NICK JR HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31498
+#EXTINF:-1,NICKELODEON FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31499
+#EXTINF:-1,NICKELODEON HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31500
+#EXTINF:-1,TOONCAST FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31501
+#EXTINF:-1,TV RA TIM BUM FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31502
+#EXTINF:-1,TV RA TIM BUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31503
+#EXTINF:-1,ZOOMOO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31504
+#EXTINF:-1,BAND NEWS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31506
+#EXTINF:-1,CNN BRASIL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31508
+#EXTINF:-1,CNN BRASIL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31509
+#EXTINF:-1,CNN ESPANHOL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31510
+#EXTINF:-1,CNN INTERNACIONAL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31511
+#EXTINF:-1,DW DEUTSCHE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31512
+#EXTINF:-1,DW ESPANHOL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31513
+#EXTINF:-1,FOX NEWS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31514
+#EXTINF:-1,FOX NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31515
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31518
+#EXTINF:-1,GLOBO NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31519
+#EXTINF:-1,NHK JAPÃO  HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31520
+#EXTINF:-1,RECORD NEWS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31522
+#EXTINF:-1,RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31523
+#EXTINF:-1,SIC INTERNACIONAL²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31524
+#EXTINF:-1,PREMIERE CLUBES FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31525
+#EXTINF:-1,PREMIERE CLUBES HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31526
+#EXTINF:-1,PREMIERE CLUBES HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31527
+#EXTINF:-1,PREMIERE 2 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31528
+#EXTINF:-1,PREMIERE 2 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31529
+#EXTINF:-1,PREMIERE 2 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31531
+#EXTINF:-1,PREMIERE 3 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31532
+#EXTINF:-1,PREMIERE 3 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31533
+#EXTINF:-1,PREMIERE 3 UHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31535
+#EXTINF:-1,PREMIERE 4 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31536
+#EXTINF:-1,PREMIERE 4 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31537
+#EXTINF:-1,PREMIERE 5 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31539
+#EXTINF:-1,PREMIERE 5 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31540
+#EXTINF:-1,PREMIERE 6 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31542
+#EXTINF:-1,PREMIERE 6 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31543
+#EXTINF:-1,PREMIERE 7 FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31544
+#EXTINF:-1,PREMIERE 7 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31545
+#EXTINF:-1,BR: RECORD CAMPINAS HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31553
+#EXTINF:-1,BR: RECORD RJ HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31555
+#EXTINF:-1,BR: RECORD SP HD²
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31556
+#EXTINF:-1,RECORD RS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31557
+#EXTINF:-1,RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31558
+#EXTINF:-1,RECORD BRASILIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31560
+#EXTINF:-1,RECORD BRASILIA HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31561
+#EXTINF:-1,RECORD FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31562
+#EXTINF:-1,RECORD GOIAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31563
+#EXTINF:-1,RECORD MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31565
+#EXTINF:-1,RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31566
+#EXTINF:-1,RECORD RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31567
+#EXTINF:-1,RECORD SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31568
+#EXTINF:-1,RECORD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31569
+#EXTINF:-1,TV EVANGELIZAR
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31570
+#EXTINF:-1,CANCAO NOVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31571
+#EXTINF:-1,NOVO TEMPO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31573
+#EXTINF:-1,REDE GOSPEL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31575
+#EXTINF:-1,REDE VIDA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31577
+#EXTINF:-1,RIT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31578
+#EXTINF:-1,TV APARECIDA LIVRE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31579
+#EXTINF:-1,TV GOSPEL CEARÁ
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31580
+#EXTINF:-1,CBTV Now
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31581
+#EXTINF:-1,TELECINE ACTION FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31582
+#EXTINF:-1,TELECINE ACTION HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31583
+#EXTINF:-1,TELECINE CULT FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31584
+#EXTINF:-1,TELECINE CULT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31585
+#EXTINF:-1,TELECINE FUN FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31587
+#EXTINF:-1,TELECINE FUN HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31588
+#EXTINF:-1,TELECINE PIPOCA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31589
+#EXTINF:-1,TELECINE PIPOCA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31590
+#EXTINF:-1,TELECINE PREMIUM FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31591
+#EXTINF:-1,TELECINE PREMIUM HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31592
+#EXTINF:-1,TELECINE TOUCH FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31593
+#EXTINF:-1,TELECINE TOUCH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31594
+#EXTINF:-1,Arte 1 FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31595
+#EXTINF:-1,BIS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31596
+#EXTINF:-1,BIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31597
+#EXTINF:-1,CHEF TV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31598
+#EXTINF:-1,COMEDY CENTRAL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31599
+#EXTINF:-1,COMEDY CENTRAL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31600
+#EXTINF:-1,CURTA! FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31601
+#EXTINF:-1,CURTA! HD*
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31602
+#EXTINF:-1,E! FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31604
+#EXTINF:-1,E! HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31605
+#EXTINF:-1,FOOD NETWORK FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31606
+#EXTINF:-1,FOOD NETWORK HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31607
+#EXTINF:-1,GNT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31608
+#EXTINF:-1,GNT HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31609
+#EXTINF:-1,ISAT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31610
+#EXTINF:-1,LIFETIME FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31611
+#EXTINF:-1,LIFETIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31612
+#EXTINF:-1,MAIS GLOBOSAT
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31613
+#EXTINF:-1,MAIS GLOBOSAT FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31614
+#EXTINF:-1,MTV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31615
+#EXTINF:-1,MTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31616
+#EXTINF:-1,MULTISHOW FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31617
+#EXTINF:-1,MULTSHOW HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31618
+#EXTINF:-1,MUSIC BOX BRASIL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31619
+#EXTINF:-1,PLAY TV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31620
+#EXTINF:-1,PRIME BOX BRASIL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31621
+#EXTINF:-1,SHOPTIME HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31622
+#EXTINF:-1,STAR LIFE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31623
+#EXTINF:-1,STAR LIFE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31624
+#EXTINF:-1,TRU TV FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31626
+#EXTINF:-1,TRUTV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31627
+#EXTINF:-1,VH1 HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31628
+#EXTINF:-1,VH1 MEGA HITS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31629
+#EXTINF:-1,VIVA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31630
+#EXTINF:-1,VIVA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31631
+#EXTINF:-1,THE BIG BANG THEORY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31632
+#EXTINF:-1,Tom & Jerry
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31633
+#EXTINF:-1,3 ESPIÃS DEMAIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31634
+#EXTINF:-1,3 PALAVRINHAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31635
+#EXTINF:-1,A TURMA DO ZÉ COLMÉIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31636
+#EXTINF:-1,A PANTERA COR-DE-ROSA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31637
+#EXTINF:-1,A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31638
+#EXTINF:-1,A PEQUENA SEREIA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31639
+#EXTINF:-1,A TURMA DO MANDA CHUVA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31640
+#EXTINF:-1,A VACA E O FRANGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31641
+#EXTINF:-1,ALADDIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31642
+#EXTINF:-1,ALF, O ETEIMOSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31643
+#EXTINF:-1,ANIMANIACS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31644
+#EXTINF:-1,AS AVENTURAS DE JACKIE CHAN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31646
+#EXTINF:-1,AS AVENTURAS DE TINTIM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31647
+#EXTINF:-1,AS TARTARUGAS NINJAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31649
+#EXTINF:-1,BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31650
+#EXTINF:-1,BABY LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31651
+#EXTINF:-1,BATMAN - SÉRIE ANIMADA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31652
+#EXTINF:-1,BEN 10
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31653
+#EXTINF:-1,BEN 10 (2005)
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31654
+#EXTINF:-1,BIBO PAI E BOBI FILHO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31656
+#EXTINF:-1,BANANAS DE PIJAMAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31657
+#EXTINF:-1,OS THUNDERMANS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31658
+#EXTINF:-1,BLACK KAMEN RIDER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31659
+#EXTINF:-1,BOB ESPONJA
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31660
+#EXTINF:-1,BOB ZOOM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31661
+#EXTINF:-1,BREAKING BAD ¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31663
+#EXTINF:-1,CARANGOS E MOTOCAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31665
+#EXTINF:-1,CASA DO MICKEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31666
+#EXTINF:-1,SCOOBY DOO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31667
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - BATALHA DAS 12 CASAS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31668
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE ASGARD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31669
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE HADES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31670
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA DE POSEIDON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31671
+#EXTINF:-1,CAVALEIROS DO ZODÍACO - SAGA SANTUÁRIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31672
+#EXTINF:-1,CAVALO DE FOGO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31673
+#EXTINF:-1,CAVERNA DO DRAGÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31674
+#EXTINF:-1,CHAPOLIN
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31675
+#EXTINF:-1,CHAVES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31676
+#EXTINF:-1,CHAVES DESENHO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31677
+#EXTINF:-1,Os Padrinhos Mágicos
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31678
+#EXTINF:-1,COMÉDIA SELVAGEM
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31679
+#EXTINF:-1,CORAGEM CAO COVARDE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31680
+#EXTINF:-1,DE VOLTA PARA O FUTURO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31681
+#EXTINF:-1,DOIS HOMENS E MEIO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31684
+#EXTINF:-1,GARFIELD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31702
+#EXTINF:-1,ICARLY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31708
+#EXTINF:-1,CARTOON GOSPEL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31713
+#EXTINF:-1,LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31720
+#EXTINF:-1,LOONEY TUNES
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31721
+#EXTINF:-1,MASHA E O URSO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31724
+#EXTINF:-1,O INCRÍVEL MUNDO DE GUMBALL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31731
+#EXTINF:-1,OS JOVENS TITÃS EM AÇÃO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31740
+#EXTINF:-1,OS SMURFS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31742
+#EXTINF:-1,PATRULHA CANINA 24H
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31746
+#EXTINF:-1,A CASA DO MICKEY MOUSE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31748
+#EXTINF:-1,POWER RANGERS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31754
+#EXTINF:-1,DIGIMON
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31757
+#EXTINF:-1,SOBRENATURAL
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31758
+#EXTINF:-1,STREET FIGTHER
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31761
+#EXTINF:-1,TODO MUNDO ODEIA O CHRIS
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31765
+#EXTINF:-1,FÁBULAS DA DISNEY
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31768
+#EXTINF:-1,UM MALUCO NO PEDAÇO
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/31769
+#EXTINF:-1,GLOBO² AMAZONAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32157
+#EXTINF:-1,GLOBO² ANHANGUERA GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32158
+#EXTINF:-1,GLOBO² BRASILIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32159
+#EXTINF:-1,GLOBO² EPTV CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32161
+#EXTINF:-1,GLOBO² INTERNACIONAL SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32163
+#EXTINF:-1,GLOBO² MINAS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32164
+#EXTINF:-1,GLOBO² NORDESTE HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32165
+#EXTINF:-1,GLOBO² NSC FLORIANOPOLIS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32167
+#EXTINF:-1,GLOBO² RBS PORTO ALEGRE SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32168
+#EXTINF:-1,GLOBO² RIBEIRÃO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32169
+#EXTINF:-1,GLOBO² RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32170
+#EXTINF:-1,GLOBO² RPC TV HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32172
+#EXTINF:-1,GLOBO² SP HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32174
+#EXTINF:-1,GLOBO² SP SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32175
+#EXTINF:-1,GLOBO² TV BAHIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32176
+#EXTINF:-1,GLOBO² TV Sergipe HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32178
+#EXTINF:-1,GLOBO² TV TEM BAURU SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32179
+#EXTINF:-1,GLOBO² TV Tem Rio Preto SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32180
+#EXTINF:-1,GLOBO² TV TEM SOROCABA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32181
+#EXTINF:-1,GLOBO² TV VANGUARDA S.J DOS CAMPOS SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32182
+#EXTINF:-1,GLOBO² TV VERDES MARES FORTALEZA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32183
+#EXTINF:-1,GLOBO³  NSC JOINVILLE  HDD SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32184
+#EXTINF:-1,GLOBO³ BRASILIA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32191
+#EXTINF:-1,GLOBO³ CHAPECO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32194
+#EXTINF:-1,GLOBO³ CURITIBA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32198
+#EXTINF:-1,GLOBO³ EPTV CAMPINAS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32203
+#EXTINF:-1,GLOBO³ EPTV RIBEIRAO PRETO SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32206
+#EXTINF:-1,GLOBO³ FLORIANOPOLIS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32208
+#EXTINF:-1,GLOBO³ FOZ DO IGUAÇU FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32215
+#EXTINF:-1,GLOBO³ FULLHD SP H.265
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32216
+#EXTINF:-1,GLOBO³ GAZETA SUL ALEGRE ES FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32217
+#EXTINF:-1,GLOBO³ GAZETA VITORIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32220
+#EXTINF:-1,GLOBO³ GOIANIA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32221
+#EXTINF:-1,GLOBO³ GOIANIA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32223
+#EXTINF:-1,GLOBO³ INTEGRACAO ARAXA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32224
+#EXTINF:-1,GLOBO³ INTER TV  CABUGI FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32226
+#EXTINF:-1,GLOBO³ INTER TV ALTO LITORAL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32227
+#EXTINF:-1,GLOBO³ INTER TV CABUGI SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32230
+#EXTINF:-1,GLOBO³ NORDESTE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32241
+#EXTINF:-1,GLOBO³ NSC CHAPECO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32243
+#EXTINF:-1,GLOBO³ NSC JOINVILLE  FULLHD SC
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32244
+#EXTINF:-1,GLOBO³ PORTO ALEGRE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32247
+#EXTINF:-1,GLOBO³ RBS TV CAXIAS DO SUL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32251
+#EXTINF:-1,GLOBO³ RPC MARINGA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32265
+#EXTINF:-1,GLOBO³ RPC PONTA GROSSA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32266
+#EXTINF:-1,GLOBO³ RPC TV PARANAVAI FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32267
+#EXTINF:-1,GLOBO³ SP FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32276
+#EXTINF:-1,GLOBO³ TV ASA BRANCA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32279
+#EXTINF:-1,GLOBO³ TV CABO BRANCO FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32281
+#EXTINF:-1,GLOBO³ TV CENTRO AMERICA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32284
+#EXTINF:-1,GLOBO³ TV CLUBE PI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32286
+#EXTINF:-1,GLOBO³ TV GAZETA ALAGOAS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32290
+#EXTINF:-1,GLOBO³ TV GAZETA VITORIA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32291
+#EXTINF:-1,GLOBO³ TV INTER CABUGI HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32297
+#EXTINF:-1,GLOBO³ TV MIRANTE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32298
+#EXTINF:-1,GLOBO³ TV MIRANTE
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32300
+#EXTINF:-1,GLOBO³ TV RIO SUL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32301
+#EXTINF:-1,GLOBO³ TV SANTA CRUZ FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32304
+#EXTINF:-1,GLOBO³ TV SERGIPE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32307
+#EXTINF:-1,GLOBO³ tv sergipe sd
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32309
+#EXTINF:-1,GLOBO¹ CENTRO AMÉRICA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32319
+#EXTINF:-1,GLOBO¹ EPTV CAMPINAS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32320
+#EXTINF:-1,GLOBO¹ EPTV SUL DE MINAS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32323
+#EXTINF:-1,GLOBO¹ INTER TV ALTO LITORAL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32325
+#EXTINF:-1,GLOBO¹ INTER TV CABUGI FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32326
+#EXTINF:-1,GLOBO¹ INTER TV DOS VALES FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32327
+#EXTINF:-1,GLOBO¹ INTER TV GRANDE MINAS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32328
+#EXTINF:-1,GLOBO¹ MINAS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32330
+#EXTINF:-1,GLOBO¹ MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32331
+#EXTINF:-1,GLOBO¹ NACIONAL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32333
+#EXTINF:-1,GLOBO¹ NORDESTE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32335
+#EXTINF:-1,GLOBO¹ NSC FLORIANÓPOLIS FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32339
+#EXTINF:-1,GLOBO¹ NSC TV BLUMENAU FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32340
+#EXTINF:-1,GLOBO¹ NSC TV CRICIÚMA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32341
+#EXTINF:-1,GLOBO¹ RBS CAXIAS DO SUL FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32343
+#EXTINF:-1,GLOBO¹ RBS TV POA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32344
+#EXTINF:-1,GLOBO¹ RBS TV POA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32345
+#EXTINF:-1,GLOBO¹ REDE AMAZONICA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32347
+#EXTINF:-1,GLOBO¹ RJ FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32348
+#EXTINF:-1,GLOBO¹ RPC CURITIBA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32351
+#EXTINF:-1,GLOBO¹ RPC FOZ DO IGUAÇU FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32352
+#EXTINF:-1,GLOBO¹ RPC MARINGÁ FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32353
+#EXTINF:-1,GLOBO¹ RPC PARANAENSE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32354
+#EXTINF:-1,GLOBO¹ RPC PONTA GROSSA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32356
+#EXTINF:-1,GLOBO¹ RPC TV CURITIBA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32357
+#EXTINF:-1,GLOBO¹ SP FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32358
+#EXTINF:-1,GLOBO¹ SP HD¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32360
+#EXTINF:-1,GLOBO¹ TV ANHANGUERA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32362
+#EXTINF:-1,GLOBO¹ TV ASA BRANCA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32365
+#EXTINF:-1,GLOBO¹ TV BAHIA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32367
+#EXTINF:-1,GLOBO¹ TV BRASILIA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32370
+#EXTINF:-1,GLOBO¹ TV CABO BRANCO FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32371
+#EXTINF:-1,GLOBO¹ TV CENTRO AMÉRICA SD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32372
+#EXTINF:-1,GLOBO¹ TV CLUBE TERESINA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32373
+#EXTINF:-1,GLOBO¹ TV GAZETA DE ALAGOAS FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32374
+#EXTINF:-1,GLOBO¹ TV GAZETA ES FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32375
+#EXTINF:-1,GLOBO¹ TV INTEGRAÇÃO JUIZ DE FORA FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32376
+#EXTINF:-1,GLOBO¹ TV MIRANTE FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32380
+#EXTINF:-1,GLOBO¹ TV MORENA FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32383
+#EXTINF:-1,GLOBO¹ TV RECIFE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32386
+#EXTINF:-1,GLOBO¹ TV RIO SUL FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32387
+#EXTINF:-1,GLOBO¹ TV SANTA CRUZ FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32389
+#EXTINF:-1,GLOBO¹ TV SERGIPE FULLHD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32391
+#EXTINF:-1,GLOBO¹ TV VERDES MARES FULL HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER;name=DWIGHT FARROKH  GRATIS;&amp;buffer=1;url=http://xcui.vitvabc.xyz:8880/2879940036ab/2879940036ab/32393
