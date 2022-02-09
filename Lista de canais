@@ -125,7 +125,7 @@ https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (PT) [erro]
 http://api.new.livestream.com/accounts/21076186/events/6180705/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
@@ -161,13 +161,13 @@ https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?RO
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (AM)
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT) [erro]
 http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR) [erro]
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
@@ -188,7 +188,7 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (CE)
 http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD [erro]
 https://6fa56255cc1a8b78f6dcfc6941498a9a.livehwc3.cn/streaming.ebc.com.br/live/ebcplay.m3u8?sub_m3u8=true&edge_slice=true&user_session_id=83344491daa3224ca64b05a33fb69459
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
@@ -330,7 +330,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP)
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", BMTV HD
+#EXTINF:-1 group-title="ESPORTES", BMTV HD [erro]
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Boxing HD (ENG)
@@ -435,7 +435,7 @@ https://alanza.iptv2022.com/RS_NEWS_SPORTS2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Sharjah Sports HD (ARA)
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Sport 1 (UCR)
+#EXTINF:-1 group-title="ESPORTES", Sport 1 (UCR) [erro]
 https://95-213-224-183.livesports24.online/sport1ua.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Sport Russia (RUS)
@@ -750,6 +750,8 @@ https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="GEEK", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
 
+https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1375023365.m3u8
+
 #EXTINF:-1 group-title="GEEK", South Park HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -883,6 +885,9 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 
 #EXTINF:-1 group-title="INFANTIL", PJ Maks HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=abqkFzyGjWc/live
+
+#EXTINF:-1 group-title="INFANTIL", Power Rangers Beast Morphers HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BDr9LPirMZY/live
 
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
