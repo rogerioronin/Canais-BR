@@ -738,6 +738,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Nova Gazeta HD
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Pica-Pau - 24h HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gRJ1UH7xtLw/live
+
 #EXTINF:-1 group-title="GEEK", Q Tal Channel
 https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8?ROGERIOTORRES
 
@@ -749,8 +752,6 @@ https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist.m3u8?ROGERIOTORR
 
 #EXTINF:-1 group-title="GEEK", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
-
-https://stmv1.srvif.com/retrotv/retrotv/chunklist_w1375023365.m3u8
 
 #EXTINF:-1 group-title="GEEK", South Park HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
