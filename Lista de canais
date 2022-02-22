@@ -22,7 +22,7 @@ http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Nova Tv Agrotour HD
+#EXTINF:-1 group-title="AGRO", Nova TV Agrotour HD
 https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Terra Viva HD
@@ -146,20 +146,17 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (SP)
 http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (ES)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (ES) [erro]
 https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Vida
-https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD
 https://origin-02.nxplay.com.br:443/SBT_HDnx/tracks-v2a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
-https://5a1c76baf08c0.streamlock.net/sbtinterior/w9BWYztYdR2Ng/chunklist.m3u8?ROGERIOTORRES
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (AM)
 https://livefocamundo.com:8081/tvguajaraonline2/tracks-v1a1/mono.m3u8?ROGERIOTORRES
@@ -1198,6 +1195,9 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?ROGER
 
 #EXTINF:-1 group-title="RELIGIOSO", Rede Gospel HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", Rede Vida HD
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", RBC TV HD
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ROGERIOTORRES
