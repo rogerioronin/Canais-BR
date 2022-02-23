@@ -786,6 +786,9 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Nova fase
+https://stmv6.samcast.com.br/lucascardosodasilva8329/lucascardosodasilva8329/chunklist.m3u8
+
 #EXTINF:-1 group-title="GEEK", TV Potengi
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
 
@@ -1014,7 +1017,7 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Data Clipe HD
+#EXTINF:-1 group-title="MUSICAS", Data Clipe HD [erro]
 https://stmv5.samcast.com.br/conrado2075/conrado2075/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", FURG TV HD
@@ -1032,7 +1035,7 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Karaoke HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="MUSICAS", Kiss TV
+#EXTINF:-1 group-title="MUSICAS", Kiss TV [erro]
 https://cast.cdnseguro.com:19360/8094/8094.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Loop 80's HD
@@ -1074,7 +1077,7 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?R
 #EXTINF:-1 group-title="MUSICAS", Ocko Star HD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Portal News Web TV
+#EXTINF:-1 group-title="MUSICAS", Portal News Web TV [erro]
 https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Qello Concerts HD
@@ -1143,7 +1146,7 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Top TV
+#EXTINF:-1 group-title="MUSICAS", Top TV [erro]
 https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
