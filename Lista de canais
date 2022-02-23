@@ -185,7 +185,7 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (CE)
 http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD [erro]
 https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtY1VqU7JEpAcmd2IVp1aLM)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
@@ -197,7 +197,7 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD (SP)
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD [erro]
 https://edge-ro-01.eduplay.rnp.br/media/ocp(r(AqzEfw)t(Fs5A7FobyKw)p(d(KHg)k(ViI)m(84-i6UIaLeH5knegbWp_rw)n(a(lQElGuYVSiIjFzL2KQcme1eaWorHBr-Bo8cB)s(lhY)'a(4k0OIQMjstyqJHHlGeBaeam9)s(yas)))s(t(bAo)b(k01J-A91wRRgL9iW8hc2VC7DqhC88luAtExYpLKoBwux6-cy9puTXS9cSbdmJ2NO4Idh7jXMAjfD6GeGVDfqRYid8_Da5QmkvegoELCJowfmnYBD88ozrPbo_V2Ed1OGqfDs6NYjP1N4T330e3t2KR_50ybMBk7wUCjm3E7MU1aEqQ)'t(cAM)b(Q1Hpn9kPMvtq4J16qiLdXZkWJS-YdIjW_tRP)))/live_540_index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
@@ -229,7 +229,7 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assim é Portugal HD
 https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Ghost TV
+#EXTINF:-1 group-title="DOCUMENTARIOS", Ghost TV HD
 https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
@@ -280,7 +280,7 @@ https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Travel Box Brazil HD
 http://177.20.208.58:8000/play/a04i/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews
+#EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews HD
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Urban TV Docs HD
@@ -532,7 +532,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 #EXTINF:-1 group-title="FILMES E SÉRIES", BET Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Canal 24 Horas
+#EXTINF:-1 group-title="FILMES E SÉRIES", Canal 24 Horas [erro]
 https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horastv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
@@ -554,10 +554,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic HD
-https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic² HD
-http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba0000702017b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -732,11 +732,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Nova Gazeta HD
+#EXTINF:-1 group-title="GEEK", Nova Gazeta HD [erro]
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Pica-Pau - 24h HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gRJ1UH7xtLw/live
 
 #EXTINF:-1 group-title="GEEK", Q Tal Channel
 https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8?ROGERIOTORRES
