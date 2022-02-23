@@ -750,7 +750,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", South Park HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="GEEK", Summer TV HD
+#EXTINF:-1 group-title="GEEK", Summer TV HD [erro]
 https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Todo Mundo Odeia o Cris - 24h
@@ -765,7 +765,7 @@ https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Classicos
+#EXTINF:-1 group-title="GEEK", TV Classicos [erro]
 https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
@@ -792,13 +792,13 @@ https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Revista
 https://stmv1.srvif.com/tvrevista/tvrevista/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Singular HD
+#EXTINF:-1 group-title="GEEK", TV Singular HD [erro]
 https://stmv.video.expressolider.com.br/tvsingularhd/tvsingularhd/chunklist.m3u8
 
-#EXTINF:-1 group-title="GEEK", TV Tokyo
+#EXTINF:-1 group-title="GEEK", TV Tokyo [erro]
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist.m3u?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Tokyo²
+#EXTINF:-1 group-title="GEEK", TV Tokyo² [erro]
 https://alanza.iptv2022.com/TV_TOKYO/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Urban TV Kids HD
@@ -828,7 +828,7 @@ http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", Antiks Brasil HD
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=y6AKvKvp2YI/live
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=m5iQczCVsF4/live
 
 #EXTINF:-1 group-title="INFANTIL", As Pistas de Blue HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -845,7 +845,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Brasil HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hpXd-M9ZDCE/live
 
-#EXTINF:-1 group-title="INFANTIL", Chroma TV HD
+#EXTINF:-1 group-title="INFANTIL", Chroma TV HD [erro]
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Gospel Cartoon
