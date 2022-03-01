@@ -98,9 +98,6 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (SP)
-https://origin-02.nxplay.com.br/GLOBO-SP__/tracks-v2a1/mono.m3u8?token=2bb9ad334bb354cd35f397055d39be48d9b5875a-a1635d87e8292127c0231ca0d7f8cdec-1644845739-1644834939
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
 http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
 
@@ -145,9 +142,6 @@ http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD
-https://origin-02.nxplay.com.br:443/SBT_HDnx/tracks-v2a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
@@ -588,9 +582,6 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Film&Arts HD
-http://origin-02.nxplay.com.br/Film_Arts_Brasil/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
