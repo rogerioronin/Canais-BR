@@ -146,9 +146,6 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (SP)
 http://177.20.208.58:8000/play/a03p/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD (ES) [erro]
-https://hls.brasilstream.com.br/live/redetv/redetv/index.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
@@ -187,12 +184,6 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (CE)
 http://srv6.zoeweb.tv:1935/z404-live/stream/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD [erro]
-https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLtY1VqU7JEpAcmd2IVp1aLM)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
-http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
