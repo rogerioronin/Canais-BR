@@ -1047,8 +1047,8 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?R
 #EXTINF:-1 group-title="MUSICAS", Ocko Star HD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Portal News Web TV [erro]
-https://stmv1.srvstm.com/portalnews/portalnews/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="MUSICAS", Portal News Web TV HD
+https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Qello Concerts HD
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
@@ -1115,9 +1115,6 @@ https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f7722
 
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Top TV [erro]
-https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
