@@ -80,9 +80,6 @@ https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOT
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (SP)
-http://origin-02.nxplay.com.br/TV_CULTURA_HD_PFZ1/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
 
@@ -1163,7 +1160,7 @@ https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGER
 #EXTINF:-1 group-title="RELIGIOSO", RBC TV HD
 http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="RELIGIOSO", TV Aparecida HD [erro]
+#EXTINF:-1 group-title="RELIGIOSO", TV Aparecida HD
 https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", TV Espaço Espirita HD
@@ -1175,7 +1172,7 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="RELIGIOSO", TV Gideoes HD
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD [erro]
+#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", TV Pai Eterno HD
@@ -1201,7 +1198,7 @@ https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e
 #EXTINF:-1 group-title="VARIEDADES", BS TV HD
 https://596639ebdd89b.streamlock.net/tvonline/tvonline/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Canal 10 [erro]
+#EXTINF:-1 group-title="VARIEDADES", Canal 10
 http://wz3.dnip.com.br/fozmidia/fozmidia.sdp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 25 HD
