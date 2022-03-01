@@ -836,7 +836,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Brasil HD
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=hpXd-M9ZDCE/live
 
-#EXTINF:-1 group-title="INFANTIL", Chroma TV HD [erro]
+#EXTINF:-1 group-title="INFANTIL", Chroma TV HD
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Gospel Cartoon
@@ -897,9 +897,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 #EXTINF:0 tvg-id="ext" group-title="JORNALISMO", Al Jazeera English HD (ENG)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
-
-#EXTINF:0 tvg-id="ext" group-title="JORNALISMO", BBC News (ENG) [erro]
-http://www.filmon.com/vr-streams/27.high/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
