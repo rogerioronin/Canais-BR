@@ -919,9 +919,6 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="JORNALISMO", Euronews² HD (PT) [erro]
-https://euronews-euronews-portugues-1-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="JORNALISMO", Euronews³ HD (PT)
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
 
@@ -943,7 +940,7 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Record News² HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="JORNALISMO", Record News (ES) [erro]
+#EXTINF:-1 group-title="JORNALISMO", Record News (ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Reuters HD
@@ -954,9 +951,6 @@ http://dcunilive36-lh.akamaihd.net/i/dclive_1@668002/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", TRT World HD (ENG)
 https://tv-trtworld.live.trt.com.tr/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", TVI 24H (PT) [erro]
-https://video-auth2.iol.pt/live_edge/tvi24_abr/edge_servers/tvi24-480p/chunks.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
 https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
