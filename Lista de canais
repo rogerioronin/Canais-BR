@@ -762,8 +762,8 @@ https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Classicos [erro]
-https://stmv1.srvif.com/andresilvamonteiro/andresilvamonteiro/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", TV Classicos HD
+https://stmv1.srvstm.com/jorgeandresilva1366/jorgeandresilva1366/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
@@ -791,9 +791,6 @@ https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Revista
 https://stmv1.srvif.com/tvrevista/tvrevista/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Singular HD [erro]
-https://stmv.video.expressolider.com.br/tvsingularhd/tvsingularhd/chunklist.m3u8
 
 #EXTINF:-1 group-title="GEEK", TV Tokyo [erro]
 https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/chunklist.m3u?ROGERIOTORRES
