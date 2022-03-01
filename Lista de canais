@@ -1008,9 +1008,6 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Karaoke HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05ad/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="MUSICAS", Kiss TV [erro]
-https://cast.cdnseguro.com:19360/8094/8094.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Loop 80's HD
 https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
