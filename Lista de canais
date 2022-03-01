@@ -191,9 +191,6 @@ https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD (SP)
 https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Escola HD [erro]
-https://edge-ro-01.eduplay.rnp.br/media/ocp(r(AqzEfw)t(Fs5A7FobyKw)p(d(KHg)k(ViI)m(84-i6UIaLeH5knegbWp_rw)n(a(lQElGuYVSiIjFzL2KQcme1eaWorHBr-Bo8cB)s(lhY)'a(4k0OIQMjstyqJHHlGeBaeam9)s(yas)))s(t(bAo)b(k01J-A91wRRgL9iW8hc2VC7DqhC88luAtExYpLKoBwux6-cy9puTXS9cSbdmJ2NO4Idh7jXMAjfD6GeGVDfqRYid8_Da5QmkvegoELCJowfmnYBD88ozrPbo_V2Ed1OGqfDs6NYjP1N4T330e3t2KR_50ybMBk7wUCjm3E7MU1aEqQ)'t(cAM)b(Q1Hpn9kPMvtq4J16qiLdXZkWJS-YdIjW_tRP)))/live_540_index.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
