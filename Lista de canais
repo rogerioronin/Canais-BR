@@ -616,6 +616,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e2
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kuriakos Filmes
 http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", La Otra Cara Del Alma HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Londrina TV HD
 https://video01.kshost.com.br/clodoaldo3320/clodoaldo3320/chunklist.m3u8?ROGERIOTORRES
 
