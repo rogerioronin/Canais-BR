@@ -116,9 +116,6 @@ https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal² HD (PT) 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
-https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8?sd=10&rebase=on
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
 
