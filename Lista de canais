@@ -926,7 +926,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/eu
 http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD
-https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_5.m3u8?ROGERIOTORRES
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gvw7y8FUj1w/live
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
