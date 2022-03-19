@@ -271,6 +271,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective 2 HD (ENG)
 https://the-pet-collective-linear.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective 3 HD (ENG)
+https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Travel Box Brazil HD
 http://177.20.208.58:8000/play/a04i/index.m3u8?ROGERIOTORRES
 
@@ -485,6 +488,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de1
 #EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome² HD
+https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Queens United TV HD
 https://cdn.connectbr.com.br/Queens/video.m3u8?ROGERIOTORRES
 
@@ -497,8 +503,11 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", U Miss HD
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Weather Spy HD
+#EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy HD
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy 2 HD
+https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", World Fashion Channel HD
 https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
@@ -695,6 +704,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ######################################
 ###### GEEK = 31 Canais ##############
 ######################################
+
+#EXTINF:-1 group-title="GEEK", BCC Gaming HD (ENG)
+https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
@@ -919,8 +931,8 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="JORNALISMO", Euronews³ HD (PT)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/euronewses/live
+#EXTINF:-1 group-title="JORNALISMO", Euronews HD² (PT)
+https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u88?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
 http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
@@ -942,6 +954,9 @@ https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Record News² HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="JORNALISMO", Record News³ HD
+https://rede-muhler-recordnews-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Record News (ES)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
@@ -1260,6 +1275,9 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?ROGERIOTO
 
 #EXTINF:-1 group-title="VARIEDADES", FailArmy HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5141c1605ddf000748eb1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="VARIEDADES", FailArmy 2 HD
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Hits FM TV
 https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/chunklist.m3u8?ROGERIOTORRES
