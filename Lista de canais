@@ -526,19 +526,19 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 ###### FILMES E SÉRIES = 61 Canais ###########
 ##############################################
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Agente 86 - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Agente 86 24h - TV Series
 https://stmv1.srvif.com/tvserie7/tvserie7/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", A Mulher Bionica - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", A Mulher Bionica 24h - TV Series
 https://stmv1.srvif.com/tvserie2/tvserie2/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras 24h - TV Series
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Being Mary Jane HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Being Mary Jane - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850fe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", BET Pluto HD
@@ -550,7 +550,7 @@ https://59f1cbe63db89.streamlock.net:1443/canal24horastv/_definst_/canal24horast
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Chips - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Chips  24h - TV Series
 https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
@@ -607,6 +607,9 @@ https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Eu, A Patroa e as Crianças - 24h
+https://stmv1.srvif.com/euapatroaeascriancas/euapatroaeascriancas/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -619,22 +622,22 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca  24h - TV Series
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c058aa05ac0007d10054/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Jornada Nas Estrelas - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Jornada Nas Estrelas 24h - TV Series
 https://stmv1.srvif.com/tvserie3/tvserie3/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Kenan & Kel HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Kenan & Kel - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ffcc5130fd98c0007f2e216/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kuriakos Filmes
 http://c2.manasat.com:1935/kcine/kcine2/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", La Otra Cara Del Alma HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", La Otra Cara Del Alma - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61dc56caa2d0560007417d6c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Londrina TV HD
@@ -646,13 +649,13 @@ https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist.m3u8?ROGE
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movies HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Nashville HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Nashville - 24h HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Osorio HD
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Os Tres Patetas - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Os Tres Patetas - TV Series - 24h
 https://stmv1.srvif.com/tvserie6/tvserie6/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte HD
@@ -712,7 +715,7 @@ https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", X Plus TV HD
 https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Younger HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
