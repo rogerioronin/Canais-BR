@@ -149,6 +149,9 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
+https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
 https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
 
@@ -165,7 +168,7 @@ https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playli
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
-https://stream-02.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLmsV-49d-Yz-gteEjuIrN0Y)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://edge-se-01.eduplay.rnp.br/media/ocp(r(d0r2KQ)t(FtodFmYfMe8)p(d(83s)k(m80)m(PQ_VX1q7aShee0RLz4O-lw)n(a(QXcLYkh6CwGW7X3hjegl5k0-oR27AkWqlamV)s(8RA)'a(5_g82c4U44l-ut7qxXfSyWNe)s(Ho0)))s(t(W7M)b(KxUdcZ3HFjJDmzViep_lpnk9ZkQMfWFPNoYgqXsTiRnI_282dLe-VSGWi79SP6TnUkJ6kxugjOAZ6j7mmBwuVZHzhMxc04DmXRqTVcaGBwslEAs9VfaUyqn2eQ_a_KR6tySAzc-KTPbMhtZCrxLeiHX2MALH_vgQ3mL8XIG1zOxt)'t(u3Y)b(jMToxnMBkGOTFrVD_4H8Y1ZVqCbFQ3d3bUE)))/live_720_index.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
@@ -338,12 +341,6 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 
 #EXTINF:-1 group-title="ESPORTES", Dubai Sports 3 HD (ARA)
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", EDGEsport (ENG)
-https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Eleven Sports HD (ENG)
-https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
@@ -740,6 +737,9 @@ http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Chaves - 24h
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", EDGEsport (ENG)
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
