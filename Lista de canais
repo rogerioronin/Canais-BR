@@ -247,6 +247,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fac52f142044f00078e2a
 #EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV (ENG)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Nosey HD
+https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Nosey Escandalos HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -472,6 +475,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60f8841a4865da00074211
  
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV 2 HD
+https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashion Box HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f516730b78b7600079294f5/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
