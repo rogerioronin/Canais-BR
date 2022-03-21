@@ -976,6 +976,9 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u88?ROGERIOT
 #EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
 http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", GB News HD (ENG)
+https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=gvw7y8FUj1w/live
 
