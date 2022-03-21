@@ -1462,6 +1462,9 @@ https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunkl
 #EXTINF:-1 group-title="VARIEDADES", Urban TV HD
 https://5ad482a77183d.streamlock.net/urbantvstreaminggmail.com/urbantvstreaminggmail.com/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", US Brasil TV
+https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", VH1 Classics HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
