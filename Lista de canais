@@ -988,6 +988,9 @@ https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/ind
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="JORNALISMO", Mega Noticias HD (ESP)
+https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="JORNALISMO", NHK Japan (JAP)
 https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8?ROGERIOTORRES
 
