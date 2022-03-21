@@ -354,10 +354,10 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Fish TV HD
 http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ESP)
+#EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ESP) [erro]
 https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Fox Sports² HD (ESP)
+#EXTINF:-1 group-title="ESPORTES", Fox Sports² HD (ESP) [erro]
 https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
@@ -422,9 +422,6 @@ http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="ESPORTES", Stadium HD (ENG)
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", TYC Sports HD (ESP)
-https://d3awnlgqz0szay.cloudfront.net/out/v1/b841c366cbe540e6a106c3ba83e5c8d6/index_9.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
