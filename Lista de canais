@@ -592,6 +592,9 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Matter HD
 https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", DHT TV HD
+https://video01.kshost.com.br:4443/alan1268/alan1268/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entorno Sul Web TV
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
 
