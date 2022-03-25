@@ -173,6 +173,9 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
 https://edge-se-01.eduplay.rnp.br/media/ocp(r(d0r2KQ)t(FtodFmYfMe8)p(d(83s)k(m80)m(PQ_VX1q7aShee0RLz4O-lw)n(a(QXcLYkh6CwGW7X3hjegl5k0-oR27AkWqlamV)s(8RA)'a(5_g82c4U44l-ut7qxXfSyWNe)s(Ho0)))s(t(W7M)b(KxUdcZ3HFjJDmzViep_lpnk9ZkQMfWFPNoYgqXsTiRnI_282dLe-VSGWi79SP6TnUkJ6kxugjOAZ6j7mmBwuVZHzhMxc04DmXRqTVcaGBwslEAs9VfaUyqn2eQ_a_KR6tySAzc-KTPbMhtZCrxLeiHX2MALH_vgQ3mL8XIG1zOxt)'t(u3Y)b(jMToxnMBkGOTFrVD_4H8Y1ZVqCbFQ3d3bUE)))/live_720_index.m3u8
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil² HD
+https://stream-03.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLl4rgaIahInQ5N1DODo9fXQ)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 
