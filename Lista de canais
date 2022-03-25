@@ -1247,6 +1247,9 @@ https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="RELIGIOSO", TV Pai Eterno HD
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="RELIGIOSO", TV Vitoria PE
+https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/chunklist.m3u8?ROGERIOTORRES
+
 
 ##############################################
 ###### VARIEDADES = 76 Canais ################
