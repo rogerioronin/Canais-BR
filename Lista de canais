@@ -107,6 +107,9 @@ https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
 http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (RJ)
+http://b5.vc:80/danilo10/10danilo/131163.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (MG)
 http://168.205.87.198:8555/live/1499/123456/70.m3u8?ROGERIOTORRES
 
@@ -119,13 +122,16 @@ https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal² HD (PT) 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV¹ HD (SP)
+https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² HD (SP)
 http://b5.vc:80/danilo10/10danilo/77654.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² (SP) A
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV³ HD (SP)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:8080/jhonatha/123/499
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² (SP) A
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TVd HD (SP)
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pfsv.io:80/07720253/51853/52
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
