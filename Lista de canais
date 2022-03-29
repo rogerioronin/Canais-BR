@@ -16,8 +16,8 @@ http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO", Agro Mais HD
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Canal do Boi HD
-http://177.20.208.58:8000/play/a044/index.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="AGRO", CANAL DO BOI
+http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/486
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
@@ -64,6 +64,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ##############################################
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
+http://xcui.vitvabc.xyz:8880/287994016257/287994016257/16748
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (PR)
 https://cdn.jmvstream.com/w/LVW-8390/LVW8390_yxLZXwR4PU/chunklist.m3u8?ROGERIOTORRES
@@ -115,6 +118,15 @@ https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal² HD (PT) 
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (SP)
+http://b5.vc:80/danilo10/10danilo/77654.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² (SP)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:8080/jhonatha/123/499?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² (SP)
+plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pfsv.io:80/07720253/51853/52?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
