@@ -128,11 +128,8 @@ https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² HD (SP)
 http://b5.vc:80/danilo10/10danilo/77654.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP) [f4mTester]
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV³ HD (SP) [f4mTester]
 plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://45.224.115.214:8080/jhonatha/123/499
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TVd HD (SP) [f4mTester]
-plugin://plugin.video.f4mTester/?streamtype=HLSRETRY&amp;url=http://pfsv.io:80/07720253/51853/52
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RJ)
 https://playplusrjo-lh.akamaihd.net/i/pp_rj@377859/master.m3u8?ROGERIOTORRES
