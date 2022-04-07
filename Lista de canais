@@ -101,11 +101,8 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
-http://200.4.97.162:8000/play/a01t/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (RJ)
-http://b5.vc:80/danilo10/10danilo/131163.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (SP)
+https://live-vm-ce-03.video.globo.com/h/0401649358271594164174616492718712291003514nszJWjFvVDzplXsjNpF8bg/k/html5/a/F/u/377906d1-2f82-4626-8155-e4fb25e80e51/nu/globo-sp1/globo-sp1-audio_1=96000-video=3442944.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (MG)
 http://168.205.87.198:8555/live/1499/123456/70.m3u8?ROGERIOTORRES
