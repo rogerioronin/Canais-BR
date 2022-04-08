@@ -1489,6 +1489,9 @@ https://5c483b9d1019c.streamlock.net/8078/8078/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", TV Rio Grande HD
+https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?ROGERIOTORRES
 
