@@ -5,13 +5,10 @@
 ##############################################
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
-https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
 https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV³
-http://45.162.230.234:1935/agrobrasiltv/agrobrasiltv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Mais HD
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
@@ -100,9 +97,6 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (SP)
-https://live-vm-ce-03.video.globo.com/h/0401649358271594164174616492718712291003514nszJWjFvVDzplXsjNpF8bg/k/html5/a/F/u/377906d1-2f82-4626-8155-e4fb25e80e51/nu/globo-sp1/globo-sp1-audio_1=96000-video=3442944.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
 http://168.205.87.198:8555/live/anselmo/123456/70.m3u8?ROGERIOTORRES
@@ -371,12 +365,6 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fish TV HD
 http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ESP) [erro]
-https://lnc-fox-sports-espanol.tubi.video/index_4.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Fox Sports² HD (ESP) [erro]
-https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Fox-Sports-Espanol.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
