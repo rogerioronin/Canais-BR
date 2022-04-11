@@ -846,6 +846,9 @@ https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Revista
 https://stmv1.srvif.com/tvrevista/tvrevista/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TVS Kids e Series
+https://stmv1.srvif.com/tvskids/tvskids/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Urban TV Kids HD
 https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
 
