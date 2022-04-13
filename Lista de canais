@@ -218,9 +218,6 @@ https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP/ENG)
-http://177.20.208.58:8000/play/a03r/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature 2 HD (ESP/ENG)
 http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Minha Estranha Obsessão HD
@@ -246,9 +243,6 @@ https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", RT Documentary HD (ENG) 
-https://rt-rtd.gcdn.co/live/rtdoc/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Pronto-Socorro HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd27/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
