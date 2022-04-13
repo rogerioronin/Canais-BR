@@ -68,9 +68,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8?ROGERIOT
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (Interior)
-http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
 
