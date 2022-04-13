@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV²
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV |²
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Mais HD
@@ -104,7 +104,7 @@ http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
 https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal² HD (PT) 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) |²
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
@@ -113,7 +113,7 @@ https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV² HD (MT)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT) |²
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
@@ -131,7 +131,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP) [erro]
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (AM)
@@ -143,7 +143,7 @@ http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PI)
 http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR) [erro]
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD [erro]
@@ -162,7 +162,7 @@ https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playli
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
-https://stream-04.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLrtDIPd_AxQuhpqDdqpHuFYd-6wgsQLDlLUePCNfQ3fp)/dm/3/x82pp99/d/live-3.m3u8#cell=lnyc
+https://dai.ly/x82pp99
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
@@ -173,19 +173,19 @@ https://cdn.jmvstream.com/w/LVW-8711/ngrp:LVW8711_tG0F3TEBDL_all/playlist.m3u8?R
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TVE² HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD |²
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta - TVC HD
-https://5ad482a77183d.streamlock.net/financeirotvc21.com.br/financeirotvc21.com.br/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD |²
+https://dai.ly/x89qors
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo HD
 http://aovivo.paranaeducativa.pr.gov.br/hls/tve.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo² HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo HD |²
 http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
@@ -417,7 +417,7 @@ https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", TNT Sports 1² HD
+#EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD |²
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 2 HD
@@ -470,7 +470,7 @@ https://samsung-br.ott-channels.stingray.com/naturescape/master.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f515d080e738d000739e19c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome² HD
+#EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome HD |²
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Queens United TV HD
@@ -479,7 +479,7 @@ https://cdn.connectbr.com.br/Queens/video.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade² HD
+#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade HD |²
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", U Miss HD
@@ -535,7 +535,7 @@ https://stmv1.srvif.com/tvserie4/tvserie4/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite² HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD |²
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
@@ -550,7 +550,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic HD
 http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic² HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic HD |²
 https://alanza.iptv2022.com/CLC/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
@@ -667,7 +667,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
 https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime² HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD |²
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
@@ -747,7 +747,7 @@ http://dns.ccdns2.xyz/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/13269.m3u8?ROGERIOT
 #EXTINF:-1 group-title="GEEK", BR Super TV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", BR Super TV²
+#EXTINF:-1 group-title="GEEK", BR Super TV |²
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Chaves - 24h
@@ -849,7 +849,7 @@ https://stmv6.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Web TV Cine HD
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Web TV Cine² HD
+#EXTINF:-1 group-title="GEEK", Web TV Cine HD |²
 https://alanza.iptv2022.com/WEB_tv_Cine/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Web TV Xtreme
@@ -967,7 +967,7 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", CNN Brasil² HD
+#EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD |²
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
 
 #EXTINF:-1 group-title="JORNALISMO", CNN International HD (ENG)
@@ -976,7 +976,7 @@ https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERI
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 group-title="JORNALISMO", Euronews HD² (PT)
+#EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT) |²
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u88?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
@@ -1003,7 +1003,7 @@ https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m
 #EXTINF:-1 group-title="JORNALISMO", Record News HD
 https://rede-muhler-recordnews-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", Record News² HD
+#EXTINF:-1 group-title="JORNALISMO", Record News HD |²
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="JORNALISMO", Record News (ES)
@@ -1145,36 +1145,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/604b91e06
 
 #EXTINF:-1 group-title="MUSICAS", Spirit TV HD
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Greatest Hits HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/155/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Hit List HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/107/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Classic Rock HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/101/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Rock Alternative HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/102/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Pop Adult HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/104/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Urban Beat HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/133/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Hot Country HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/108/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Flashback 70s HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/115/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Everything 80s HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/128/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Stingray Today's Latin Pop HD
-https://ott-linear-channels.stingray.com/v1/master/734895816ccb1e836f8c1e81f772244d9be0077c/190/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
