@@ -652,7 +652,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea400077833
 #EXTINF:-1 group-title="FILMES E SÉRIES", Series HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD [erro]
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Spark TV HD
@@ -685,13 +685,13 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", UniTV
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Up Webtv HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Up Webtv HD [erro]
 https://stmv5.samcast.com.br/paulo2703/paulo2703/chunklist_w277348870.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD [erro]
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Web TV Classicos Do Cinema HD
@@ -716,9 +716,6 @@ https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Bons Tempos TV
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Bob Esponja - 24h
-http://dns.ccdns2.xyz/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/13269.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", BR Super TV
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
