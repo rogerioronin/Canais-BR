@@ -759,7 +759,7 @@ https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", South Park HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="GEEK", Todo Mundo Odeia o Cris - 24h
+#EXTINF:-1 group-title="GEEK", Todo Mundo Odeia o Cris - 24h [erro]
 http://dns.ccdns2.xyz/live/homevod/ihxOy9YYvoH4bO1qBvf1zuU6m/9659.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Alagonet
@@ -771,7 +771,7 @@ https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Classicos HD
+#EXTINF:-1 group-title="GEEK", TV Classicos HD [erro]
 https://stmv1.srvstm.com/jorgeandresilva1366/jorgeandresilva1366/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
@@ -791,9 +791,6 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Max 90
 https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Nova fase
-https://stmv6.samcast.com.br/lucascardosodasilva8329/lucascardosodasilva8329/chunklist.m3u8
 
 #EXTINF:-1 group-title="GEEK", TV Potengi
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
