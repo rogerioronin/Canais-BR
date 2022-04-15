@@ -718,9 +718,6 @@ https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", BR Super TV
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", BR Super TV |²
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Chaves - 24h
@@ -751,7 +748,7 @@ https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
 https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Rede Clone TV HD
-https://stmv5.samcast.com.br/abnerbom1543/abnerbom1543/playlist.m3u8?ROGERIOTORRES
+https://stmv2.samcast.com.br/redeclonetv/redeclonetv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Rede Que Demais
 https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist.m3u8?ROGERIOTORRES
