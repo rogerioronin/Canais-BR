@@ -622,10 +622,10 @@ https://5cf4a2c2512a2.streamlock.net/tvliberdade/tvliberdade/chunklist.m3u8?ROGE
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movies HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Nashville - 24h HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Nashville - 24h HD [erro]
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgate-nashville-bpo-samsungbr/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Nashville - 24h² HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Nashville - 24h² HD [erro]
 https://amg00353-lionsgate-nashville-bpo-samsungbr-e8zmf.amagi.tv/playlist1080pl.m3u8
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Osorio HD
@@ -637,14 +637,11 @@ https://stmv1.srvif.com/tvserie6/tvserie6/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte HD
 https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Rede TV Sul HD
-https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
-https://runtimebrazil-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+https://stream.ads.ottera.tv/cl/cd97ffc0-8abd-4d69-9834-09fcef9c4441/1280x720_3071200_0_false.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD |²
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=665
@@ -1332,6 +1329,9 @@ https://5c483b9d1019c.streamlock.net/8066/8066/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Rede TVC Brasil
 https://srv1.zcast.com.br/tvc/tvc/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Rede TV Sul HD
+https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Rede UTV Brasil HD
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?ROGERIOTORRES
