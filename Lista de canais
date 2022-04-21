@@ -351,7 +351,7 @@ https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Fish TV HD
 http://168.205.87.198:8555/live/123456/123456/62.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Fox Sports HD (ENG)
+#EXTINF:-1 group-title="ESPORTES", Fox Sports News HD (ENG)
 http://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fuel TV HD
