@@ -179,6 +179,9 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
 https://dai.ly/x82pp99
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD (ES)
+https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 
@@ -786,8 +789,8 @@ https://stmv3.samcast.com.br/eduardo7982/eduardo7982/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Channel Network
 https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Classicos HD [erro]
-https://stmv1.srvstm.com/jorgeandresilva1366/jorgeandresilva1366/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", TV Classicos HD
+https://stmv1.srvstm.com/jorgeandresilva9323/jorgeandresilva9323/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
@@ -988,7 +991,7 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8?ROGERIO
 #EXTINF:-1 group-title="JORNALISMO", Record News HD |²
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="JORNALISMO", Record News (ES)
+#EXTINF:-1 group-title="JORNALISMO", Record News (RS)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Reuters HD
