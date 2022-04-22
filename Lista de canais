@@ -1240,6 +1240,9 @@ https://5a57bda70564a.streamlock.net/smart/smart.sdp/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Canal TV Rio
 https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Caravelas TV
+https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Central TV
 https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8?ROGERIOTORRES
 
