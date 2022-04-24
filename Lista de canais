@@ -95,8 +95,8 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD
-http://168.205.87.198:8555/live/anselmo/123456/70.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (BA)
+https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (MG)
 http://168.205.87.198:8555/live/1499/123456/70.m3u8?ROGERIOTORRES
@@ -111,7 +111,13 @@ https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
+https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP) |²
 https://play.hosannatelecom.com.br/media/n/BZfJAdq/a/playlist.m3u8?ch=BZfJAdq&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDg2MDg3NTcsInN1YiI6ImRlZmF1bHQjMTYzOTY4MDAzNSIsImV4cCI6MTY1MDc2ODc1N30.9LeOcjnnF0VyhvzbjRUbaoAZkweytkjEgWYjx-b4B1I
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Rede Familia HD (SP)
+https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
@@ -841,8 +847,7 @@ https://alanza.iptv2022.com/WEB_tv_Cine/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", YEEAAH TV HD
-http://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
-
+https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
 
 ######################################
 ###### INFANTIL = 19 Canais ##########
@@ -1386,6 +1391,9 @@ https://livefocamundo.com:8081/tvaracati/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Brasil Hits HD
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Brasileira HD
+http://tca.tv.br/media/n/BZi1nZuZy2GXmdaYotG1/a/playlist.m3u8?ch=BZi1nZuZy2GXmdaYotG1&t=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE2NDkwMTA1ODksInN1YiI6ImRlZmF1bHQjMTYzMzcyMzc3MSIsImV4cCI6MTY1MTE1ODA3Mn0.A-DEBpMG2eMaH0bCwlOUS8oUF_Wf7SvT3lDYgg9eP0Y
 
 #EXTINF:-1 group-title="VARIEDADES", TV BRICS HD
 https://porbrics.mediacdn.ru/cdn/brics/portuguese/tracks-v1a1/mono.m3u8?ROGERIOTORRES
