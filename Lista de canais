@@ -960,6 +960,9 @@ https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD |²
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
 
+#EXTINF:-1 group-title="JORNALISMO", CNN Portugal HD
+https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDU6MjM6NyBQTSZoYXNoX3ZhbHVlPTVXU2EvcUZrV29jelJSc1NRTVFTUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMjQxODk1YS1mYmE0LTQxMWYtYWQ2OS0zMjI4NzM2ODRkZTk=
+
 #EXTINF:-1 group-title="JORNALISMO", CNN International HD (ENG)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
@@ -995,6 +998,9 @@ https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8?ROGERIO
 
 #EXTINF:-1 group-title="JORNALISMO", Record News HD |²
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="JORNALISMO", Record News HD |³
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live
 
 #EXTINF:-1 group-title="JORNALISMO", Record News (RS)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
