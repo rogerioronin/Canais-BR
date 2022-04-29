@@ -110,12 +110,6 @@ https://streamer-a03.videos.sapo.pt/live/portocanal/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) |²
 http://213.13.26.11:1935/live/portocanal/KodiPortugal.pt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP)
-https://r7live05-lh.akamaihd.net/i/pgm05_1@833313/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (SP) |²
-https://play.hosannatelecom.com.br/media/n/BZfJAdq/a/playlist.m3u8?ch=BZfJAdq&t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpYXQiOjE2NDg2MDg3NTcsInN1YiI6ImRlZmF1bHQjMTYzOTY4MDAzNSIsImV4cCI6MTY1MDc2ODc1N30.9LeOcjnnF0VyhvzbjRUbaoAZkweytkjEgWYjx-b4B1I
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Rede Familia HD (SP)
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?ROGERIOTORRES
 
@@ -188,6 +182,9 @@ https://dai.ly/x82pp99
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD (ES)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil - Plan TV HD (MG)
+https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 
@@ -214,6 +211,9 @@ http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Viçosa HD
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
