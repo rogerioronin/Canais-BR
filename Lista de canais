@@ -13,7 +13,7 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="AGRO", Agro Mais HD
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Canal Do Boi
+#EXTINF:-1 group-title="AGRO", Canal Do Boi [erro]
 http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/486
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
@@ -45,7 +45,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", AniTV HD
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Zone TV HD (ESP)
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Zone TV HD (ESP) [erro]
 https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime HD (ENG)
@@ -80,7 +80,7 @@ http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE² HD (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR) |²
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura Educação - Master TV HD
@@ -95,10 +95,10 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (BA)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (BA) [erro]
 https://canal1.proxy.tokplay.com.br:443/videos/TV_BAHIA/format720p_TV_BAHIA.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (MG)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo HD (MG) [erro]
 http://168.205.87.198:8555/live/1499/123456/70.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
@@ -137,7 +137,7 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD
 https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD |²
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD |² [erro]
 https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
@@ -161,8 +161,8 @@ http://stmv1.transmissaodigital.com:1935/cidadeverdenovo/cidadeverdenovo/playlis
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PR)
 https://cdn-cdn-iguacu.ciclano.io:1443/cdn-iguacu/cdn-iguacu/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD [erro]
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index1080p.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", SESC TV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/621b6f2c-2dc6-41f1-9302-f9583c96ee31_index1080p.m3u8
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?ROGERIOTORRES
@@ -212,7 +212,7 @@ http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Viçosa HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Viçosa HD [erro]
 http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?ROGERIOTORRES
 
 
@@ -262,7 +262,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b
 #EXTINF:-1 group-title="DOCUMENTARIOS", O encantador De Cães HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Phoenix TV HD [erro]
+#EXTINF:-1 group-title="DOCUMENTARIOS", Phoenix TV HD
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
@@ -276,9 +276,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective HD (ENG)
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Travel Box Brazil HD [erro]
-http://177.20.208.58:8000/play/a04i/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", TVideoNews HD
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/playlist.m3u8?ROGERIOTORRES
