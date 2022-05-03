@@ -289,7 +289,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32d4d9ec194100070c74
 #EXTINF:-1 group-title="DOCUMENTARIOS", Wild Earth HD (ENG)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", XR Health HD [erro]
+#EXTINF:-1 group-title="DOCUMENTARIOS", XR Health HD
 https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 
 
@@ -324,7 +324,7 @@ http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP)
+#EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP) [erro]
 https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", BMTV HD
