@@ -1,13 +1,5 @@
 #EXTM3U
 
-Tumba do Dragão
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/609c05385ff04300139d525d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe783bd42e001ac65834/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Código de Conduta
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe783bd42e001ac65834/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/5f86fe7e3bd42e001ac658ea/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", Expresso do Amanhã
-https://service-stitcher.clusters.pluto.tv/stitch/hls/episode/5f86fe7e3bd42e001ac658ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/episodes/607ec447f96a44001a1e2133/poster.jpg?fill=blur&fit=fill&fm=jpg&h=1000&q=75&w=694" group-title="Filmes Populares", 
-
 ##############################################
 ########### AGRO = 10 Canais #################
 ##############################################
