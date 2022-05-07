@@ -1072,9 +1072,6 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Qwest TV Mix HD
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Radio Capital
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Rede RC
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8?ROGERIOTORRES
 
