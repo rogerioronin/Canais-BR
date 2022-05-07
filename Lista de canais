@@ -645,13 +645,14 @@ https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD [teste]
+#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
 https://stream.ads.ottera.tv/cl/faba4e11-4241-4018-ac36-f7e6363650d7/1280x720_3071200_0_false.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime - Ação HD
-https://stream.ads.ottera.tv/cl/6bb37182-3a38-4129-b238-e7a96898d396/1280x720_3071200_0_false.m3u8?ROGERIOTORRES
+https://stream.ads.ottera.tv/cl/74009d7f-7b3e-4635-ac1f-2067d702c9aa/1280x720_2300000_0_false.m3u8
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime - Comedia HD
+https://stream.ads.ottera.tv/cl/b8ea6e3a-bb5f-4d6b-a385-cc4cd76a7ed0/1280x720_2300000_0_false.m3u8
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
