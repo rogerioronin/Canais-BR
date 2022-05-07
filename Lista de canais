@@ -791,7 +791,7 @@ https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV Potengi
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV RBC
+#EXTINF:-1 group-title="GEEK", TV RBC [erro]
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Revista
@@ -815,8 +815,8 @@ https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Web TV Cine HD |²
 https://alanza.iptv2022.com/WEB_tv_Cine/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Web TV Xtreme
-https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Web TV Xtreme HD
+https://stmv2.samcast.com.br/webtvxtreme/webtvxtreme/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", YEEAAH TV HD
 https://srv3.zcast.com.br/yeeaah/yeeaah/playlist.m3u8?ROGERIOTORRES
