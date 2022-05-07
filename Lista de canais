@@ -882,13 +882,10 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/w
 #EXTINF:-1 group-title="INFANTIL", PJ Maks HD
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GOZRRk0uh3Y/live
 
-#EXTINF:-1 group-title="INFANTIL", Power Rangers Beast Morphers HD
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=BDr9LPirMZY/live
-
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="INFANTIL", Ra-Tim-Bum
+#EXTINF:-1 group-title="INFANTIL", Ra-Tim-Bum [erro]
 http://177.20.208.58:8000/play/a029/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Rugrats HD
@@ -916,9 +913,6 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", BM&C News
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/BMCNEWStv/live&quality=1080p
 
 #EXTINF:-1 group-title="JORNALISMO", Canal 324 HD (CAT)
 https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8?ROGERIOTORRES
