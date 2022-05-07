@@ -713,6 +713,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 #EXTINF:-1 group-title="GEEK", AWTV HD
 https://video01.logicahost.com.br/awtv/awtv/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", AWTV HD |²
+https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", BCC Gaming HD (ENG)
 https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -1149,10 +1152,10 @@ https://5d82644094cc0.streamlock.net/8002/8002/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="RELIGIOSO", TV Evangelizar HD
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="RELIGIOSO", TV Gideoes HD
+#EXTINF:-1 group-title="RELIGIOSO", TV Gideoes HD [erro]
 https://streaming01.zas.media/gideoes/programacao/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD
+#EXTINF:-1 group-title="RELIGIOSO", TV Novo Tempo HD [erro]
 https://origin-02.nxplay.com.br/NOVO_TEMPO_HD_PFZ/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", TV Pai Eterno HD
@@ -1171,9 +1174,6 @@ https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", AWC Channel HD
-https://cdn.jmvstream.com/w/LVW-9773/ngrp:LVW9773_eRZLMN9Hsr_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", BRZ Brasi TV HD
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?ROGERIOTORRES
@@ -1216,9 +1216,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f357e91b18f0b00073583
 
 #EXTINF:-1 group-title="VARIEDADES", Conect TV HD
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", CTV HD
-https://5d2c98775bafe.streamlock.net/8020/8020/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", D+TV HD
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORRES
