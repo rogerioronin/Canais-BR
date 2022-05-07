@@ -734,9 +734,6 @@ http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", GLN TV HD
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Imperial TV HD
-https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", Jackie Chan HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a57495/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
