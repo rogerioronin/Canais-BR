@@ -693,7 +693,7 @@ https://stmv1.srvstm.com/paulo4642/paulo4642/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
 https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD [erro]
+#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD
 https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Web TV Classicos Do Cinema HD
@@ -711,7 +711,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ######################################
 
 #EXTINF:-1 group-title="GEEK", AWTV HD
-https://59f1cbe63db89.streamlock.net:1443/abraao/_definst_/abraao/chunklist.m3u8?ROGERIOTORRES
+https://video01.logicahost.com.br/awtv/awtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", BCC Gaming HD (ENG)
 https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
