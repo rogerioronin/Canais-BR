@@ -1271,7 +1271,7 @@ http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Mundo TV
 https://59f1cbe63db89.streamlock.net:1443/mundotv/_definst_/mundotv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", Murilo TV
+#EXTINF:-1 group-title="VARIEDADES", Murilo TV [erro]
 https://stmv1.samcast.com.br/murilotv/murilotv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Novo Tempo HD
@@ -1309,9 +1309,6 @@ https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Sou TV HD
 https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
-
-#EXTINF:-1 group-title="VARIEDADES", Sulanca
-https://srv3.zcast.com.br/severino6254/severino6254/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8?ROGERIOTORRES
