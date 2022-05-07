@@ -134,9 +134,6 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD
 https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD |² [erro]
-https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
@@ -209,9 +206,7 @@ http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Viçosa HD [erro]
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?ROGERIOTORRES
-
+#EXTINF:-1 group-title="CANAIS ABERTOS", 
 
 ##############################################
 ###### DOCUMENTARIOS = 24 Canais #############
