@@ -4,17 +4,14 @@
 ########### AGRO = 10 Canais #################
 ##############################################
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV
-https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV |²
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV 
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV |² [erro]
+https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Mais HD
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Canal Do Boi [erro]
-http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/486
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
