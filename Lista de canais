@@ -206,8 +206,6 @@ http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", 
-
 ##############################################
 ###### DOCUMENTARIOS = 24 Canais #############
 ##############################################
@@ -257,7 +255,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2e
 #EXTINF:-1 group-title="DOCUMENTARIOS", Phoenix TV HD
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
+#EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT/ENG)
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Pronto-Socorro HD
@@ -307,7 +305,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4d1697f10a0e000798ed
 #EXTINF:-1 group-title="ESPORTES", All Sports
 https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Bahrain Sport 1 (ARA)
+#EXTINF:-1 group-title="ESPORTES", Bahrain Sport (ARA)
 http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Band Sports HD
@@ -316,9 +314,7 @@ http://cdn.connectbr.com.br/BandSports/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP) [erro]
-https://tv.siete.us/bestcablesports/bestcablesports/index.m3u8?ROGERIOTORRES
-
+#EXTINF:-1 group-title="ESPORTES", Best Cable Sports Peru (ESP)
 #EXTINF:-1 group-title="ESPORTES", BMTV HD
 https://srv5.zcast.com.br/bmtv/bmtv/playlist.m3u8?ROGERIOTORRES
 
