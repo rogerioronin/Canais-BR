@@ -645,7 +645,7 @@ https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD [erro]
 https://stream.ads.ottera.tv/cl/faba4e11-4241-4018-ac36-f7e6363650d7/1280x720_3071200_0_false.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
@@ -948,13 +948,13 @@ https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/in
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Record News HD
-https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8?ROGERIOTORRES
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live
 
 #EXTINF:-1 group-title="JORNALISMO", Record News HD |²
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="JORNALISMO", Record News HD |³
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/channel/UCuiLR4p6wQ3xLEm15pEn1Xw/live
+https://rede-muhler-recordnews-1-br.samsung.wurl.com/manifest/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Record News (RS)
 https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
@@ -976,7 +976,7 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 ###### MUSICAS = 52 Canais ###########
 ######################################
 
-#EXTINF:-1 group-title="MUSICAS", 1HD Music
+#EXTINF:-1 group-title="MUSICAS", 1HD Music [erro]
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", 1Mus.com HD
@@ -994,7 +994,7 @@ https://livefocamundo.com:8081/allegrowebtv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", America Latino HD
+#EXTINF:-1 group-title="MUSICAS", America Latino HD [erro]
 http://origin-02.nxplay.com.br/AMERICOLATINO/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV HD
@@ -1015,7 +1015,7 @@ http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", H!tts HD
+#EXTINF:-1 group-title="MUSICAS", H!tts HD [erro]
 http://origin-02.nxplay.com.br/HITTS/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Italianissimo HD
@@ -1029,9 +1029,6 @@ https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Loop 90's HD
 https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", M2O HD
-https://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Mega HD
 http://origin-02.nxplay.com.br/MEGA/playlist.m3u8?ROGERIOTORRES
