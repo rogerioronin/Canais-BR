@@ -923,23 +923,11 @@ http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
 https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD |²
-https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
-
-#EXTINF:-1 group-title="JORNALISMO", CNN Portugal HD
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDU6MjM6NyBQTSZoYXNoX3ZhbHVlPTVXU2EvcUZrV29jelJSc1NRTVFTUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMjQxODk1YS1mYmE0LTQxMWYtYWQ2OS0zMjI4NzM2ODRkZTk=
-
 #EXTINF:-1 group-title="JORNALISMO", CNN International HD (ENG)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c9d9650007a2b171/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT) |²
-https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u88?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
-http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", GB News HD (ENG)
 https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?ROGERIOTORRES
