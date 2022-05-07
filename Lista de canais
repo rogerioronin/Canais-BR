@@ -1223,11 +1223,8 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="VARIEDADES", Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", DHT TV
+#EXTINF:-1 group-title="VARIEDADES", DHT TV [erro]
 https://video01.kshost.com.br/alan1268/alan1268/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", Ditty TV HD (ENG)
-https://azroe0x-lh.akamaihd.net/i/test_1@775856/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Elemental Channel HD
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8?ROGERIOTORRES
