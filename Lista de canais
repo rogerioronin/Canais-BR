@@ -1236,7 +1236,7 @@ https://stmv1.srvsite.com/ely/ely/playlist.m3u8?ROGERIOTORRES
 http://video02.kshost.com.br/manoel2072/manoel2072/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Estilo TV HD
-https://596639ebdd89b.streamlock.net/estilo/estilo/playlist.m3u8?ROGERIOTORRES
+https://cdn.jmvstream.com/w/AVJ-10657/playlist/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", EuTV HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?ROGERIOTORRES
