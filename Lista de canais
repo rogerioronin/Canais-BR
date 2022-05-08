@@ -65,6 +65,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band HD (SP)
 http://evpp.mm.uol.com.br:1935/geob_band/app/chunklist_w1727390252.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band SP Interior HD
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
@@ -739,6 +742,9 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Geek e Tech - Pluto TV HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f65/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="GEEK", GLN TV HD
 https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist.m3u8?ROGERIOTORRES
