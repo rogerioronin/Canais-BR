@@ -54,6 +54,9 @@ https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGER
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", StrikerVerso HD
+https://srv3.zcast.com.br/leonardo2328/leonardo2328/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Tokusatsu HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
