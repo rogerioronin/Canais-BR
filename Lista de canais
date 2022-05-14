@@ -143,6 +143,9 @@ https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TVT HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
@@ -543,6 +546,9 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-cindie-samsungbr/playl
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD |²
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD |³
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1310
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -658,13 +664,13 @@ https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
-https://stream.ads.ottera.tv/cl/faba4e11-4241-4018-ac36-f7e6363650d7/1280x720_3071200_0_false.m3u8?ROGERIOTORRES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime - Ação HD
-https://stream.ads.ottera.tv/cl/74009d7f-7b3e-4635-ac1f-2067d702c9aa/1280x720_2300000_0_false.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Runtime - Comedia HD
-https://stream.ads.ottera.tv/cl/b8ea6e3a-bb5f-4d6b-a385-cc4cd76a7ed0/1280x720_2300000_0_false.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
