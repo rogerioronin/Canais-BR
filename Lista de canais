@@ -398,6 +398,9 @@ https://motorracingchannel-live.sports.tv/v1/master/758627660e995d43cdf594915ca6
 #EXTINF:-1 group-title="ESPORTES", Motorvision HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Motorvision HD |²
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=758
+
 #EXTINF:-1 group-title="ESPORTES", Nitro TV HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
 
@@ -915,7 +918,7 @@ https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/w
 #EXTINF:-1 group-title="INFANTIL", PJ Maks HD
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=GOZRRk0uh3Y/live
 
-#EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
+#EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT/ENG)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Ra-Tim-Bum [erro]
@@ -926,6 +929,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8
 
 #EXTINF:-1 group-title="INFANTIL", Toon Goggle HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=825
+
+#EXTINF:-1 group-title="INFANTIL", Toon Goggle HD |²
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
 #EXTINF:-1 group-title="INFANTIL", TV R HD
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
@@ -943,6 +949,9 @@ https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Al Jazeera English HD (ENG)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", ARTV HD (PT)
+https://playout175.livextend.cloud/livenlin4/2liveartvpub/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
