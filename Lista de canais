@@ -1247,9 +1247,6 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORR
 #EXTINF:-1 group-title="VARIEDADES", Demand Africa HD
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", DHT TV [erro]
-https://video01.kshost.com.br/alan1268/alan1268/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES", Elemental Channel HD
 https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8?ROGERIOTORRES
 
@@ -1381,6 +1378,9 @@ https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbi
 
 #EXTINF:-1 group-title="VARIEDADES", TV Do Povo HD
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Erga Omnes HD
+https://alanza.iptv2022.com/TV_Erga_Omnes/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV FAAP HD
 http://midia.faap.br:80/faaplatamlive-live/stream_720/livestream.m3u8?ROGERIOTORRES
