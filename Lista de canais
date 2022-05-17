@@ -770,6 +770,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Kids Mais HD
+https://alanza.iptv2022.com/REDE_NOVA_FAMILIA/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Nova Gazeta HD
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
 
@@ -781,6 +784,9 @@ https://stmv2.samcast.com.br/redeclonetv/redeclonetv/chunklist.m3u8?ROGERIOTORRE
 
 #EXTINF:-1 group-title="GEEK", Rede Que Demais
 https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Rede Que Demais 2
+https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Retro Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
@@ -808,9 +814,6 @@ https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Gallo HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV KidMais
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil HD
 https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
