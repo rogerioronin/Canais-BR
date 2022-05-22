@@ -241,6 +241,9 @@ https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e170f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP/ENG)
 http://bamus-spa-roku.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -972,6 +975,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619e6614c
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT) |²
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u88?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT) |³
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
+
 #EXTINF:-1 group-title="JORNALISMO", France24 HD (ESP)
 http://static.france24.com/live/F24_ES_LO_HLS/live_ios.m3u8?ROGERIOTORRES
 
@@ -1132,6 +1138,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/play
 
 #EXTINF:-1 group-title="MUSICAS", Rock TV
 http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", RTL Classics
+https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Sexy KpopTV HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?ROGERIOTORRES
