@@ -4,7 +4,9 @@
 ########### AGRO = 10 Canais #################
 ##############################################
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r0Zk0Pn.png" group-title="A novidade",Canais RTP de Portugal
+
+#EXTINF:-1 group-title="AGRO" tvg-logo="https://github.com/rogerioronin/Canais-BR/blob/main/Logos/AGRO/Agro%20Brasil%20TV.jpg", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV |²
