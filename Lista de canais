@@ -10,11 +10,8 @@ https://origin-02.nxplay.com.br/AGROBRASIL_TV/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV |²
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Mais HD
+#EXTINF:-1 group-title="AGRO", Agro Mais HD [erro]
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Canal Do Boi [erro]
-http://main.webhostingtoto.xyz:2095/NEW_LIVE646511536/4684398160/486
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
@@ -42,10 +39,10 @@ https://stmv1.srvif.com/animetv/animetv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", AniTV HD
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", AniTV HD [erro]
 https://srv6.zcast.com.br/anitv/anitv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Zone TV HD (ESP) [erro]
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Zone TV HD (ESP)
 https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime HD (ENG)
@@ -95,7 +92,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - Unisc TV HD
 https://tv.unisc.br/hls/test.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Multi Cultura HD [erro]
 http://origin-02.nxplay.com.br/MULTICULTURA_PFZ/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Porto Canal HD (PT) 
@@ -130,9 +127,6 @@ https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf9906
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD
 https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD |² [erro]
-https://canal1.proxy.tokplay.com.br/streams/REDE_TV/auto.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
@@ -206,9 +200,6 @@ http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV UFG HD
 http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Viçosa HD [erro]
-http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?ROGERIOTORRES
-
 
 ##############################################
 ###### DOCUMENTARIOS = 24 Canais #############
@@ -226,10 +217,10 @@ https://stmv.video.expressolider.com.br/ghostv/ghostv/playlist.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Inwild TV HD (ENG)
+#EXTINF:-1 group-title="DOCUMENTARIOS", Inwild TV HD (ENG) [erro]
 https://inwild-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Inwonder TV HD (ENG)
+#EXTINF:-1 group-title="DOCUMENTARIOS", Inwonder TV HD (ENG) [erro]
 https://inwonder-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
