@@ -170,8 +170,8 @@ https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playli
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (MG)
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
-https://dai.ly/x82pp99
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil WEB HD
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/tvbrasilweb
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD (ES)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
