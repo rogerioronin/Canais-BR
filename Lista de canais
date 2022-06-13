@@ -137,6 +137,9 @@ https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TVT HD
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
