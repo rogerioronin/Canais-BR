@@ -48,6 +48,9 @@ https://azxtv.com/hls/stream.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime HD (ENG)
 https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Death Note - 24h HD 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV HD
 https://stmv.video.expressolider.com.br/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
 
@@ -868,7 +871,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e1
 #EXTINF:-1 group-title="INFANTIL", Baby Alive HD
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=9Yt-MDzIaf0/live
 
-#EXTINF:-1 group-title="INFANTIL", Bob Esponja HD
+#EXTINF:-1 group-title="INFANTIL", Bob Esponja - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="INFANTIL", Cartoon Network Brasil HD
@@ -958,13 +961,7 @@ https://directes-tv-int.ccma.cat/int/ngrp:324_web/playlist.m3u8?ROGERIOTORRES
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD |²
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/CNNbrasil/live
-
-#EXTINF:-1 group-title="JORNALISMO", CNN Portugal HD
-https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yMy8yMDIyIDU6MjM6NyBQTSZoYXNoX3ZhbHVlPTVXU2EvcUZrV29jelJSc1NRTVFTUUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMjQxODk1YS1mYmE0LTQxMWYtYWQ2OS0zMjI4NzM2ODRkZTk=
 
 #EXTINF:-1 group-title="JORNALISMO", CNN International HD (ENG)
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
@@ -986,6 +983,9 @@ https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8?RO
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index_10.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD |²
+https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/c/jovempannews/live
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602e80c762306a0007179876/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
