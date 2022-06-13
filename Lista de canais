@@ -1368,6 +1368,9 @@ https://5a0c3936c25c8.streamlock.net/8032/8032/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Rede UTV Brasil HD
 https://srv4.zcast.com.br/redetvoficial/redetvoficial/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Revry Brasil HD
+http://linear-181.frequency.stream/dist/roku/181/hls/master/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Sol Brasil HD
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8?ROGERIOTORRES
 
