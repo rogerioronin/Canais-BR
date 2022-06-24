@@ -1312,6 +1312,9 @@ https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="VARIEDADES", Lass TV HD
 https://streaming03.zas.media:1936/lasstv/lasstv/master.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Lass TV HD |²
+https://alanza.iptv2022.com/LASS_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Livre TV HD
 https://serv2.videovox.pw/lindon5124/lindon5124/playlist.m3u8?ROGERIOTORRES
 
