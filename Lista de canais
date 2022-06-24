@@ -757,6 +757,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Nova Gazeta HD
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", One TV HD
+https://stmv1.painelvideo.top/102030/102030/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Pica-Pau - 24h
 http://srv.newtop.tech:80/c2rjwxuf/x68cim84/564050
 
