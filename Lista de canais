@@ -1503,3 +1503,39 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chu
 
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
+
+RECORD KODI
+RECORD BAHIA HDCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BAHIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/365136
+#EXTINF:-1 tvg-id="" tvg-name="RECORD BH HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BH HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/376111
+#EXTINF:-1 tvg-id="record.brasilia.br" tvg-name="RECORD BRASILIA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD BRASILIA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/207859
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD CAMPINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD CAMPINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/365182
+#EXTINF:-1 tvg-id="record.goias.br" tvg-name="RECORD GO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD GO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/207861
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="RECORD HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/366942
+#EXTINF:-1 tvg-id="" tvg-name="RECORD MINAS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD MINAS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/415611
+#EXTINF:-1 tvg-id="record.news.br" tvg-name="RECORD NEWS HD" tvg-logo="https://lh3.googleusercontent.com/-xWtGDNr_ldQ/YB61mNKJ_HI/AAAAAAAAJ_4/12RowIHjmjEXH2dQvmMiRYlSrIBeA6zkACLcBGAsYHQ/Record%2BNews.png" group-title="NOTICIAS",RECORD NEWS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/184277
+#EXTINF:-1 tvg-id="record.rs.br" tvg-name="RECORD PA HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD PA HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/207864
+#EXTINF:-1 tvg-id="band.br" tvg-name="RECORD RJ HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD RJ HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/372630
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD RJ HDÂ¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD RJ HDF¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/365137
+#EXTINF:-1 tvg-id="" tvg-name="RECORD RS HDÂ¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD RS HDF¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/415613
+#EXTINF:-1 tvg-id="record.br" tvg-name="RECORD SANTOS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SANTOS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/365138
+#EXTINF:-1 tvg-id="band.br" tvg-name="RECORD SP HDÂ¹" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD SP HDF¹
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/397008
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV MANAUS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV MANAUS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/413997
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV RIO HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV RIO HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/375828
+#EXTINF:-1 tvg-id="" tvg-name="RECORD TV RS HD" tvg-logo="https://1.bp.blogspot.com/-eiOB8rLVhH8/YBxZAzQJEaI/AAAAAAAAJ0w/wDD542Fx1hovz95fF6cfppBG4l3118m-gCLcBGAsYHQ/s0/record.png" group-title="RECORD TV",RECORD TV RS HD
+plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&name=DWIGHT FARROKH&buffer=4096&url=http://tv.meuserver.me:8080/423277/193014/392258
