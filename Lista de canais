@@ -65,7 +65,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) 
+https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) |²
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
