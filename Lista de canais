@@ -4,7 +4,7 @@
 ########### AGRO = 10 Canais #################
 ##############################################
 
-#EXTINF:-1 group-title="AGRO", Agro Brasil TV |²
+#EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Agro Mais HD
@@ -16,7 +16,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Nova TV Agrotour HD
+#EXTINF:-1 group-title="AGRO", Nova TV Agrotour HD [erro]
 https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Terra Viva HD
@@ -62,14 +62,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band TV HD
-https://stream-03.nyc.dailymotion.com/sec(9adq8njh6Ix1Bfv2jmbm48rwIPXhoEAkxwbjwnoMhtlaz6AsrU1iRbKiEPoN6-Jr)/dm/3/x83vbd6/s/live-2.m3u8#cell=lnyc
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) 
-https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) |²
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
+https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band Interior HD
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
@@ -77,14 +74,8 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Educação HD
-https://stream-01.nyc.dailymotion.com/sec(mOyh5XasEoxB2izGnZ4Ls_mS6Db5IHThccIERmHsO8XwrUY20idSBe7opEnpPY6b)/dm/3/x8abdvf/s/live-2.m3u8#cell=lnyc
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD
-https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7KtSOCV5mVuLdk-qLcwl_qtJqPvmf6nhaKkQ2R_k3uP)/dm/3/x7wur7g/s/live-2.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
@@ -140,7 +131,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?RO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Familia HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?ROGERIOTORRES
 
- #EXTINF:-1 group-title="CANAIS ABERTOS", Rede NGT HD
+ #EXTINF:-1 group-title="CANAIS ABERTOS", Rede NGT HD [erro]
  https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
@@ -154,9 +145,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TVT HD
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/redetvt
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TVT HD |²
-https://stream-03.sv4.dailymotion.com/sec(hq_e0q5VHX_FvDCk_Uz4G6V3hjZHTTB5rUKrao2olME7JEhGH_YZB1q33Cc7EtzL)/dm/3/x6ph7x7/d/live-1.m3u8#cell=lsv4
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
@@ -203,7 +191,7 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil - Plan TV HD (MG)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD [erro]
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD (SP)
