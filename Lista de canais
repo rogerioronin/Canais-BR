@@ -568,6 +568,9 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", GRJNGO HD
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c/variant.m3u8?url=a985dce7a8f02d05f1337ad81ecaebec-61e3572bfd2e3ba7b55874cfd4f13952766ab2e1e036e1e4e53f66cdca2df3c264876d4cc97c3f371a21dd16e39048c948f2954f660965abb42eb800f8ec92d46fc730c1134e582e6f82d6a30b1e8fc81e177bb61fdfe83d758561cbdea7cc2c97ea6de1a74fc9c3cb878ccf2fd9438f2566ab74ef42bff92c477841d25bcc6e97b07df3d501d4af9843ba182eb4a4c16b0a3303cecbbcb9027f2acf212ca44760a1832a92ddaf23305e7495b649cbb810523ca38a4c47052aa7ef0510837bccd078daa70e580875eabadaf339a85586&x-plex-token=-TfDT1p7uyBtucpdQEc-
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca  24h - TV Series
 https://stmv1.srvif.com/tvserie5/tvserie5/playlist.m3u8?ROGERIOTORRES
 
