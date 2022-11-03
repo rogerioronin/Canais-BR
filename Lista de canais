@@ -7,7 +7,7 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Mais HD
+#EXTINF:-1 group-title="AGRO", Agro Mais HD [erro]
 https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Canal Do Criador
@@ -15,9 +15,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 
 #EXTINF:-1 group-title="AGRO", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", Nova TV Agrotour HD [erro]
-https://video01.kshost.com.br:4443/marcelo6682/marcelo6682/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="AGRO", Terra Viva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
@@ -65,10 +62,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) |²
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) |² [erro]
 https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band Interior HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band Interior HD [erro]
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP)
@@ -83,7 +80,7 @@ http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR) |²
 https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Brasil Central  HD (GO)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Brasil Central  HD (GO) [erro]
 https://tbc.zoeweb.tv:443/tbc/tbc/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura Educação - Master TV HD
@@ -130,9 +127,6 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?RO
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Familia HD
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/playlist.m3u8?ROGERIOTORRES
-
- #EXTINF:-1 group-title="CANAIS ABERTOS", Rede NGT HD [erro]
- https://cdn.jmvstream.com/w/LVW-10431/ngrp:LVW10431_AREnhc6KcP_all/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?ROGERIOTORRES
@@ -182,7 +176,7 @@ http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil WEB HD
 https://monchyxd.herokuapp.com/iptv-query?streaming-ip=https://www.dailymotion.com/tvbrasilweb
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD [erro]
 https://transcoder.proxy.tokplay.com.br:443/videos/TVBRASIL/format720p_TVBRASIL.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD (ES)
@@ -191,7 +185,7 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil - Plan TV HD (MG)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
 https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD (SP)
@@ -203,7 +197,7 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD |²
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD [erro]
 https://dai.ly/x89qors
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Parana Turismo HD
