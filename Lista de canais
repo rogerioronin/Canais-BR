@@ -571,8 +571,8 @@ https://stmv1.srvif.com/cristmastv/cristmastv/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Dark Matter HD
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Due Mundi Channel
+https://alanza.iptv2022.com/DUE_MUNDI_CHANNEL/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Ficção Cientifica HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -740,6 +740,9 @@ https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Fandom TV HD |²
+https://alanza.iptv2022.com:443/Fandom_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Geekdot HD
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8?ROGERIOTORRES
