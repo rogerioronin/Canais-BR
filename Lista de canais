@@ -7,9 +7,6 @@
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="AGRO", Agro Mais HD [erro]
-https://evpp.mm.uol.com.br/geob_band/agromais/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="AGRO", Canal Do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8?ROGERIOTORRES
 
@@ -18,9 +15,6 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?RO
 
 #EXTINF:-1 group-title="AGRO", Terra Viva HD
 http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="AGRO", TV Milagro Brasil HD [erro]
-https://srv5.zcast.com.br/tvmilagro/tvmilagro/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -38,9 +32,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", AniTV HD
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", CONTV Anime HD (ENG) [erro]
-https://contvanime-plex-ingest.cinedigm.com/masterR1080p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Death Note - 24h HD 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -65,11 +56,8 @@ https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) |²
 https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal 26 HD (ESP) [erro]
-https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude [erro]
-http://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
@@ -103,9 +91,6 @@ https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?RO
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (RN) [erro]
-https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatropical/chunklist_w1380631920.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Pluto TV HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -198,9 +183,6 @@ http://flash.softhost.com.br:1935/ufg/tvufgweb/playlist.m3u8?ROGERIOTORRES
 ##############################################
 ###### DOCUMENTARIOS = 24 Canais #############
 ##############################################
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Assim é Portugal HD [erro]
-https://livefocamundo.com:8081/tvmaxrio/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assombrações HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d1512c7986a0007220213/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
