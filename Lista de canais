@@ -122,10 +122,10 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
-https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD |²
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (PR)
+https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ROGERIOTORRES
