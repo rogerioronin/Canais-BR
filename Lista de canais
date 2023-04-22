@@ -55,6 +55,12 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist.m3u8?ROGERIOTORRES
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Amazon Sat HD
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - TV Tarubá (PR)
+https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
@@ -63,6 +69,15 @@ https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD
+https://d28367vmhj4ljz.cloudfront.net/out/v1/60afbd200f12447ea25ddfb39baf8d09/index.mpd
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (GO)
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (MT)
+http://sevensp.homelinux.com/live/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
@@ -94,6 +109,9 @@ https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGE
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Rede Familia HD (SP)
 https://5a1c76baf08c0.streamlock.net/familia/smil:familia.smil/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Criciúma (SC)
+https://caikron.com.br:19360/criciuma/criciuma.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
 
@@ -104,6 +122,9 @@ https://59f2354c05961.streamlock.net:1443/portaldatropical/_definst_/portaldatro
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61f185ae10150a0007049e0c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
+https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD |²
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
@@ -162,6 +183,12 @@ https://59f2354c05961.streamlock.net:1443/tvdasartes/_definst_/tvdasartes/playli
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (MG)
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
+https://tvbrasil-stream.ebc.com.br/chunks.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
+https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=1651347794
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD (ES)
 https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
@@ -615,17 +642,20 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523
 #EXTINF:-1 group-title="FILMES E SÉRIES", Revry Brasil HD
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime HD |² [erro]
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time HD |² [erro]
 https://stream.ads.ottera.tv/cl/a792e443-a976-459a-92f6-89c446202b5d/1280x720_3071200_0_f.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime Ação HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Runtime Humor HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Humor HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time TV e Filmes HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -710,6 +740,9 @@ http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Fandom TV HD |² [erro]
 https://alanza.iptv2022.com:443/Fandom_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", F Kids
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Geekdot HD
 https://stream.ichibantv.ga:3764/hybrid/play.m3u8?ROGERIOTORRES
 
@@ -724,6 +757,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6079c1539b05aa0007a574
 
 #EXTINF:-1 group-title="GEEK", Jetsons TV [erro]
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Play TV HD
+https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Nova Gazeta HD
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
@@ -878,6 +914,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 #EXTINF:-1 group-title="INFANTIL", Xilam TV HD [erro]
 https://xilam-animation-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Yu-Gi-Oh - 24h HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5db3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 
 ######################################
@@ -1095,7 +1134,42 @@ https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### RELIGIOSO = 76 Canais ################
+###### RÁDIO = 76 Canais #####################
+##############################################
+
+#EXTINF:-1 group-title="RADIO", Antena 1
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RADIO", Clube FM
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RADIO",Clube Recife AM
+https://radio.saopaulo01.com.br/8018/stream?1625627194922
+
+#EXTINF:-1 group-title="RADIO", Cultura Brasil
+https://d2j0ogs09lfjg7.cloudfront.net/out/v1/8c49c079737d48edb1d6f0e6369e0f93/index.mpd
+
+#EXTINF:-1 group-title="RADIO", Cultura FM
+https://dvq5v793zo720.cloudfront.net/out/v1/c2e35b6e008f47c1a5e06ed9c7f80132/index.mpd
+
+#EXTINF:-1 group-title="RADIO", FM O Dia
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RADIO", JK+
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RADIO", Massa FM
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RADIO", Tupi FM
+https://8923.brasilstream.com.br/stream?nocache=32711111
+
+#EXTINF:-1 group-title="RADIO", Universitaria Recife FM
+http://150.161.93.221/hls/stream/index.m3u8?ROGERIOTORRES
+
+
+##############################################
+###### RELIGIOSO = 76 Canais #################
 ##############################################
 
 #EXTINF:-1 group-title="RELIGIOSO", IMPD TV
@@ -1173,7 +1247,7 @@ https://59f2354c05961.streamlock.net:1443/canaltvrio/_definst_/canaltvrio/playli
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Central TV
-https://serv1.redecentraltv.videovox.pw/serv1-redecentraltv/serv1-redecentraltv/playlist.m3u8?ROGERIOTORRES
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Com Brasil HD
 https://596639ebdd89b.streamlock.net/8032/8032/playlist.m3u8?ROGERIOTORRES
