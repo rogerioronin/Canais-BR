@@ -517,13 +517,13 @@ https://stmv4.voxtvhd.com.br/tvserie4/tvserie4/chunklist.m3u8?ROGERIOTORRES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia Romantica HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62545ed3dab4380007582f7c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Drama HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Família HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -538,10 +538,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa1612a669ba000070201
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Sucessos HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120e94a5714d00074576a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Terror HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
@@ -555,6 +555,9 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Comedia Brazil HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", CSI - Miami HD
+https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 
@@ -565,7 +568,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd0
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dcebd80386500074a2461/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes De Natal HD
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8?ROGERIOTORRES
@@ -574,7 +577,7 @@ http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f22/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Fronteira Movies HD
 https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist.m3u8?ROGERIOTORRES
@@ -585,7 +588,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c/variant.m3u8?url=59624df2e5d98133c36fad716246afff-cf60801ee317efd7d038d9bbfcb9153d4e757f636a1ec2f9a063ef4b619936f0e8bbbb5af2e68ee901998184f18e8dedc6db40795bff0ef7c3510b96e537a2ca708b8fe98df261fcb3549a4f987a28b53e436f597ae7746657c9f10a8ecce625e8f157224624cb551b40d02077b79d50f04ea7710024425a71f3d1c7644327753e36dadd4fce9100f7d4d615181ab9d0a21ded8f11795de61c9c921119fc221d5666bb1461270d3a290a9def92b0ed99f10e4474de6cd85d98bfb086b53af430cde0ff4e1bd05950accb4ae9fb34d643&x-plex-token=ggDqamd392E6U1ENZnKq&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1682652227
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca  24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca 24h - TV Series
 https://stmv4.voxtvhd.com.br/tvserie5/tvserie5/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
@@ -606,6 +609,12 @@ https://w2.manasat.com/kcine/smil:kcine.smil/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movies HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
+https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", O Homem De 6 Milhões De Dolares 24h - TV Series
+https://stmv4.voxtvhd.com.br/tvserie8/tvserie8/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", O Homem Que Veio Do Ceu - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -615,8 +624,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Os Dez Mandamentos - 24h HD
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Os Tres Patetas - TV Series - 24h [erro]
-https://stmv1.srvif.com/tvserie6/tvserie6/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Os Tres Patetas 24h - TV Series
+https://stmv4.voxtvhd.com.br/tvserie6/tvserie6/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte HD
 https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTORRES
@@ -625,22 +634,28 @@ https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTOR
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624f4e6bd5888f000754c53a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Revry Brasil HD
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time HD |² [erro]
-https://stream.ads.ottera.tv/cl/a792e443-a976-459a-92f6-89c446202b5d/1280x720_3071200_0_f.m3u8?ROGERIOTORRES
+https://stream.ads.ottera.tv/cl/230128cfaqdaqvj4k3vgk3dm7g/960x540_1927200_1_f.m3u8?i=475_4416
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Cine Espanto HD
+https://stream.ads.ottera.tv/cl/230407cgnncrrtj8dghtsp9s30/960x540_1927200_1_f.m3u8?i=475_4865
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Crime HD
+https://stream.ads.ottera.tv/cl/230407cgnnb2eqvijh1a070ad0/960x540_1927200_1_f.m3u8?i=475_4864
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Humor HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Romance HD
+https://stream.ads.ottera.tv/cl/230407cgnnbo86lgde0l93o5ig/960x540_1927200_1_f.m3u8?i=475_4866
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time TV e Filmes HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY
@@ -649,28 +664,16 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620aca7a4d8ea4000778338a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Series HD
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f121262a189a800076b9386/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Telecine Action
-http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Telemundo Telenovelas HD (ESP)
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Televisa HD (ESP/ITA)
-https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Top TV Sul [erro]
-https://srv2.zcast.com.br/tvtopsul/tvtopsul/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", TVJN Filmes
-https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", TV CEI 
+https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
@@ -678,17 +681,12 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", UniTV
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD [erro]
-https://5ad482a77183d.streamlock.net/urbantvmoviesgmail.com/urbantvmoviesgmail.com/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD [erro]
-https://5ad482a77183d.streamlock.net/urbantvseriesgmail.com/urbantvseriesgmail.com/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Web TV Classicos Do Cinema HD
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
+https://live01.livemustv.com.br/livemustv7426/livemustv7426/chunklist.m3u8
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", X Plus TV HD [erro]
-https://alanza.iptv2022.com/X_PLUS_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", X Plus TV HD
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
