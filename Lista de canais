@@ -109,6 +109,9 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT) |²
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Pluto TV HD
 https://i.mjh.nz/PlutoTV/61f185ae10150a0007049e0c-alt.m3u8?ROGERIOTORRES
 
@@ -141,6 +144,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?ROGERIOTORRES
@@ -305,6 +311,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3
 #EXTINF:-1 group-title="ESPORTES", Fighting Spirit TV HD (ENG)
 https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Fox Sports - Pluto TV (ENG)
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
+
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
 
@@ -467,6 +476,9 @@ https://i.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic HD
 http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", CineMonde HD
+https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8?ROGERIOTORRES
@@ -862,6 +874,9 @@ https://i.mjh.nz/PlutoTV/6238c63deec07b000723dd77-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
 https://i.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
+http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://i.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8?ROGERIOTORRES
