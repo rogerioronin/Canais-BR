@@ -647,12 +647,6 @@ https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", AWTV HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", BCC Gaming HD (ENG) [erro]
-https://arcade-cloud-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Bons Tempos TV
-https://tv01.livemustv.com.br/rivaldo6209/rivaldo6209/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", BR Super TV
 http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
@@ -662,35 +656,26 @@ http://177.137.208.46:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Caravana Play [erro]
-https://stmv5.samcast.com.br/keynnidouglas9516/keynnidouglas9516/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Fandom TV HD |² [erro]
-https://alanza.iptv2022.com:443/Fandom_TV/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", F Kids
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Geekdot HD
-https://stream.ichibantv.ga:3764/hybrid/play.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", GLN TV HD [erro]
-https://stmv2.samcast.com.br/gersonlairtondosanjosneres1081/gersonlairtondosanjosneres1081/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", GLN TV HD
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Imperial TV HD
-https://5eaa6849d0971.streamlock.net/tvimperialnet/tvimperialnet/chunklist.m3u8?ROGERIOTORRES
+https://node2.ecast.site:3428/live/imperiallive.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Jackie Chan HD
 https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Jetsons TV [erro]
-https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Jetsons TV
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 
 #EXTINF:-1 group-title="GEEK", Play TV HD
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8?ROGERIOTORRES
@@ -698,26 +683,17 @@ https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="GEEK", Nova Gazeta HD
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Nova Manchete [erro]
-https://stmv1.srvsh.com.br/ivonildoferrera4617/ivonildoferrera4617/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Q Tal Channel
+https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Q Tal Channel [erro]
-https://video01.logicahost.com.br/qtalchannel/qtalchannel/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Rede Clone TV HD [erro]
-https://srv5.zcast.com.br/redeclonetv/redeclonetv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Rede Que Demais [erro]
-https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Rede Clouding TV HD
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Retro Cartoon
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/retrotv/retrotv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", South Park HD
 https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Channel Network [erro]
-https://serv.tvchannel.videovox.pw/serv-tvchannel/serv-tvchannel/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
@@ -734,38 +710,24 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?ROG
 #EXTINF:-1 group-title="GEEK", TV KidMais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Mais Brasil HD [erro]
-https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Max 90 [erro]
-https://cdn.jmvstream.com/w/AVJ-9778/playlist/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", TV Mais Brasil HD
+https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Potengi
-https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Urban TV Kids HD [erro]
-https://5ad482a77183d.streamlock.net/urbantvkidsgmail.com/urbantvkidsgmail.com/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Vila TV [erro]
-https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Vila TV
+https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Web TV Cine HD
-https://srv2.zcast.com.br/elzemar/elzemar/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", XtremeTV
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Web TV Xtreme [erro]
-https://stmv1.voxtvhd.com.br/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", YEEAAH TV HD [erro]
-https://alanza.iptv2022.com/Yeeaah_TV/index.m3u8?ROGERIOTORRES
 
 ######################################
 ###### INFANTIL = 19 Canais ##########
@@ -1401,6 +1363,9 @@ https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunkl
 
 #EXTINF:-1 group-title="VARIEDADES", TV Japi
 https://srv2.zcast.com.br/tvjapi/tvjapi/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Max 90
+https://video01.logicahost.com.br/max90fm/max90fm/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Max HD
 https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8?ROGERIOTORRES
