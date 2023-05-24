@@ -1199,6 +1199,9 @@ https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", FailArmy 2 HD
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Fora do Tédio HD
+http://stream.foratedio.com/foratedio/foratedio/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Hits FM TV [erro]
 https://stmv1.srvsh.com.br/gilberto5815/gilberto5815/chunklist.m3u8?ROGERIOTORRES
 
