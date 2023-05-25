@@ -695,6 +695,9 @@ https://stmv1.srvif.com/retrotv/retrotv/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", South Park HD
 https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV 100 HD
+https://serv3.videovox.pw/video78531/video78531/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
 
@@ -710,6 +713,9 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?ROG
 #EXTINF:-1 group-title="GEEK", TV KidMais
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", TV Lagoa Dantas
+https://stmv2.voxtvhd.com.br/tvlagoadantas/tvlagoadantas/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil HD
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8?ROGERIOTORRES
 
@@ -718,6 +724,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV RBC
 https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", TV Sonata
+https://video01.kshost.com.br/tiago2001/tiago2001/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTORRES
