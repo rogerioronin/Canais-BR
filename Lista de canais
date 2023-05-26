@@ -432,22 +432,22 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Freezone HD
 https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Agente 86 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Agente 86 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie7/tvserie7/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", A Mulher Bionica 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", A Mulher Bionica 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie2/tvserie2/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Arnold - Diff'rent Strokes - 24h HD
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie1/tvserie1/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Artflix HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Artflix HD (ES)
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6348a34c1159f6a5ce819b81.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Being Mary Jane - 24h HD
@@ -459,7 +459,7 @@ https://i.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Chips  24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Chips  24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie4/tvserie4/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
@@ -501,7 +501,7 @@ https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV 2
+#EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV 2 [erro]
 https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
@@ -543,7 +543,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie5/tvserie5/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
@@ -552,7 +552,7 @@ https://i.mjh.nz/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio - 24h HD
 https://i.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Jornada Nas Estrelas 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Jornada Nas Estrelas 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie3/tvserie3/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kenan & Kel - 24h HD
@@ -570,7 +570,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644874236e1d
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", O Homem De 6 Milhões De Dolares 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", O Homem De 6 Milhões De Dolares 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie8/tvserie8/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", O Homem Que Veio Do Ceu - 24h HD
@@ -582,11 +582,8 @@ https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Os Dez Mandamentos - 24h HD
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Os Tres Patetas 24h - TV Series
+#EXTINF:-1 group-title="FILMES E SÉRIES", Os Tres Patetas 24h - TV Series [erro]
 https://stmv4.voxtvhd.com.br/tvserie6/tvserie6/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Planalto Norte HD
-https://video01.logicahost.com.br/tvplanalto/tvplanalto/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Plantão Noturno - The Night Shift - 24h HD
 https://i.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8?ROGERIOTORRES
@@ -597,23 +594,20 @@ https://i.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Revry Brasil HD
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time HD
-https://stream.ads.ottera.tv/cl/230128cfaqdaqvj4k3vgk3dm7g/960x540_1927200_1_f.m3u8?i=475_4416
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Ação HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
+https://stream.ads.ottera.tv/cl/230526chobac29hjnhpo1690tg/1280x720_3071200_0_f.m3u8?i=475_2552
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Cine Espanto HD
 https://stream.ads.ottera.tv/cl/230407cgnncrrtj8dghtsp9s30/960x540_1927200_1_f.m3u8?i=475_4865
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Comédia HD
+https://stream.ads.ottera.tv/cl/230526chobbcjlmhuafultm16g/1280x720_3071200_0_f.m3u8?i=475_2553
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Crime HD
-https://stream.ads.ottera.tv/cl/230407cgnnb2eqvijh1a070ad0/960x540_1927200_1_f.m3u8?i=475_4864
+https://stream.ads.ottera.tv/cl/230526chobca8bsvi5eh493kcg/1280x720_3071200_0_f.m3u8?i=475_4864
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Humor HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Romance HD
-https://stream.ads.ottera.tv/cl/230407cgnnbo86lgde0l93o5ig/960x540_1927200_1_f.m3u8?i=475_4866
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time TV e Filmes HD
 https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8?ROGERIOTORRES
@@ -638,12 +632,6 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", UniTV
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Web TV Classicos Do Cinema HD
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", X Plus TV HD
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
 https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
@@ -685,6 +673,9 @@ https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:-1 group-title="GEEK", Planalto Norte HD
+https://stream.urbantv.com.br/tvplanalto/tracks-v1/index.fmp4.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Play TV HD
 https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8?ROGERIOTORRES
@@ -742,6 +733,12 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTOR
 
 #EXTINF:-1 group-title="GEEK", Vintage TV
 https://stmv1.srvif.com/webvintage/webvintage/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema HD
+https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", X Plus TV HD
+https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", XtremeTV
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
