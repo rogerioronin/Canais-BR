@@ -908,9 +908,6 @@ http://30a-tv.com/music.m3u8?fluxustv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Afrobeats HD
 https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Allegro Web TV HD
-https://livefocamundo.com:8081/allegrowebtv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
 https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
 
@@ -926,12 +923,6 @@ https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Country Music Channel
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", EnerGeek HD
-https://live.tubyte.xyz/LiveApp/streams/839593913716085646044793.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", FURG TV HD
-http://stream.furg.br:80/hls/furgtv.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 
@@ -940,18 +931,6 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Karaokê Por Stingray HD
 https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Kiss TV HD
-https://cast.cdnseguro.com:19360/8094/8094.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Loop 80's HD
-https://loop-80s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Loop 90's HD
-https://loop-90s-2.roku.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Metal TV HD
-https://v2.catcast.tv/content/33816/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
 https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
@@ -965,17 +944,11 @@ https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Nature TV
-https://stmv1.srvif.com/nattv/nattv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Ocko Express HD
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Ocko Star HD
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Portal News Web TV HD [erro]
-https://stmv1.livevoxtv.com.br/portalnewswebtv/portalnewswebtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Qello Concerts HD
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
@@ -989,20 +962,11 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Qwest TV Mix HD
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Radio Capital [erro]
-http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Rede RC
 https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Rock TV
-http://fms-https1.mediadirect.ro/live3/_definst_/rocktv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", RTL Classics [erro]
-https://5a57bda70564a.streamlock.net/litoralclassics/litoralclassics.sdp/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Sexy KpopTV HD
 https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?ROGERIOTORRES
@@ -1018,9 +982,6 @@ https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Top TV HD
-https://cast.cdnseguro.com:19360/8092/8092.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
@@ -1040,17 +1001,8 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f8
 #EXTINF:-1 group-title="MUSICAS", VEVO Classica HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0c6b789-884d-4edf-bde4-b9619b8ad48c&userId=&serverSideAds=true
 
-#EXTINF:-1 group-title="MUSICAS", Vevo Country HD
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 group-title="MUSICAS", Vevo POP HD
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
 #EXTINF:-1 group-title="MUSICAS", Vivaldi HD
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61bb9a63e0b39cfe304c9a8a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
-
-#EXTINF:-1 group-title="MUSICAS", Web TV Music
-https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
