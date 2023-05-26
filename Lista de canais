@@ -1,7 +1,7 @@
 #EXTM3U
 
 ##############################################
-########### AGRO = 10 Canais #################
+########### AGRO = 04 Canais #################
 ##############################################
 
 #EXTINF:-1 group-title="AGRO", Agro Brasil TV
@@ -18,7 +18,7 @@ http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ANIME E TOKUSATSU = 8 Canais ##########
+###### ANIME E TOKUSATSU = 10 Canais #########
 ##############################################
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
@@ -52,7 +52,7 @@ https://i.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8?ROGERIOTORRES
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist.m3u8?ROGERIOTORRES
 
 ##############################################
-###### CANAIS ABERTOS = 54 Canais ############
+###### CANAIS ABERTOS = 47 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Amazon Sat HD
@@ -198,7 +198,7 @@ http://200.189.113.201/hls/tve.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### DOCUMENTARIOS = 24 Canais #############
+###### DOCUMENTARIOS = 25 Canais #############
 ##############################################
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assombrações HD
@@ -278,7 +278,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESPORTES = 47 Canais ##################
+###### ESPORTES = 30 Canais ##################
 ##############################################
 
 #EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 1 HD (ARA)
@@ -426,7 +426,7 @@ https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### FILMES E SÉRIES = 61 Canais ###########
+###### FILMES E SÉRIES = 69 Canais ###########
 ##############################################
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Freezone HD
@@ -638,7 +638,7 @@ https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### GEEK = 31 Canais ##############
+###### GEEK = 34 Canais ##############
 ######################################
 
 #EXTINF:-1 group-title="GEEK", AWTV HD
@@ -745,7 +745,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### INFANTIL = 19 Canais ##########
+###### INFANTIL = 30 Canais ##########
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", Antiks Brasil HD [erro]
@@ -840,7 +840,7 @@ https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### JORNALISMO = 20 Canais ########
+###### JORNALISMO = 17 Canais ########
 ######################################
 
 #EXTINF:-1 group-title="JORNALISMO", Al Jazeera English HD (ENG)
@@ -896,7 +896,7 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 
 
 ######################################
-###### MUSICAS = 52 Canais ###########
+###### MUSICAS = 35 Canais ###########
 ######################################
 
 #EXTINF:-1 group-title="MUSICAS", 1Mus.com HD
@@ -1006,7 +1006,7 @@ https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61bb9a63e0b3
 
 
 ##############################################
-###### RÁDIO = 76 Canais #####################
+###### RÁDIO = 10 Canais #####################
 ##############################################
 
 #EXTINF:-1 group-title="RADIO", Antena 1
@@ -1041,7 +1041,7 @@ http://150.161.93.221/hls/stream/index.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### RELIGIOSO = 76 Canais #################
+###### RELIGIOSO = 11 Canais #################
 ##############################################
 
 #EXTINF:-1 group-title="RELIGIOSO", IMPD TV
@@ -1079,7 +1079,7 @@ https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/chunklist.m3u8?ROGE
 
 
 ##############################################
-###### VARIEDADES = 76 Canais ################
+###### VARIEDADES = 105 Canais ###############
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", Aish TV Brasil HD
