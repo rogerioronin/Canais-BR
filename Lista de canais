@@ -447,6 +447,9 @@ https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras 24h - TV Series
 https://stmv4.voxtvhd.com.br/tvserie1/tvserie1/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Artflix HD
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6348a34c1159f6a5ce819b81.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Being Mary Jane - 24h HD
 https://i.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8?ROGERIOTORRES
 
@@ -461,6 +464,9 @@ https://stmv4.voxtvhd.com.br/tvserie4/tvserie4/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD |²
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6182c195f4e62961d9c2ccf3.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
 https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8?ROGERIOTORRES
@@ -535,7 +541,7 @@ https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist.m3u8?ROGERIO
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c/variant.m3u8?url=59624df2e5d98133c36fad716246afff-cf60801ee317efd7d038d9bbfcb9153d4e757f636a1ec2f9a063ef4b619936f0e8bbbb5af2e68ee901998184f18e8dedc6db40795bff0ef7c3510b96e537a2ca708b8fe98df261fcb3549a4f987a28b53e436f597ae7746657c9f10a8ecce625e8f157224624cb551b40d02077b79d50f04ea7710024425a71f3d1c7644327753e36dadd4fce9100f7d4d615181ab9d0a21ded8f11795de61c9c921119fc221d5666bb1461270d3a290a9def92b0ed99f10e4474de6cd85d98bfb086b53af430cde0ff4e1bd05950accb4ae9fb34d643&x-plex-token=ggDqamd392E6U1ENZnKq&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-provider-streaming-start=1682652227
+https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Guerra, Sombra e Agua Fresca 24h - TV Series
 https://stmv4.voxtvhd.com.br/tvserie5/tvserie5/chunklist.m3u8?ROGERIOTORRES
@@ -555,8 +561,11 @@ https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kuriakos Filmes
 https://w2.manasat.com/kcine/smil:kcine.smil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movies HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network HD |²
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644874236e1dc0bf5664a674.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
@@ -1039,6 +1048,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e8
 
 #EXTINF:-1 group-title="MUSICAS", Vevo POP HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=890&deviceId=5d93b635b43dd1a399b39eee&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
+#EXTINF:-1 group-title="MUSICAS", Vivaldi HD
+https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61bb9a63e0b39cfe304c9a8a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="MUSICAS", Web TV Music
 https://srv5.zcast.com.br/pedro3742/pedro3742/playlist.m3u8?ROGERIOTORRES
