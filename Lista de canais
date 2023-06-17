@@ -97,6 +97,9 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Master TV - UNIVESP TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV - Criciúma (SC)
 https://caikron.com.br:19360/criciuma/criciuma.m3u8?ROGERIOTORRES
 
@@ -153,6 +156,9 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia HD (MG)
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD
+https://tvbrasil-stream.ebc.com.br/mux_video_ts/index-1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil 2 HD
 https://video01.kshost.com.br/paulispar7372/paulispar7372/playlist.m3u8?t=1651347794
@@ -617,13 +623,22 @@ http://177.137.208.46:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Cartoon Promo HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Chapolin Colorado - 24h
+http://digitaldonate2.ddns.net:8085/Chapolin/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Chaves - 24h
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CqEG6G1pD-3yybOntt_3_j3LI5PQ3R2GGqqm1xFeLRJX1nplhtOSq7qokaVGAyDb_CKOUxwT-xeYT_0CKYcVImF65YARAUujmQoMSSbQE82Ui5_iqSJos5LCZ8RWTqUKa-Zowsi6duNWIPUWVoPqpx3kWoCLRSqbZZpQuP5gb_BGsJAgl9brVz-6fEToC0vnDQqqr981xrIRATJXL0_uFB5x2_N7fTjwBhza7ZtQ2Dnh-vvGPqzeEQgCuIvq3bg2CN7vD5De1hxeG-gf26Jd7FIpr4ChGdoAIxw7R1KfQIPKF4Chx6IFM6giBm8mb9T8pdDd0VGj1eY1DCXlysMbeAM0niN29KxipzevdTN6BgGCWqH0rxB4AGeiIsECWri-PNitZm9XVuZLWTRKCGctrC4B8GROaNa8bRVSfZm8-wW7bbA_DpC_BR_TRCG2AUU-u0pupgf_710yus5KWDMxApRL99NtBurRrOXGPlHIDmzZLQ4n5TPo_gYEplFTJ4j_IVQmeBSuIupgc0ENbJsE7UaXyzxpdWl23995IbSJ-Ujb9X0Q1bc6gMXspjVPt3qCrBHMaaseePmi5vozsUirRhQfuUd95IPWL3ItWRwvbqeGWZ8sz9ZwJxI9g35OctrLyVdHOy7mpVgxXqnt22dI74ecu1zyGjgSWJYNbE31tekx1547wUjjZ4FDFHz4tLlXhaHwlWyPuNwVIZu0C9naoCHIMFtgJKzOlBwOqKJPtC2-LOz5kV23sKtd9l3LNbZYbj5-wlEV_gN3n9jxpi0KL_Lag3FThuqFN8n8ZoeqVqxwhl9zyv-IAJRjZ-3CfLAeThppaBqCrmC8PLcm1Y5rN3qL8l6mqOLUOo4ScnqsLYXd7K1NHsN3rEnfuJXAlD6_rAWDzjCcGcqmPVfCWoGsPa0FaAUqpCDkbIiyqwp3y2VbnyMZrXTIjCPbLfJW1EOd2-Xa4txb4DoeugDMz032LjM5AAckmpLNZUmIlHnZpatTPWY2uxHf06UwLhXM3DVDn7Utr41_uZGT0VcCQu4tTP2-sPYJ55GGcwTEXuQvybh5jfcnGgy0rHNG11pepux2UD0gASoJdXMtZWFzdC0xMJ8F.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fandom TV HD
 http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", F Kids
+#EXTINF:-1 group-title="GEEK", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", GLN TV HD
@@ -669,7 +684,7 @@ https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
 https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Gallo HD
-https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8?ROGERIOTORRES
+https://5c483b9d1019c.streamlock.net/8202/8202/playlist-1080p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV KidMais HD
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?ROGERIOTORRES
@@ -691,6 +706,9 @@ https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Sonata
 https://video01.kshost.com.br/tiago2001/tiago2001/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", UlbTV HD
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Vila TV
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTORRES
