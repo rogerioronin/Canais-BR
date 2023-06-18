@@ -300,10 +300,7 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Bombate Global HD
-https://stream.ads.ottera.tv/cl/230603chtlsaj4di6ieincbig0/1280x720_1400000_1_f.m3u8?i=475_960
-
-#EXTINF:-1 group-title="ESPORTES", Dubai Sport HD (ARA) [erro]
-http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8?ROGERIOTORRES
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 
 #EXTINF:-1 group-title="ESPORTES", Dubai Sports 2 HD (ARA)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
