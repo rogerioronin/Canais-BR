@@ -932,9 +932,6 @@ http://30a-tv.com/music.m3u8?fluxustv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Afrobeats HD
 https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Alternativa Web TV Avai
-https://stmv3.samcast.com.br/alternativatvivainova/alternativatvivainova/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV HD
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
 
@@ -958,9 +955,6 @@ https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
 https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", MTV Mistle YO! HD
-http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS08/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD
 https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8?ROGERIOTORRES
@@ -986,9 +980,6 @@ https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Qwest TV Mix HD
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Rede RC
-https://59f2354c05961.streamlock.net:1443/rederc/_definst_/rederc/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Retro Plus
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?ROGERIOTORRES
 
@@ -997,9 +988,6 @@ https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Shows Por Stingray HD
 https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Spirit TV HD
-https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", The Ed Sullivan Show HD
 https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8?ROGERIOTORRES
