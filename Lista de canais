@@ -403,9 +403,6 @@ https://i.mjh.nz/PlutoTV/5f516730b78b7600079294f5-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fitness - Pluto TV HD
 https://i.mjh.nz/PlutoTV/630e30ba3583440007c64a20-alt.m3u8
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD [erro]
-https://hollywire-samsung-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", KFOOD HD
 https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8?ROGERIOTORRES
 
@@ -444,10 +441,6 @@ https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy 2 HD
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", World Fashion Channel HD [erro]
-https://wfcint.mediacdn.ru/cdn/wfcint/playlist.m3u8?ROGERIOTORRES
-
 
 ##############################################
 ###### FILMES E SÉRIES = 69 Canais ###########
