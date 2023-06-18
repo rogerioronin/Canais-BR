@@ -196,9 +196,6 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 https://dai.ly/x89qors
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", ULB TV HD
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
-
 
 ##############################################
 ###### DOCUMENTARIOS = 25 Canais #############
@@ -650,6 +647,9 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRE
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", ULB TV HD
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", UniTV
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
