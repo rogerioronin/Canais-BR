@@ -97,6 +97,9 @@ https://i.mjh.nz/PlutoTV/62e010e6cd663f0007e57dc8-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura Educação - Master TV HD
 http://wowza4.catve.com.br:1935/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", FonteTV HD
+http://wowza.softhost.com.br:1935/fonte/fontetv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Futura - TV o Povo HD
 https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIOTORRES
 
@@ -383,6 +386,9 @@ https://i.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Urban Sports HD
+https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
+
 
 ##############################################
 ###### ESTILO DE VIDA = 16 Canais ############
@@ -544,9 +550,6 @@ https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
 https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Fronteira Movies HD
-https://srv4.zcast.com.br/fronteiramovies/fronteiramovies/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
@@ -801,6 +804,9 @@ https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Bob Esponja - 24h HD
 https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Cartoon Promo HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="INFANTIL", Chroma TV HD
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
@@ -993,6 +999,9 @@ https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Top TV HD
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
