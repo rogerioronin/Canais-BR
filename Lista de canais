@@ -199,6 +199,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 https://dai.ly/x89qors
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV
+http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
+
 
 ##############################################
 ###### DOCUMENTARIOS = 25 Canais #############
@@ -584,7 +587,7 @@ https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", O Homem Que Veio Do Ceu - 24h HD
 https://i.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Osorio HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Osorio HD [erro]
 https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Os Dez Mandamentos - 24h HD
@@ -641,11 +644,8 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", ULB TV HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", ULB TV HD [erro]
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", UniTV
-http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
 https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
