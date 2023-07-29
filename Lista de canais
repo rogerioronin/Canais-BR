@@ -1,7 +1,7 @@
 #EXTM3U
 
 ##############################################
-###### ANIME E TOKUSATSU = 10 Canais #########
+###### ANIME E TOKUSATSU = 13 Canais #########
 ##############################################
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
@@ -44,7 +44,7 @@ https://i.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8?ROGERIOTORRES
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist.m3u8?ROGERIOTORRES
 
 ##############################################
-###### CANAIS ABERTOS = 47 Canais ############
+###### CANAIS ABERTOS = 50 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Agro Brasil TV
@@ -199,7 +199,7 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
 
 ##############################################
-###### DOCUMENTARIOS = 25 Canais #############
+###### DOCUMENTARIOS = 27 Canais #############
 ##############################################
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assombrações HD
@@ -285,7 +285,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESPORTES = 30 Canais ##################
+###### ESPORTES = 33 Canais ##################
 ##############################################
 
 #EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 1 HD (ARA)
@@ -389,7 +389,7 @@ https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### ESTILO DE VIDA = 16 Canais ############
+###### ESTILO DE VIDA = 18 Canais ############
 ##############################################
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
@@ -447,7 +447,7 @@ https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 ##############################################
-###### FILMES E SÉRIES = 69 Canais ###########
+###### FILMES E SÉRIES = 65 Canais ###########
 ##############################################
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Freezone HD
@@ -647,7 +647,7 @@ https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### GEEK = 34 Canais ##############
+###### GEEK = 42 Canais ##############
 ######################################
 
 #EXTINF:-1 group-title="GEEK", AWTV HD
@@ -778,7 +778,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 
 
 ######################################
-###### INFANTIL = 30 Canais ##########
+###### INFANTIL = 27 Canais ##########
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", As Pistas De Blue HD
@@ -920,7 +920,7 @@ https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1
 
 
 ######################################
-###### MUSICAS = 35 Canais ###########
+###### MUSICAS = 32 Canais ###########
 ######################################
 
 #EXTINF:-1 group-title="MUSICAS", 1Mus.com HD
@@ -1056,7 +1056,7 @@ http://150.161.93.221/hls/stream/index.m3u8?ROGERIOTORRES
 
 
 ##############################################
-###### RELIGIOSO = 11 Canais #################
+###### RELIGIOSO = 10 Canais #################
 ##############################################
 
 #EXTINF:-1 group-title="RELIGIOSO", IMPD TV
@@ -1091,7 +1091,7 @@ https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/chunklist.m3u8?ROGE
 
 
 ##############################################
-###### VARIEDADES = 105 Canais ###############
+###### VARIEDADES = 85 Canais ###############
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", A Culpa é Do Cabral HD
