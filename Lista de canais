@@ -886,9 +886,6 @@ http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT) |²
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2575
-
-#EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT) |³
 https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD
@@ -900,23 +897,14 @@ https://i.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Mega Noticias HD (ESP)
 https://pctv-meganoticias-1-us.roku.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", NHK Japan (JAP)
-https://b-nhkwlive-xjp.webcdn.stream.ne.jp/hls/live/2003458-b/nhkwlive-xjp-en/index_1M.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="JORNALISMO", Record News HD
 https://i.mjh.nz/PlutoTV/6102e04e9ab1db0007a980a1-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", Record News (RS)
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Reuters HD
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", TRT World HD (ENG)
 https://tv-trtworld.live.trt.com.tr/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="JORNALISMO", Yahoo! Finance Live (ENG)
-https://yahoo-plex.amagi.tv/hls/amagi_hls_data_yahoofina-yahoofinance-plex/CDN/1280x720_2890800/index.m3u8?ROGERIOTORRES
 
 
 ######################################
@@ -940,9 +928,6 @@ https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8?ROGERIOTORR
 
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV HD
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Country Music Channel
-https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Gospel Music TV
 https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
@@ -970,9 +955,6 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/manifest
 
 #EXTINF:-1 group-title="MUSICAS", Qello Concerts HD
 https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Qwest Classical HD
-https://qwest-classic-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Qwest Jazz and Beyond HD
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
@@ -1033,12 +1015,6 @@ https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="RADIO",Clube Recife AM
 https://radio.saopaulo01.com.br/8018/stream?1625627194922
 
-#EXTINF:-1 group-title="RADIO", Cultura Brasil
-https://d2j0ogs09lfjg7.cloudfront.net/out/v1/8c49c079737d48edb1d6f0e6369e0f93/index.mpd
-
-#EXTINF:-1 group-title="RADIO", Cultura FM
-https://dvq5v793zo720.cloudfront.net/out/v1/c2e35b6e008f47c1a5e06ed9c7f80132/index.mpd
-
 #EXTINF:-1 group-title="RADIO", FM O Dia
 https://cdn.livespanel.com/live/fmodia/playlist.m3u8?ROGERIOTORRES
 
@@ -1047,6 +1023,9 @@ https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RADIO", Massa FM
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RADIO", Transamérica
+https://27343.live.streamtheworld.com/RT_SPAAC.aac
 
 #EXTINF:-1 group-title="RADIO", Tupi FM
 https://8923.brasilstream.com.br/stream?nocache=32711111
@@ -1070,9 +1049,6 @@ https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?ROGERIOTOR
 
 #EXTINF:-1 group-title="RELIGIOSO", Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="RELIGIOSO", RBC TV HD
-http://rbc.directradios.com:1935/rbc/smil:rbc.smil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", TV Aparecida HD
 https://cdn.jmvstream.com:443/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8?ROGERIOTORRES
