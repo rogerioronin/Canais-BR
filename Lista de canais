@@ -56,7 +56,7 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band (MG)
 http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band - TV Tarubá (PR)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - TV Tarubá (PR) [erro]
 https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
@@ -701,6 +701,9 @@ http://177.137.208.46:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Canal Start HD
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
@@ -733,6 +736,9 @@ https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Jetsons TV
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+
+#EXTINF:-1 group-title="GEEK", Loading TV HD
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Planalto Norte HD
 https://stream.urbantv.com.br/tvplanalto/tracks-v1/index.fmp4.m3u8?ROGERIOTORRES
@@ -1378,12 +1384,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 #EXTINF:-1 group-title="EXPERIMENTAIS", Poop TV (Infantil / Geek)
 https://stream.ichibantv.com:3522/hybrid/play.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="EXPERIMENTAIS", Canal Start (Geek)
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EXPERIMENTAIS", Loading TV (Geek)
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="EXPERIMENTAIS", O DIA TV (Variedades)
 https://ythlsgo.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?ROGERIOTORRES
 
@@ -1393,5 +1393,5 @@ https://acesso.ecast.site:3456/hybrid/play.m3u8?ROGERIOTORRES
  #EXTINF:-1 group-title="EXPERIMENTAIS", Pet Lovers TV HD (filmes)
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
 
- #EXTINF:-1 group-title="EXPERIMENTAIS", TV Liberdade HD (Animação)
+ #EXTINF:-1 group-title="EXPERIMENTAIS", TV Liberdade HD (Animação/animação)
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?ROGERIOTORRES
