@@ -53,6 +53,9 @@ https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="CANAIS ABERTOS", Amazon Sat HD
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band (MG)
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - TV Tarubá (PR)
 https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8?ROGERIOTORRES
 
@@ -65,6 +68,12 @@ https://streaming.gruporba.com.br/rba.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Do Criador
 https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Educação HD
+https://canaleducacao-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Libras HD
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
 
@@ -76,6 +85,12 @@ https://d28367vmhj4ljz.cloudfront.net/out/v1/60afbd200f12447ea25ddfb39baf8d09/in
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (CE)
+https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro (RJ)
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8?ROGERIOTORRES
@@ -98,8 +113,17 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Gazeta Digital HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", NGT HD
+https://isaocorp.cloudecast.com/ngt/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Master TV - UNIVESP TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
+
+ #EXTINF:-1 group-title="CANAIS ABERTOS", Meio Norte HD
+http://streaming.jornalmn.com.br/live/tvmn.m3u8?ROGERIOTORRES
+
+ #EXTINF:-1 group-title="CANAIS ABERTOS", Multi Rio HD
+http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
@@ -191,8 +215,20 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD |²
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD (BA)
+http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD (RS)
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta HD
 https://dai.ly/x89qors
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV GOV HD
+https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
+
+ #EXTINF:-1 group-title="CANAIS ABERTOS", TV União HD
+https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", UniTV
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
@@ -639,7 +675,10 @@ https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", ULB TV HD [erro]
+#EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", ULB TV HD
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
@@ -665,11 +704,8 @@ https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Chapolin Colorado - 24h
-http://digitaldonate2.ddns.net:8085/Chapolin/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", Chaves - 24h
-https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CqEG6G1pD-3yybOntt_3_j3LI5PQ3R2GGqqm1xFeLRJX1nplhtOSq7qokaVGAyDb_CKOUxwT-xeYT_0CKYcVImF65YARAUujmQoMSSbQE82Ui5_iqSJos5LCZ8RWTqUKa-Zowsi6duNWIPUWVoPqpx3kWoCLRSqbZZpQuP5gb_BGsJAgl9brVz-6fEToC0vnDQqqr981xrIRATJXL0_uFB5x2_N7fTjwBhza7ZtQ2Dnh-vvGPqzeEQgCuIvq3bg2CN7vD5De1hxeG-gf26Jd7FIpr4ChGdoAIxw7R1KfQIPKF4Chx6IFM6giBm8mb9T8pdDd0VGj1eY1DCXlysMbeAM0niN29KxipzevdTN6BgGCWqH0rxB4AGeiIsECWri-PNitZm9XVuZLWTRKCGctrC4B8GROaNa8bRVSfZm8-wW7bbA_DpC_BR_TRCG2AUU-u0pupgf_710yus5KWDMxApRL99NtBurRrOXGPlHIDmzZLQ4n5TPo_gYEplFTJ4j_IVQmeBSuIupgc0ENbJsE7UaXyzxpdWl23995IbSJ-Ujb9X0Q1bc6gMXspjVPt3qCrBHMaaseePmi5vozsUirRhQfuUd95IPWL3ItWRwvbqeGWZ8sz9ZwJxI9g35OctrLyVdHOy7mpVgxXqnt22dI74ecu1zyGjgSWJYNbE31tekx1547wUjjZ4FDFHz4tLlXhaHwlWyPuNwVIZu0C9naoCHIMFtgJKzOlBwOqKJPtC2-LOz5kV23sKtd9l3LNbZYbj5-wlEV_gN3n9jxpi0KL_Lag3FThuqFN8n8ZoeqVqxwhl9zyv-IAJRjZ-3CfLAeThppaBqCrmC8PLcm1Y5rN3qL8l6mqOLUOo4ScnqsLYXd7K1NHsN3rEnfuJXAlD6_rAWDzjCcGcqmPVfCWoGsPa0FaAUqpCDkbIiyqwp3y2VbnyMZrXTIjCPbLfJW1EOd2-Xa4txb4DoeugDMz032LjM5AAckmpLNZUmIlHnZpatTPWY2uxHf06UwLhXM3DVDn7Utr41_uZGT0VcCQu4tTP2-sPYJ55GGcwTEXuQvybh5jfcnGgy0rHNG11pepux2UD0gASoJdXMtZWFzdC0xMJ8F.m3u8?ROGERIOTORRES
+http://turoisherego.xyz:2095/live/Tourobox1-rNmvClP8V4/saaO9xsStT/712.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
@@ -926,6 +962,9 @@ https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", Capital TV HD
+https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV HD
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -1047,8 +1086,14 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?ROGER
 #EXTINF:-1 group-title="RELIGIOSO", Rede Gospel HD
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="RELIGIOSO", Rede Século 21 HD
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="RELIGIOSO", Rede Vida HD
 https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="RELIGIOSO", RIT HD
+https://ythlsgo.onrender.com/channel/UCA0bOG0NUfJ855eDtHSxOkw.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", TV Aparecida HD
 https://cdn.jmvstream.com:443/w/LVW-9716/LVW9716_HbtQtezcaw/chunklist.m3u8?ROGERIOTORRES
@@ -1324,3 +1369,29 @@ https://5a0c3936c25c8.streamlock.net/oprogressotvstation/oprogressotvstation/chu
 
 #EXTINF:-1 group-title="VARIEDADES", WOW TV HD (ESP)
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?ROGERIOTORRES
+
+
+##############################################
+###### EXPERIMENTAIS = 1 Canais ##############
+##############################################
+
+#EXTINF:-1 group-title="EXPERIMENTAIS", Poop TV (Infantil / Geek)
+https://stream.ichibantv.com:3522/hybrid/play.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAIS", Canal Start (Geek)
+https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAIS", Loading TV (Geek)
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAIS", O DIA TV (Variedades)
+https://ythlsgo.onrender.com/channel/UCKnMcgDLxDeq9HqUgLhtYbQ.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAIS", Rede Metrópole (Variedades)
+https://acesso.ecast.site:3456/hybrid/play.m3u8?ROGERIOTORRES
+
+ #EXTINF:-1 group-title="EXPERIMENTAIS", Pet Lovers TV HD (filmes)
+https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
+
+ #EXTINF:-1 group-title="EXPERIMENTAIS", TV Liberdade HD (Animação)
+https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?ROGERIOTORRES
