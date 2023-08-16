@@ -22,9 +22,6 @@ https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Geekdot HD
 https://stream.ichibantv.com:3764/hybrid/play.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV HD
-https://stmv1.srvif.com/loadingtv/loadingtv/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto - 24h HD
 https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8?ROGERIOTORRES
 
@@ -86,7 +83,7 @@ http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?RO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (CE)
 https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro (RJ)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro (RJ) [erro]
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE HD (PR)
@@ -115,9 +112,6 @@ https://isaocorp.cloudecast.com/ngt/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Master TV - UNIVESP TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
-
- #EXTINF:-1 group-title="CANAIS ABERTOS", Meio Norte HD
-http://streaming.jornalmn.com.br/live/tvmn.m3u8?ROGERIOTORRES
 
  #EXTINF:-1 group-title="CANAIS ABERTOS", Multi Rio HD
 http://187.111.97.196:1935/webtv/itluM4819Rio/playlist.m3u8?ROGERIOTORRES
@@ -149,7 +143,7 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV HD [erro]
 https://stream.amsolution.net.br:8443/live/60da0c9cc05d4/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV - TV Mais HD (PR)
@@ -249,9 +243,6 @@ https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP)
 https://i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Mestres Do Ilusionismo HD
-https://i.mjh.nz/PlutoTV/6254ac8f30665a00077ec182-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Minha Obsessão Favorita HD
 https://i.mjh.nz/PlutoTV/61843f5e491af10007f7eefa-alt.m3u8?ROGERIOTORRES
