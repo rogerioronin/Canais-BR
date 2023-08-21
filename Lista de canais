@@ -56,7 +56,7 @@ http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - TV Tarubá (PR)
 https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) (erro)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA) |²
@@ -77,7 +77,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?RO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (PA) (erro)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (CE)
@@ -137,7 +137,7 @@ https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Familia HD (erro)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Familia HD
 https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
@@ -182,7 +182,7 @@ https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil - Plan TV HD (MG)
 https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD - UFSC (SC) (erro)
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil HD - UFSC (SC)
 https://tvaovivo.sites.ufsc.br/hls/1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
@@ -306,7 +306,7 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 1 HD (ARA)
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 2 HD (ARA) (erro)
+#EXTINF:-1 group-title="ESPORTES", Abu Dhabi Sports 2 HD (ARA)
 https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", All Sports
@@ -353,9 +353,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="ESPORTES", MMA Junkie HD (ENG)
 https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", MMA TV HD (ENG) (erro)
-https://mmatv-live.localnowlive.com/v1/manifest/385c85a93929f94966d0fb186fc33b431e6f1eb9/DSP_61327d317542b31350435482_mmatv-live/a504c826-6950-4b5b-a518-171d9aef07ee/4.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", MotorRacing HD (ENG)
 https://motorracingchannel-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d0c11c6c6042f12c5d32_motorracingchannel-live-1/c.m3u8?ROGERIOTORRES
@@ -1109,7 +1106,7 @@ https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Best Of The Drew Barrymore Show HD
 https://i.mjh.nz/PlutoTV/63eb9b26c111bc0008fea494-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", BRZ Brasi TV HD (erro)
+#EXTINF:-1 group-title="VARIEDADES", BRZ Brasi TV HD
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", BS TV HD
