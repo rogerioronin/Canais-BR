@@ -707,6 +707,9 @@ https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Caverna Do Dragão
+https://ythlsgo.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Central TV
 https://tv02.zas.media:1936/centraltv/centraltv/chunklist.m3u8?ROGERIOTORRES
 
@@ -750,7 +753,7 @@ https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1622005791.m3u8?ROGERIOTO
 https://stream.urbantv.com.br/tvplanalto/tracks-v1/index.fmp4.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Play TV HD
-https://live.mediastreaming.com.br/playtvhd/playtv.stream/chunks.m3u8?ROGERIOTORRES
+https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Nova Gazeta HD
 https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
