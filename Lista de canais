@@ -161,6 +161,9 @@ https://i.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT International HD
+https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8?ROGERIOTORRES
 
@@ -336,6 +339,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 #EXTINF:-1 group-title="ESPORTES", Esportes - Pluto TV HD
 https://i.mjh.nz/PlutoTV/5f32d2db0af67400077f29c4-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", FIFA Plus HD (ENG)
+https://fac26563.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctYnJfRklGQVBsdXNfSExT/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Fight Network (ENG)
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
@@ -492,9 +498,6 @@ https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="FILMES E SÉRIES", Arnold - Diff'rent Strokes - 24h HD
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Artflix HD (ESP)
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6348a34c1159f6a5ce819b81.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Barrados No Baile - 24h HD
 https://i.mjh.nz/PlutoTV/63eb9cfbc111bc0008feda3b-alt.m3u8?ROGERIOTORRES
 
@@ -510,9 +513,6 @@ https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD |²
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-6182c195f4e62961d9c2ccf3.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
 https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8?ROGERIOTORRES
 
@@ -527,9 +527,6 @@ https://i.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine TV Hits HD
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Life Classic HD
-http://187.95.95.241:6692/clc/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", CineMonde HD
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?ROGERIOTORRES
