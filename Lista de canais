@@ -486,7 +486,7 @@ https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Feiticeira HD
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD erro
 https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Arnold - Diff'rent Strokes - 24h HD
@@ -502,7 +502,7 @@ https://i.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
-https://stmv1.srvif.com/channel1/channel1/playlist.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
@@ -573,7 +573,7 @@ https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD erro
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
@@ -593,9 +593,6 @@ https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network HD |²
-https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-644874236e1dc0bf5664a674.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
@@ -659,9 +656,6 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", ULB TV HD
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
 http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8?ROGERIOTORRES
