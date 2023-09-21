@@ -155,6 +155,9 @@ https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV - Pluto TV HD
 https://i.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTO", SBT HD 
+https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
@@ -546,6 +549,9 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Clubinho Fun HD
+https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Comedia Brazil HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ROGERIOTORRES
 
@@ -554,6 +560,9 @@ https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Entretendo HD
+https://cdn2.connectbr.com.br/Entretendo/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Ficção Cientifica HD
 https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8?ROGERIOTORRES
@@ -838,9 +847,6 @@ https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="INFANTIL", Chroma TV HD
-https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="INFANTIL", Cocoricó - 24h HD
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8?ROGERIOTORRES
 
@@ -918,7 +924,7 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV HD (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", Canal UOL HD
+#EXTINF:-1 group-title="JORNALISMO", Canal UOL HD erro
 https://i.mjh.nz/PlutoTV/6238c63deec07b000723dd77-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
@@ -989,7 +995,7 @@ https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
 https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD
+#EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD erro
 https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Music Top
@@ -1007,10 +1013,10 @@ https://dai.google.com/linear/hls/event/BakMHO8xRSmGKYeiyhsq3A/master.m3u8?ROGER
 #EXTINF:-1 group-title="MUSICAS", Qwest Jazz and Beyond HD
 https://qwest-jazz-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Qwest TV Mix HD
+#EXTINF:-1 group-title="MUSICAS", Qwest TV Mix HD erro
 https://qwest-mix-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Retro Plus
+#EXTINF:-1 group-title="MUSICAS", Retro Plus erro
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Sexy KpopTV HD
@@ -1046,7 +1052,7 @@ https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", VEVO Classica HD
 https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Vivaldi HD
+#EXTINF:-1 group-title="MUSICAS", Vivaldi HD erro
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61bb9a63e0b39cfe304c9a8a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
 
 
@@ -1069,7 +1075,7 @@ https://cdn.livespanel.com/live/fmodia/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="RADIO", JK+
 https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="RADIO", Massa FM
+#EXTINF:-1 group-title="RADIO", Massa FM erro
 https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RADIO", Transamérica
@@ -1092,7 +1098,7 @@ https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="RELIGIOSO", IURD TV
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="RELIGIOSO", Rede Gospel HD
+#EXTINF:-1 group-title="RELIGIOSO", Rede Gospel HD erro
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="RELIGIOSO", Rede Século 21 HD
@@ -1144,6 +1150,9 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?ROGERIOTOR
 
 #EXTINF:-1 group-title="VARIEDADES", Caravelas TV
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Chroma TV HD
+https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Com Brasil HD
 https://br5093.streamingdevideo.com.br/abc/abc/chunklist.m3u8?ROGERIOTORRES
@@ -1374,13 +1383,3 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ##############################################
 ###### EXPERIMENTAIS = 1 Canais ##############
 ##############################################
-
-
-#EXTINF:-1 group-title="EXPERIMENTAIS", SBTHD 
-https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
-
-#EXTINF:-1 group-title="EXPERIMENTAIS", Entretendo (filmes/series)
-https://cdn2.connectbr.com.br/Entretendo/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EXPERIMENTAIS", Clubinho Fun (filmes/series)
-https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
