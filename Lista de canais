@@ -47,7 +47,7 @@ https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist.m3u8?ROGERIOTORRES
 ###### CANAIS ABERTOS = 50 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Agro Brasil TV
+#EXTINF:-1 group-title="CANAIS ABERTOS", Agro Brasil TV [erro]
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Amazon Sat HD
@@ -82,9 +82,6 @@ https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (CE)
-https://cdn.jmvstream.com/w/AVJ-12940/playlist/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - TV Futuro (RJ)
 https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8?ROGERIOTORRES
@@ -134,9 +131,6 @@ http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (PA)
-https://video01.kshost.com.br:4443/tv31966/tv31966/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8?ROGERIOTORRES
 
@@ -146,23 +140,17 @@ https://tv02.zas.media:1936/redefamiliaweb/redefamiliaweb/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas HD
 https://v4-slbps-sambavideos.akamaized.net/live/3282,8114,ec4b5a296d97fa99bf990662f5b4f8e1;base64np;Mc8VDxqNjXKCAf8!/amlst:Mc_tFgfGiHOdQXPB/chunklist_.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV - TV Mais HD (PR) erro
-https://stmv7.samcast.com.br/playredetvmais/playredetvmais/chunklist.m3u8
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV (RS)
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV - Pluto TV HD
 https://i.mjh.nz/PlutoTV/6048fc47a44e540007745d2b-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTO", SBT HD 
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD 
 https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6ca7e1a/SBT-Live-Channel/f8d12b8d09674de28c0fca3e6e726c65/dashOutput.mpd?content_channel_id=12&content_livestream=1
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT International HD erro
-https://amg01391-sbtinfast-amg01391c1-lg-br-654.playouts.now.amagi.tv/playlist/amg01391-addigital-sbtinternational-lgbr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8?ROGERIOTORRES
@@ -205,9 +193,6 @@ http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD |²
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD (BA)
-http://stream2.ba.gov.br/hls-live/livepkgr/_definst_/irdeb/pgm-1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD (RS)
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
@@ -298,9 +283,6 @@ https://i.mjh.nz/PlutoTV/5f515ebac01c0f00080e8439-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective HD (ENG)
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Urban Docs HD
-http://200.194.238.229:8383/live/urbandocs/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", Vida Real HD
 https://i.mjh.nz/PlutoTV/5f32d4d9ec194100070c7449-alt.m3u8?ROGERIOTORRES
 
@@ -351,9 +333,6 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Fight TV HD (ENG)
 https://i.mjh.nz/PlutoTV/5812b0f2237a6ff45d16c3f9-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Fighting Spirit TV HD (ENG)
-https://a.jsrdn.com/broadcast/47cff5378f/+0000/c.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESPORTES", Fox Sports - Pluto TV (ENG)
 https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8?ROGERIOTORRES
 
@@ -362,12 +341,6 @@ https://i.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Horizon Sports HD (ENG)
-https://horizonsports-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d095934e486f077c20b4_horizonsports-live-1/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", KBP Sports HD (ENG)
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", DAZN Women's Football HD
 https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ROGERIOTORRES
