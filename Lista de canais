@@ -345,12 +345,6 @@ https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-1 group-title="ESPORTES", DAZN Women's Football HD
 https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", MMA Junkie HD (ENG)
-https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/c.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", MotorRacing HD (ENG)
-https://motorracingchannel-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_6197d0c11c6c6042f12c5d32_motorracingchannel-live-1/c.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESPORTES", Motorvision HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
 
@@ -359,12 +353,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3
 
 #EXTINF:-1 group-title="ESPORTES", Red Bull TV HD (ENG)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Red Bull TV² HD (ENG)
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Sharjah Sports HD (ARA) erro
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/smc4tv_chunks.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
@@ -392,9 +380,6 @@ http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Urban Sports HD
 https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Urban Turbo HD
-http://200.194.238.229:8383/live/urbanturbo/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -446,13 +431,7 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", U Miss HD
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Urban Travel HD
-http://200.194.238.229:8383/live/urbantravel/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy HD
-https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy 2 HD
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 ##############################################
@@ -465,8 +444,8 @@ https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Feiticeira HD
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD erro
-https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
+https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Arnold - Diff'rent Strokes - 24h HD
 https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8?ROGERIOTORRES
@@ -483,7 +462,7 @@ https://i.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD [erro]
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
@@ -558,8 +537,8 @@ https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD erro
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63489bc190b96ef5e0eb327c.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
+#EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
 https://i.mjh.nz/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8?ROGERIOTORRES
@@ -569,9 +548,6 @@ https://i.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kenan & Kel - 24h HD
 https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Kuriakos Filmes
-https://w2.manasat.com/kcine/smil:kcine.smil/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MacGyver HD
 https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8?ROGERIOTORRES
@@ -642,15 +618,6 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies HD
-http://200.194.238.229:8383/live/urbanmovies/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Retro HD
-http://200.194.238.229:8383/live/urbanretro/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series HD
-http://200.194.238.229:8383/live/urbanseries/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
 https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 
@@ -661,12 +628,6 @@ https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", AWTV HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", BR Super TV erro
-http://tv.brsuper.com.br:9080/hls/brsupertv.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", BR Super TV |² erro
-http://177.137.208.46:9080/hls/brsupertv.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal 29
 https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
@@ -680,17 +641,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOT
 #EXTINF:-1 group-title="GEEK", Caverna Do Dragão
 https://ythlsgo.onrender.com/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Central TV
-https://tv02.zas.media:1936/centraltv/centraltv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Fandom TV HD erro
-http://187.95.95.241:7988/fabic/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Gaming Por Ubisoft HD - erro
-https://i.mjh.nz/PlutoTV/62e01661a3e6270007f4ec9e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Geek e Tech - Pluto TV HD
 https://i.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8?ROGERIOTORRES
@@ -701,8 +653,8 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Imperial TV HD
 https://acesso.ecast.site:3630/live/imperiallive.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", ISTV HD erro
-https://cdn.jmvstream.com/w/LVW-11215/LVW11215_D0pTqTBcCE/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", ISTV HD
+https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 
 #EXTINF:-1 group-title="GEEK", Jackie Chan HD
 https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
@@ -719,9 +671,6 @@ https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="GEEK", Play TV HD
 https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Nova Gazeta HD
-https://video02.kshost.com.br/sueli3485/sueli3485/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", Q Tal Channel
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist.m3u8?ROGERIOTORRES
 
@@ -737,9 +686,6 @@ https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TeleWEB TV HD
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV 100 HD
-https://serv3.videovox.pw/video78531/video78531/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV Teen Net HD
 https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?ROGERIOTORRES
 
@@ -748,9 +694,6 @@ https://live01.livemustv.com.br/nostalgiacomhumor3/nostalgiacomhumor3/chunklist.
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Encauca erro
-https://srv1.paineldevideo.com/encaucafm/encaucafm/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Gallo HD
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-1080p.m3u8?ROGERIOTORRES
@@ -880,9 +823,6 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Turma da Mônica - 24h HD
 https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="INFANTIL", Urban Kids HD
-http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="INFANTIL", Yu-Gi-Oh - 24h HD
 https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
 
@@ -897,8 +837,8 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV HD (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", Canal UOL HD erro
-https://i.mjh.nz/PlutoTV/6238c63deec07b000723dd77-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="JORNALISMO", Canal UOL HD
+https://i.mjh.nz/PlutoTV/64b9370b409629000802d32b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
 https://i.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8?ROGERIOTORRES
@@ -941,17 +881,11 @@ http://hz1.teleport.cc/HLS/HD.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", 30A Music
 http://30a-tv.com/music.m3u8?fluxustv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Afrobeats HD
-https://stream.ecable.tv/afrobeats/index.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV HD
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
 https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="MUSICAS", Capital TV HD
-https://streamcdnc1-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV HD
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
