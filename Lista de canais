@@ -635,6 +635,9 @@ https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Canal Start HD
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Caravana Play HD
+https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Cartoon Promo HD
 https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
 
@@ -665,6 +668,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
 #EXTINF:-1 group-title="GEEK", Loading TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1622005791.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Moon Plus TV HD
+https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Planalto Norte HD
 https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist.m3u8?ROGERIOTORRES
 
@@ -686,8 +692,8 @@ https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TeleWEB TV HD
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Teen Net HD
-https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", TV Cidade
+https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Classicos HD
 https://live01.livemustv.com.br/nostalgiacomhumor3/nostalgiacomhumor3/chunklist.m3u8?ROGERIOTORRES
@@ -718,6 +724,9 @@ https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Sonata
 https://video01.kshost.com.br/tiago2001/tiago2001/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", TV Teen Net HD
+https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", UlbTV HD
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
@@ -1243,6 +1252,9 @@ https://5d82644094cc0.streamlock.net/8192/8192/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV MOM HD
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Osório News HD
+https://serv2.videovox.pw/video13154/video13154/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Pantanal MS
 https://59d39900ebfb8.streamlock.net/8040/8040/chunklist.m3u8?ROGERIOTORRES
