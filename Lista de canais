@@ -1302,3 +1302,45 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ##############################################
 ###### EXPERIMENTAIS = 1 Canais ##############
 ##############################################
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (RJ)
+https://8mwx.short.gy/GLOBORJ
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (SP)
+https://8mwx.short.gy/GLOBOSP
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (MJ)
+https://8mwx.short.gy/GLOBOMG
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo News HD
+https://8mwx.short.gy/GLOBONEWS
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SporTV HD
+https://8mwx.short.gy/SPORTV
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 2 HD
+https://8mwx.short.gy/SPORTV2
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 3 HD
+https://8mwx.short.gy/SPORTV3
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Canal Combate HD
+https://8mwx.short.gy/COMBATE
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Premiere HD
+https://8mwx.short.gy/PFC24HORAS
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Premiere Mosaico HD
+https://8mwx.short.gy/PREMIEREMOSAICO
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Premiere 2 HD
+https://8mwx.short.gy/PREMIERE2
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Premiere 3 HD
+https://8mwx.short.gy/PREMIERE3
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Premiere 4 HD
+https://8mwx.short.gy/PREMIERE4
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Canal OFF HD
+https://8mwx.short.gy/CANALOFF
