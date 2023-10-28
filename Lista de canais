@@ -1306,14 +1306,26 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (RJ)
 https://8mwx.short.gy/GLOBORJ
 
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (RJ)
+http://bdtb.io/live/378724/pcapQ5/131182.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD  (SP)
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (SP)
 https://8mwx.short.gy/GLOBOSP
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (MJ)
 https://8mwx.short.gy/GLOBOMG
 
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo Nordeste HD
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo News HD
 https://8mwx.short.gy/GLOBONEWS
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo News HD
+http://bdtb.io/live/378724/pcapQ5/131112.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", SporTV HD
 https://8mwx.short.gy/SPORTV
@@ -1326,6 +1338,9 @@ https://8mwx.short.gy/SPORTV3
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Canal Combate HD
 https://8mwx.short.gy/COMBATE
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Canal Combate HD 
+http://bdtb.io/live/378724/pcapQ5/71846.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Premiere HD
 https://8mwx.short.gy/PFC24HORAS
@@ -1348,8 +1363,275 @@ https://8mwx.short.gy/CANALOFF
 #EXTINF:-1 group-title="EXPERIMENTAL", Viva HD
 https://c0i2.short.gy/SILVA23VIV?playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="EXPERIMENTAL", VIVA HD
+http://bdtb.io/live/378724/pcapQ5/72430.m3u8
+
 #EXTINF:-1 group-title="EXPERIMENTAL", Multishow HD
 https://c0i2.short.gy/SILVA23MSW?playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="EXPERIMENTAL", GNT HD
 https://c0i2.short.gy/SILVA23GNT?playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAL", A&E HD 
+https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", AMC HD 
+https://cdn-1.nxplay.com.br/AMC_BRASIL_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Animal Planet HD
+https://cdn-1.nxplay.com.br/ANIMAL_PLANET_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Arte 1 HD 
+https://cdn-1.nxplay.com.br/ARTE1_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", AXN HD
+https://cdn-1.nxplay.com.br/AXN_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Band HD
+https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Band News HD 
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Band Sports HD 
+http://bdtb.io/live/378724/pcapQ5/71804.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Bis HD
+http://bdtb.io/live/378724/pcapQ5/71809.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Canção Nova HD 
+https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Cartoon Network HD
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Cartoonito HD 
+http://bdtb.io/live/378724/pcapQ5/71815.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Cinemax HD
+http://bdtb.io/live/378724/pcapQ5/71836.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", CNN Brasil HD 
+https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Comedy Central HD 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Curta! HD 
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery Channel HD 
+https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery Home & Health HD 
+https://cdn-1.nxplay.com.br/DISCOVERY_HH_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery Kids HD
+https://cdn-1.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery Science HD
+https://cdn-1.nxplay.com.br/DISCOVERY_SCIENCE_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery Theater HD
+https://cdn-1.nxplay.com.br/DISCOVERY_THEATER_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery Turbo HD
+https://cdn-1.nxplay.com.br/DISCOVERY_TURBO_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery World HD
+https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Disney Channel HD
+http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", E! HD 
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", ESPN HD 
+http://bdtb.io/live/378724/pcapQ5/71914.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", ESPN 2 HD 
+http://bdtb.io/live/378724/pcapQ5/71923.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", ESPN 3 HD 
+http://bdtb.io/live/378724/pcapQ5/71910.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", ESPN 4 HD 
+http://bdtb.io/live/378724/pcapQ5/71961.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", ESPN Extra HD 
+http://bdtb.io/live/378724/pcapQ5/71918.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Fish TV HD 
+https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Food Network HD
+https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Fox Sports 2 HD
+http://bdtb.io/live/378724/pcapQ5/71955.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", FX HD
+http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Gloob HD
+http://bdtb.io/live/378724/pcapQ5/72100.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Gloobinho HD
+http://bdtb.io/live/378724/pcapQ5/131173.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", GNT HD
+http://bdtb.io/live/378724/pcapQ5/131136.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO HD
+http://bdtb.io/live/378724/pcapQ5/72120.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO 2 HD
+http://bdtb.io/live/378724/pcapQ5/72113.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO Family HD
+http://bdtb.io/live/378724/pcapQ5/72117.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO Mundi HD
+http://bdtb.io/live/378724/pcapQ5/72124.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO Plus HD
+http://bdtb.io/live/378724/pcapQ5/72128.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO Pop HD
+http://bdtb.io/live/378724/pcapQ5/72131.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Signature HD
+http://bdtb.io/live/378724/pcapQ5/72137.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HBO Xtreme HD
+http://bdtb.io/live/378724/pcapQ5/72141.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HGTV HD
+https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", History HD
+https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", History 2 HD
+https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Discovery ID HD
+https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Lifetime HD
+https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Megapix HD
+http://bdtb.io/live/378724/pcapQ5/131204.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", MTV HD 
+http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
+
+#EXTINF:-1 group-title="EXPERIMENTAL", MTV live HD
+http://bdtb.io/live/378724/pcapQ5/72177.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Multishow HD
+http://bdtb.io/live/378724/pcapQ5/131134.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Nick Jr. HD
+http://bdtb.io/live/378724/pcapQ5/72204.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Nickelodeon HD
+http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Paramount Channel HD
+http://bdtb.io/live/378724/pcapQ5/72220.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Premiere Clubes HD
+http://bdtb.io/live/378724/pcapQ5/72266.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Prime Box HD
+http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Record News HD
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Record TV HD
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Rede TV HD
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SBT HD
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Sony HD
+https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Sony Movies HD
+https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Space HD
+https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SporTV HD
+http://bdtb.io/live/378724/pcapQ5/71760.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 2 HD
+http://bdtb.io/live/378724/pcapQ5/72324.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 3 HD
+http://bdtb.io/live/378724/pcapQ5/131108.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Studio Universal HD
+http://bdtb.io/live/378724/pcapQ5/72337.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TCM HD
+https://s.m3u9.top/a2/hls1/tcm/__index.m3u8?mu3zAQc9HC3GbwJq=NEeC0XAyedVDLoo9wunFjw&3U1G7qaTxrPbalZnEx=1697629323
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Action HD
+http://bdtb.io/live/378724/pcapQ5/72348.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Cult HD
+http://bdtb.io/live/378724/pcapQ5/72353.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Fun HD
+http://bdtb.io/live/378724/pcapQ5/72357.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Pipoca HD
+http://bdtb.io/live/378724/pcapQ5/72361.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Premium HD
+http://bdtb.io/live/378724/pcapQ5/72365.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Touch HD
+http://bdtb.io/live/378724/pcapQ5/72369.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TCL HD
+https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TNT HD
+http://bdtb.io/live/378724/pcapQ5/72379.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TNT Series HD
+http://bdtb.io/live/378724/pcapQ5/72384.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Tooncast HD
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Travel Box HD
+http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TruTv HD
+http://bdtb.io/live/378724/pcapQ5/76669.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TV Rá-Tim-Bum HD
+http://bdtb.io/live/378724/pcapQ5/72415.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Universal TV HD
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Warner TV HD
+http://bdtb.io/live/378724/pcapQ5/72434.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", WooHoo HD
+https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", ZooMoo HD
+https://cdn-1.nxplay.com.br/ZOOMOO_HD_NX_TK/index.m3u8
