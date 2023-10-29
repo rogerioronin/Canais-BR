@@ -459,6 +459,9 @@ https://i.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", BET Pluto HD
 https://i.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", BORA Filmes HD
+http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 
@@ -839,6 +842,9 @@ https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
 ######################################
 ###### JORNALISMO = 17 Canais ########
 ######################################
+
+#EXTINF:-1 group-title="JORNALISMO", 24h News HD
+http://cdn.connectbr.com.br/24_news/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Al Jazeera English HD (ENG)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
@@ -1477,6 +1483,9 @@ http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Gloob HD
 http://bdtb.io/live/378724/pcapQ5/72100.m3u8
 
+#EXTINF:-1 group-title="EXPERIMENTAL", Gloob HD
+http://tannix.online/live/markusvinny/246tvmarkus88/108105.m3u8
+
 #EXTINF:-1 group-title="EXPERIMENTAL", Gloobinho HD
 http://bdtb.io/live/378724/pcapQ5/131173.m3u8
 
@@ -1623,6 +1632,9 @@ http://bdtb.io/live/378724/pcapQ5/76669.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", TV Rá-Tim-Bum HD
 http://bdtb.io/live/378724/pcapQ5/72415.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", TV Gulli HD
+https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8?hdnts=&exp=1694146452&acl=/*&hmac=c28263cdb7a23fc80976660cf9ef80e35fc2857c0b647d3666ce9c7f14969d7f
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Universal TV HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
