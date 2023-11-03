@@ -28,6 +28,9 @@ https://stream.ichibantv.com:3764/hybrid/play.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto - 24h HD
 https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto Shippuden - 24h HD
+https://i.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Super Onze - 24h HD
 https://i.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8?ROGERIOTORRES
 
@@ -541,6 +544,9 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Clube Do Terror - 24h HD
+https://i.mjh.nz/PlutoTV/64e501eec630a900088ed0f8-alt.m3u8
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Clubinho Fun HD
 https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
 
@@ -895,6 +901,9 @@ https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Talking Tom - 24h HD
 https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Teletubbies - 24h HD
+https://i.mjh.nz/PlutoTV/64e50055286f6b000838c067-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Toon Goggle HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
