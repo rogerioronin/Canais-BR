@@ -217,9 +217,6 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assombrações HD
 https://i.mjh.nz/PlutoTV/620d1512c7986a0007220213-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", MTV Catfish - 24h HD
-https://i.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", Detetives Médicos HD
 https://i.mjh.nz/PlutoTV/638df93ae2f2a3000737c168-alt.m3u8?ROGERIOTORRES
 
@@ -228,6 +225,9 @@ https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
 https://i.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", Investigação Total HD
+http://d7bktbz8mvtgl.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
 https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8?ROGERIOTORRES
@@ -243,6 +243,9 @@ https://i.mjh.nz/PlutoTV/5fac52f142044f00078e2a51-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Mistérios Sem Solução HD
 https://i.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", MTV Catfish - 24h HD
+https://i.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", MTV Jovens e Mães HD
 https://i.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8?ROGERIOTORRES
@@ -360,6 +363,9 @@ https://i.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Hard Knocks Fight Championship HD
+https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", La Liga Plus HD
 https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8?ROGERIOTORRES
 
@@ -422,6 +428,12 @@ https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashionstream HD
 https://i.mjh.nz/PlutoTV/5f516730b78b7600079294f5-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD
+https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", Homeful HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", KFOOD HD
 https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8?ROGERIOTORRES
 
@@ -446,6 +458,9 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Queens United TV HD
 https://cdn.connectbr.com.br/Queens/video.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Receitas Fast HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade HD
 https://i.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8?ROGERIOTORRES
 
@@ -457,6 +472,7 @@ https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy HD
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
 
 ##############################################
 ###### FILMES E SÉRIES = 65 Canais ###########
@@ -561,7 +577,7 @@ https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
 https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", FilmRise HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", FilmRise Séries HD
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
@@ -590,6 +606,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebr
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Novelando HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21vbc0vo9kqq3/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Novelisima HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", O Homem Que Veio Do Ceu - 24h HD
 https://i.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8?ROGERIOTORRES
@@ -630,13 +652,19 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 #EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
 https://i.mjh.nz/PlutoTV/620aca7a4d8ea4000778338a-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Series HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Séries HD
 https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Séries Sci-Fi HD
 https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Sony One Emoções HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", Spark TV HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Sony One - Classics HD
+https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Sony One - Emoções HD
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
@@ -644,6 +672,9 @@ https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Brasil Hits
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Tratamento De Choque - Anger Management - 24h HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV CEI 
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRES
@@ -653,6 +684,9 @@ https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", TV Zyn HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
 https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
@@ -897,8 +931,14 @@ https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV HD (ENG)
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", Canal UOL HD
+#EXTINF:-1 group-title="JORNALISMO", Canal Empreender HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Canal UOL Pluto HD
 https://i.mjh.nz/PlutoTV/64b9370b409629000802d32b-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Canal UOL Samsung HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-07et6wc1z29gv/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
 https://i.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8?ROGERIOTORRES
@@ -914,6 +954,9 @@ https://euronews-euronews-portugues-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTO
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD
 https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Jovem Pan News HD |²
+http://d9tard1jbwri9.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Jovem Pan Pluto - Pânico HD
 https://i.mjh.nz/PlutoTV/602e80c762306a0007179876-alt.m3u8?ROGERIOTORRES
@@ -1184,6 +1227,9 @@ https://i.mjh.nz/PlutoTV/5f1212fb81e85c00077ae9ef-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Mundo TV (erro)
 https://video01.logicahost.com.br/mundotvbrasil/mundotvbrasil/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", New Brasil HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7pakstinpyajo/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Novo Tempo HD
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ROGERIOTORRES
 
@@ -1233,7 +1279,10 @@ http://linear-181.frequency.stream/dist/roku/181/hls/master/playlist.m3u8?ROGERI
 https://video01.soultv.com.br/solbrasil/solbrasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Sou TV HD
-https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8
+https://video01.kshost.com.br:4443/tiago4725/tiago4725/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Sony One Shark Tank HD
+https://spt-sonyonesharktankbrasil-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TCM 10 HD
 https://live.tcm10.com.br/tcm10hd/stream.m3u8?ROGERIOTORRES
@@ -1243,6 +1292,9 @@ https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Telemax HD (ESP)
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Trace Brasil HD
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV A7 Caldas Novas
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist.m3u8?ROGERIOTORRES
