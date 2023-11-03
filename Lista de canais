@@ -283,6 +283,9 @@ https://i.mjh.nz/PlutoTV/5f515ebac01c0f00080e8439-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective HD (ENG)
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Viajando Pelo Brasil HD
+http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Vida Real HD
 https://i.mjh.nz/PlutoTV/5f32d4d9ec194100070c7449-alt.m3u8?ROGERIOTORRES
 
@@ -309,8 +312,17 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 https://i.mjh.nz/PlutoTV/5ebc8688f3697d00072f7cf8-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Bombate Global HD
+#EXTINF:-1 group-title="ESPORTES", Combate Global HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+ #EXTINF:-1 group-title="ESPORTES", DAZN Combat HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-dazncombat-lgmx/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", DAZN Women's Football HD
+https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ROGERIOTORRES
+
+ #EXTINF:-1 group-title="ESPORTES", DAZN Womens Sport HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Dubai Sports 2 HD (ARA)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
@@ -339,11 +351,17 @@ https://i.mjh.nz/PlutoTV/5a74b8e1e22a61737979c6bf-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Fuel TV HD
 https://i.mjh.nz/PlutoTV/6144d088516ea8000739076a-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", GE Fast HD
+https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Glory Kickboxing HD
+https://i.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
 https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", DAZN Women's Football HD
-https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="ESPORTES", La Liga Plus HD
+https://tvup-fast-hiway-media-laligaplus.secure2.footprint.net/out/v1/17fa8ab97d4b41128ae5d069d90d9feb/index_3.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Motorvision HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
@@ -351,8 +369,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/
 #EXTINF:-1 group-title="ESPORTES", Nitro TV HD
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Origin Sports HD (ENG)
+https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Red Bull TV HD (ENG)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Sports HD
+https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 1 HD
 http://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
@@ -441,7 +465,7 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Freezone HD
 https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", A Feiticeira HD
+#EXTINF:-1 group-title="FILMES E SÉRIES", A Feiticeira - 24h HD
 https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
@@ -465,8 +489,8 @@ http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite HD [erro]
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=821
+#EXTINF:-1 group-title="FILMES E SÉRIES", Chaves HD
+http://168.205.87.198:8555/live/1492/123456/159.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
 https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8?ROGERIOTORRES
@@ -537,6 +561,9 @@ https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
 https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", FilmRise HD
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
@@ -557,6 +584,9 @@ https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", MovieSphere HD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
 https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
@@ -605,6 +635,9 @@ https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Séries Sci-Fi HD
 https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Sony One Emoções HD
+https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
@@ -787,6 +820,9 @@ https://i.mjh.nz/PlutoTV/5f12141b146d760007934ea7-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Kids HD
 https://i.mjh.nz/PlutoTV/5f1214a637c6fd00079c652f-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Leo o Caminhão - 24h HD
+https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="INFANTIL", Moranguinho HD
 https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8?ROGERIOTORRES
 
@@ -814,6 +850,9 @@ https://i.mjh.nz/PlutoTV/63221e41af69b500076f84e7-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", PBS Kids HD (ENG)
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Peppa Pig - 24h HD
+https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -822,6 +861,9 @@ https://i.mjh.nz/PlutoTV/6202a7fcfb1b100008811f54-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Rugrats - 24h HD
 https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Talking Tom - 24h HD
+https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Toon Goggle HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
@@ -834,6 +876,9 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Turma da Mônica - 24h HD
 https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Urban Kids HD
+http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Yu-Gi-Oh - 24h HD
 https://i.mjh.nz/PlutoTV/63988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
@@ -976,6 +1021,9 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Vivaldi HD erro
 https://epg.provider.plex.tv/library/parts/646546f35db8ada4c8edd7e5-61bb9a63e0b39cfe304c9a8a.m3u8?X-Plex-Client-Identifier=xgkz9ui5tipdsflhzmh1ar3h&X-Plex-Client-Platform=Chrome&X-Plex-Token=crQdo6sbTiTSh5PoCfs6
+
+#EXTINF:-1 group-title="MUSICAS", Xite Classic Country HD
+https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8?ROGERIOTORRES
 
 
 ##############################################
