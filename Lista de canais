@@ -360,10 +360,7 @@ https://dxmy6u2c9ad0l.cloudfront.net/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Glory Kickboxing HD
 https://i.mjh.nz/PlutoTV/5417a212ff9fba68282fbf5e-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Hard Knocks HD (ENG)
-https://d397e8970cd346fdac04c0af81290c3a.mediatailor.us-west-2.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Hard-Knocks-DistroTV/109.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Hard Knocks Fight Championship HD
+#EXTINF:-1 group-title="ESPORTES", Hard Knocks Fight Championship HD (ENG)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", La Liga Plus HD
