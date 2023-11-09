@@ -526,6 +526,9 @@ https://i.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Sucessos HD
 https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cine TV Hits HD
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Terror HD
 https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8?ROGERIOTORRES
 
@@ -690,6 +693,9 @@ https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 ###### GEEK = 40 Canais ##############
 ######################################
 
+#EXTINF:-1 group-title="GEEK", ABC Brasil HD
+https://stmv1.srvstm.com/victor7513/victor7513/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", AWC Channel HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ROGERIOTORRES
 
@@ -724,7 +730,10 @@ https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Jetsons TV
-https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8
+https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", KE TV HD
+https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Loading TV HD
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1622005791.m3u8?ROGERIOTORRES
@@ -753,7 +762,7 @@ https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TeleWEB TV HD
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Cidade
+#EXTINF:-1 group-title="GEEK", TV Cidade HD
 https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web
@@ -791,6 +800,9 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTOR
 
 #EXTINF:-1 group-title="GEEK", Vintage TV
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Vivax TV HD
+https://cdn.jmvstream.com/w/LVW-14375/ngrp:LVW14375_v81W7a1VHm_all/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema HD
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
@@ -1177,6 +1189,9 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="VARIEDADES", Novo Tempo HD
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", On TV campos HD
+https://stm1.rbsys.radio.br/josealberto9351/josealberto9351/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Paisagens HD
 https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8?ROGERIOTORRES
 
@@ -1339,40 +1354,16 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ##############################################
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (RJ)
-https://8mwx.short.gy/GLOBORJ
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (RJ)
 http://bdtb.io/live/378724/pcapQ5/131182.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo HD  (SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (SP)
-https://8mwx.short.gy/GLOBOSP
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (MJ)
-https://8mwx.short.gy/GLOBOMG
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo Nordeste HD
 http://bdtb.io/live/378724/pcapQ5/71760.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo News HD
-https://8mwx.short.gy/GLOBONEWS
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo News HD
 http://bdtb.io/live/378724/pcapQ5/131112.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", SporTV HD
-https://8mwx.short.gy/SPORTV
-
-#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 2 HD
-https://8mwx.short.gy/SPORTV2
-
-#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 3 HD
-https://8mwx.short.gy/SPORTV3
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Canal Combate HD
-https://8mwx.short.gy/COMBATE
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Canal Combate HD 
 http://bdtb.io/live/378724/pcapQ5/71846.m3u8
@@ -1380,32 +1371,8 @@ http://bdtb.io/live/378724/pcapQ5/71846.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Premiere HD
 https://8mwx.short.gy/PFC24HORAS
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Premiere Mosaico HD
-https://8mwx.short.gy/PREMIEREMOSAICO
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Premiere 2 HD
-https://8mwx.short.gy/PREMIERE2
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Premiere 3 HD
-https://8mwx.short.gy/PREMIERE3
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Premiere 4 HD
-https://8mwx.short.gy/PREMIERE4
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Canal OFF HD
-https://8mwx.short.gy/CANALOFF
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Viva HD
-https://c0i2.short.gy/SILVA23VIV?playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EXPERIMENTAL", VIVA HD
 http://bdtb.io/live/378724/pcapQ5/72430.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Multishow HD
-https://c0i2.short.gy/SILVA23MSW?playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EXPERIMENTAL", GNT HD
-https://c0i2.short.gy/SILVA23GNT?playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="EXPERIMENTAL", A&E HD 
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
@@ -1512,9 +1479,6 @@ http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Gloob HD
 http://bdtb.io/live/378724/pcapQ5/72100.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Gloob HD
-http://tannix.online/live/markusvinny/246tvmarkus88/108105.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Gloobinho HD
 http://bdtb.io/live/378724/pcapQ5/131173.m3u8
 
@@ -1587,14 +1551,8 @@ http://bdtb.io/live/378724/pcapQ5/72266.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Prime Box HD
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Record News HD
-https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Record TV HD
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Rede TV HD
-https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", SBT HD
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
@@ -1619,9 +1577,6 @@ http://bdtb.io/live/378724/pcapQ5/131108.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Studio Universal HD
 http://bdtb.io/live/378724/pcapQ5/72337.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", TCM HD
-https://s.m3u9.top/a2/hls1/tcm/__index.m3u8?mu3zAQc9HC3GbwJq=NEeC0XAyedVDLoo9wunFjw&3U1G7qaTxrPbalZnEx=1697629323
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Telecine Action HD
 http://bdtb.io/live/378724/pcapQ5/72348.m3u8
