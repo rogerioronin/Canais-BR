@@ -708,9 +708,6 @@ https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Caravana Play HD
 https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Cartoon Promo HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
@@ -836,14 +833,26 @@ https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Bob Esponja - 24h HD
 https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Cartoonito FreeLive Brazil HD
+https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Cartoonito FreeLive Brazil HD |²
+http://bdtb.io/live/378724/pcapQ5/71815.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="INFANTIL", Cartoon Promo HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist-720p.m3u8?ROGERIOTORRES
+https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Cartoon Promo 2 HD
+https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Cocoricó - 24h HD
 https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Discovery Kids FreeLive Brazil HD
+https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Junior TV HD
 https://i.mjh.nz/PlutoTV/5f12141b146d760007934ea7-alt.m3u8?ROGERIOTORRES
@@ -945,6 +954,9 @@ https://i.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", CNN Portugal HD
+https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
 
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://i.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8?ROGERIOTORRES
@@ -1403,12 +1415,6 @@ http://bdtb.io/live/378724/pcapQ5/71809.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Canção Nova HD 
 https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Cartoon Network HD
-https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Cartoonito HD 
-http://bdtb.io/live/378724/pcapQ5/71815.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Cinemax HD
 http://bdtb.io/live/378724/pcapQ5/71836.m3u8
