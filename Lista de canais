@@ -83,6 +83,9 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?RO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Saude
 https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD
+https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD (PA)
 http://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8?ROGERIOTORRES
 
@@ -121,6 +124,9 @@ https://caikron.com.br:19360/criciuma/criciuma.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD (MT)
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD  (MT)
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
@@ -399,6 +405,9 @@ https://i.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
+ #EXTINF:-1 group-title="ESPORTES", Unique Sports HD
+https://stream.uniquetv.com.br/uniquetvsports/video.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Urban Sports HD [erro]
 https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
 
@@ -675,9 +684,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodec
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV CEI 
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", TV Nova Play HD
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
@@ -1350,6 +1356,9 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chu
 
 #EXTINF:-1 group-title="VARIEDADES", VH1 Classics HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="VARIEDADES", Vivax TV HD
+https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Web TV Água Boa HD
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8?ROGERIOTORRES
