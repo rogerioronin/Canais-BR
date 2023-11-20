@@ -1124,6 +1124,9 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="RELIGIOSO", TV Pai Eterno HD
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="EXPERIMENTAL", Universal TV HD
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="RELIGIOSO", TV Vitoria PE
 https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/chunklist.m3u8?ROGERIOTORRES
 
@@ -1395,9 +1398,6 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ###### EXPERIMENTAIS = 1 Canais ##############
 ##############################################
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD  (SP)
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", A&E HD 
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
 
@@ -1449,6 +1449,9 @@ http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD  (SP)
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+
 #EXTINF:-1 group-title="EXPERIMENTAL", HGTV HD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
 
@@ -1463,9 +1466,6 @@ https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Lifetime HD
 https://cdn-1.nxplay.com.br/LIFE_TIME_TK/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Megapix HD
-http://bdtb.io/live/378724/pcapQ5/131204.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", MTV HD 
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
@@ -1493,9 +1493,6 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Travel Box HD
 http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", TruTv HD
-http://bdtb.io/live/378724/pcapQ5/76669.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", TV Gulli HD
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8?hdnts=&exp=1694146452&acl=/*&hmac=c28263cdb7a23fc80976660cf9ef80e35fc2857c0b647d3666ce9c7f14969d7f
