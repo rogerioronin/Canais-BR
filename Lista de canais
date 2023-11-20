@@ -559,8 +559,14 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedi
 #EXTINF:-1 group-title="FILMES E SÉRIES", CSI - Miami HD
 https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Curta! HD 
+https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Flix HD
 https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Dark Matter HD
+https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Entretendo HD
 https://cdn2.connectbr.com.br/Entretendo/tracks-v1a1/mono.m3u8?ROGERIOTORRES
@@ -961,9 +967,6 @@ https://i.mjh.nz/PlutoTV/62310f66d5888f0007534342-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", CNN Brasil HD
 http://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", CNN Portugal HD
-https://sktv-forwarders.7m.pl/get.php?x=CNN_Portugal
-
 #EXTINF:-1 group-title="JORNALISMO", Euronews HD (PT)
 https://i.mjh.nz/PlutoTV/619e6614c9d9650007a2b171-alt.m3u8?ROGERIOTORRES
 
@@ -1019,6 +1022,9 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Karaokê Por Stingray HD
 https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", MC Music Choice 90's HD
+http://45.11.56.147:8808/stream?id=140
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
 https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
@@ -1132,6 +1138,9 @@ https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Assim é Portugal TV HD
+https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Best Of The Drew Barrymore Show HD
 https://i.mjh.nz/PlutoTV/63eb9b26c111bc0008fea494-alt.m3u8?ROGERIOTORRES
 
@@ -1155,6 +1164,12 @@ https://i.mjh.nz/PlutoTV/6001f3018502100007f528ac-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Comedy Central - Pluto HD
 https://i.mjh.nz/PlutoTV/5f357e91b18f0b00073583d2-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Comedy Central HD 
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Cultne TV HD
+https://edge-fast3.evrideo.tv/231ed5ca-94a1-466e-94fd-4cf831fcdd2f_1000027150_HLS/manifest.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", D+TV HD
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORRES
@@ -1182,6 +1197,9 @@ https://i.mjh.nz/PlutoTV/5f5141c1605ddf000748eb1b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", FailArmy 2 HD
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Just For Laughs Gags HD
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIEDADES", Liberdade TV HD
 https://stmv1.srvif.com/washington/washington/chunklist.m3u8?ROGERIOTORRES
@@ -1272,6 +1290,9 @@ https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Aracati
 https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Art HD
+https://alanza.iptv2022.com/TV_ART_HD/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Artes HD
 https://stmv7.samcast.com.br/luca8510/luca8510/chunklist.m3u8?ROGERIOTORRES
@@ -1374,26 +1395,8 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 ###### EXPERIMENTAIS = 1 Canais ##############
 ##############################################
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD (RJ)
-http://bdtb.io/live/378724/pcapQ5/131182.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Globo HD  (SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo Nordeste HD
-http://bdtb.io/live/378724/pcapQ5/71760.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo News HD
-http://bdtb.io/live/378724/pcapQ5/131112.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Canal Combate HD 
-http://bdtb.io/live/378724/pcapQ5/71846.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Premiere HD
-https://8mwx.short.gy/PFC24HORAS
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Viva HD
-http://bdtb.io/live/378724/pcapQ5/72430.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", A&E HD 
 https://cdn-1.nxplay.com.br/AeE_BRASIL_TK/index.m3u8
@@ -1416,26 +1419,8 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Band News HD 
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Band Sports HD 
-http://bdtb.io/live/378724/pcapQ5/71804.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Bis HD
-http://bdtb.io/live/378724/pcapQ5/71809.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Canção Nova HD 
 https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Cinemax HD
-http://bdtb.io/live/378724/pcapQ5/71836.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", CNN Brasil HD 
-https://video01.soultv.com.br/cnnbrasil/cnnbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Comedy Central HD 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ManoTV
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Curta! HD 
-https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Discovery Channel HD 
 https://cdn-1.nxplay.com.br/DISCOVERY_CHANNEL_NX/index.m3u8
@@ -1461,68 +1446,8 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Disney Channel HD
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", E! HD 
-http://bdtb.io/live/378724/pcapQ5/71760.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", ESPN HD 
-http://bdtb.io/live/378724/pcapQ5/71914.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", ESPN 2 HD 
-http://bdtb.io/live/378724/pcapQ5/71923.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", ESPN 3 HD 
-http://bdtb.io/live/378724/pcapQ5/71910.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", ESPN 4 HD 
-http://bdtb.io/live/378724/pcapQ5/71961.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", ESPN Extra HD 
-http://bdtb.io/live/378724/pcapQ5/71918.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Fish TV HD 
-https://cdn-1.nxplay.com.br/FISH_TV_NX_TK/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Food Network HD
-https://cdn-1.nxplay.com.br/FOOD_NETWORK_NX/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Fox Sports 2 HD
-http://bdtb.io/live/378724/pcapQ5/71955.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Gloob HD
-http://bdtb.io/live/378724/pcapQ5/72100.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Gloobinho HD
-http://bdtb.io/live/378724/pcapQ5/131173.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", GNT HD
-http://bdtb.io/live/378724/pcapQ5/131136.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO HD
-http://bdtb.io/live/378724/pcapQ5/72120.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO 2 HD
-http://bdtb.io/live/378724/pcapQ5/72113.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO Family HD
-http://bdtb.io/live/378724/pcapQ5/72117.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO Mundi HD
-http://bdtb.io/live/378724/pcapQ5/72124.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO Plus HD
-http://bdtb.io/live/378724/pcapQ5/72128.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO Pop HD
-http://bdtb.io/live/378724/pcapQ5/72131.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Signature HD
-http://bdtb.io/live/378724/pcapQ5/72137.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", HBO Xtreme HD
-http://bdtb.io/live/378724/pcapQ5/72141.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", HGTV HD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
@@ -1545,32 +1470,11 @@ http://bdtb.io/live/378724/pcapQ5/131204.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", MTV HD 
 http://cdn2.connectbr.com.br/mtv/index.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", MTV live HD
-http://bdtb.io/live/378724/pcapQ5/72177.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Multishow HD
-http://bdtb.io/live/378724/pcapQ5/131134.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Nick Jr. HD
-http://bdtb.io/live/378724/pcapQ5/72204.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Nickelodeon HD
 http://cdn.connectbr.com.br/Nickelodeon/index.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Paramount Channel HD
-http://bdtb.io/live/378724/pcapQ5/72220.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Premiere Clubes HD
-http://bdtb.io/live/378724/pcapQ5/72266.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", Prime Box HD
 http://cdn-1.nxplay.com.br/PRIME_HD/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Record TV HD
-https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", SBT HD
-https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Sony HD
 https://cdn-1.nxplay.com.br/SONY_CHANNEL/index.m3u8
@@ -1581,44 +1485,8 @@ https://cdn-1.nxplay.com.br/SONY_MOVIES/index.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", Space HD
 https://cdn-1.nxplay.com.br/SPACE_TK/index.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", SporTV HD
-http://bdtb.io/live/378724/pcapQ5/71760.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 2 HD
-http://bdtb.io/live/378724/pcapQ5/72324.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", SporTV 3 HD
-http://bdtb.io/live/378724/pcapQ5/131108.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Studio Universal HD
-http://bdtb.io/live/378724/pcapQ5/72337.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Action HD
-http://bdtb.io/live/378724/pcapQ5/72348.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Cult HD
-http://bdtb.io/live/378724/pcapQ5/72353.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Fun HD
-http://bdtb.io/live/378724/pcapQ5/72357.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Pipoca HD
-http://bdtb.io/live/378724/pcapQ5/72361.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Premium HD
-http://bdtb.io/live/378724/pcapQ5/72365.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Telecine Touch HD
-http://bdtb.io/live/378724/pcapQ5/72369.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", TCL HD
 https://cdn-1.nxplay.com.br/TLC_BR_NX/index.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", TNT HD
-http://bdtb.io/live/378724/pcapQ5/72379.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", TNT Series HD
-http://bdtb.io/live/378724/pcapQ5/72384.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Tooncast HD
 https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
@@ -1629,17 +1497,11 @@ http://cdn-1.nxplay.com.br/TRAVEL_HD/index.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", TruTv HD
 http://bdtb.io/live/378724/pcapQ5/76669.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", TV Rá-Tim-Bum HD
-http://bdtb.io/live/378724/pcapQ5/72415.m3u8
-
 #EXTINF:-1 group-title="EXPERIMENTAL", TV Gulli HD
 https://origin2-6play.live.6cloud.fr/pool_rnpls9by/gulli/sixplaysd/hls_short_q2hyb21h_gulli/index.m3u8?hdnts=&exp=1694146452&acl=/*&hmac=c28263cdb7a23fc80976660cf9ef80e35fc2857c0b647d3666ce9c7f14969d7f
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Universal TV HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Warner TV HD
-http://bdtb.io/live/378724/pcapQ5/72434.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", WooHoo HD
 https://cdn-1.nxplay.com.br/WOOHOO_TK/index.m3u8
