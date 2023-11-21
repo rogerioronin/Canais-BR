@@ -110,7 +110,7 @@ https://stmv1.transmissaodigital.com/ronald6259/ronald6259/playlist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Gazeta Digital HD
 https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", NGT HD [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", NGT HD
 https://isaocorp.cloudecast.com/ngt/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Master TV - UNIVESP TV
@@ -128,7 +128,7 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD  (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD [erro]
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
@@ -152,10 +152,10 @@ https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PE) [erro]
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PE)
 http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT)
@@ -203,7 +203,7 @@ https://dai.ly/x89qors
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV GOV HD
 https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 
- #EXTINF:-1 group-title="CANAIS ABERTOS", TV União HD
+ #EXTINF:-1 group-title="CANAIS ABERTOS", TV União HD [erro]
 https://rtmp.uniaoplay.com.br/tvuniaonatal/6b517d4134797cf29f129240def46bba.sdp/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", UniTV
@@ -225,9 +225,6 @@ https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
 https://i.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Investigação Total HD [erro]
-http://d7bktbz8mvtgl.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
 https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8?ROGERIOTORRES
@@ -407,9 +404,6 @@ http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
  #EXTINF:-1 group-title="ESPORTES", Unique Sports HD
 https://stream.uniquetv.com.br/uniquetvsports/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Urban Sports HD [erro]
-https://stream.urbantv.com.br/urbantvsports/video.m3u8?ROGERIOTORRES
 
 
 ##############################################
