@@ -131,7 +131,13 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD  (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD [erro]
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV NDTV SC
+https://caikron.com.br:19360/criciuma/criciuma.m3u8
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD (MT)
@@ -155,11 +161,11 @@ https://simulcast.sbtvideosonline.com/v1/dash/215c0da80606fed29372070168106400a6
 #EXTINF:-1 group-title="CANAIS ABERTOS", SBT Interior HD (SP)
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (MT)
-https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/master.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (RJ)
+https://ythlsgo.onrender.com/channel/UCsRfBAspa72ExrsN347W2xg.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", SBT HD (PE)
-http://evpp.mm.uol.com.br:1935/ne10/ne10.smil/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="CANAIS ABERTOS", SBT (RS)
+https://ythlsgo.onrender.com/channel/UCHDfPYXReWt5EVIzBA6TzOQ.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", SIC Internacional HD (PT)
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8?ROGERIOTORRES
