@@ -1104,8 +1104,11 @@ https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Vivaldi HD
 https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Xite Classic Country HD
+#EXTINF:-1 group-title="MUSICAS", Xite Classic Country
 https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="EXPERIMENTAL", XITE Rock
+https://i.mjh.nz/PlutoTV/1623a1b5188ecdc0007c9ef5a-alt.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -1144,12 +1147,6 @@ https://5a0c3936c25c8.streamlock.net/tvvitoriape/tvvitoriape/chunklist.m3u8?ROGE
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Universal TV HD
 https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-ff81-4504-950a-3f114cc082ff.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EXPERIMENTAL", XITE Classic Country
-https://i.mjh.nz/PlutoTV/1623b92a2ccefed0007b1db48-alt.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="EXPERIMENTAL", XITE Rock
-https://i.mjh.nz/PlutoTV/1623a1b5188ecdc0007c9ef5a-alt.m3u8?ROGERIOTORRES
 
 
 ##############################################
