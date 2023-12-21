@@ -235,6 +235,9 @@ https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
 https://i.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", LIFE Channel Brasil HD
+https://cdn2.connectbr.com.br/life/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
 https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8?ROGERIOTORRES
 
@@ -694,14 +697,17 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine Clube HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", TV Brasil Hits
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Tratamento De Choque - Anger Management - 24h HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", TV Brasil Hits
+https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV CEI 
 https://stmv7.samcast.com.br/eduardo6272/eduardo6272/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", TV Novelas HD
+https://srv4.zcast.com.br/tvnovelas/tvnovelas/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
@@ -786,9 +792,6 @@ https://i.mjh.nz/PlutoTV/609ae66b359b270007869ff1-alt.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TeleWEB TV HD
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Cidade HD
-https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
 
@@ -806,6 +809,9 @@ https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/chunklist.m3u8?ROGERIOTORRE
 
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil HD
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", TV Manchete HD
+https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Nova Play HD
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8?ROGERIOTORRES
@@ -1153,7 +1159,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-
 ###### VARIEDADES = 87 Canais ###############
 ##############################################
 
-#EXTINF:-1 group-title="VARIEDADES", A Culpa é Do Cabral HD
+#EXTINF:-1 group-title="VARIEDADES", A Culpa é Do Cabral HD [erro]
 https://i.mjh.nz/PlutoTV/62fd6b865a502400075b2caf-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
@@ -1170,6 +1176,9 @@ https://stream01.msolutionbrasil.com.br/hls/canal25/live.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Canal 38 News Vale Notícias HD
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Canal Da Praça - 24h HD
+https://fast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6ca7e1a/CanalDaPraca/040df3ac-278b-4256-b989-bb8db2d3e79a/4.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Caravelas TV
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist.m3u8?ROGERIOTORRES
@@ -1302,6 +1311,9 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8?ROGERIOTORRE
 
 #EXTINF:-1 group-title="VARIEDADES", Trace Brasil HD
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Trace Brasil HD |²
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3298
 
 #EXTINF:-1 group-title="VARIEDADES", TV A7 Caldas Novas
 https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist.m3u8?ROGERIOTORRES
@@ -1463,6 +1475,9 @@ https://cdn-1.nxplay.com.br/DISCOVERY_WORLD_NX/index.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Disney Channel HD
 http://170.82.200.38:8080/disney_channel/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", Europa - Flmes Nacionais HD
+https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
