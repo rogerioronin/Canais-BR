@@ -1255,6 +1255,9 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="VARIEDADES", Novo Tempo HD
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", OlhaTV HD
+https://serv4.videovox.pw/video55103/video55103/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", On TV campos HD
 https://stm1.rbsys.radio.br/josealberto9351/josealberto9351/chunklist.m3u8?ROGERIOTORRES
 
@@ -1448,6 +1451,9 @@ https://cdn-1.nxplay.com.br/BAND_HD_PFZ_NX/index.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Band News HD 
 https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", CineCanal HD
+https://cdn-1.nxplay.com.br/Cinebrasil/index.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", Canção Nova HD 
 https://cdn-1.nxplay.com.br/CANCAO_NOVA_TK/index.m3u8
