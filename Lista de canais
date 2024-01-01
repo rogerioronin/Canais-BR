@@ -459,7 +459,7 @@ https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/61a528267e1b8b0007357920-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Drag HD
-https://i.mjh.nz/PlutoTV/645111f1d8436e00081bb2bd-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1645111f1d8436e00081bb2bd-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Shore HD
 https://i.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8?ROGERIOTORRES
@@ -491,25 +491,28 @@ https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 ##############################################
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Freezone HD
-https://i.mjh.nz/PlutoTV/61b790b985706b00072cb797-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/161b790b985706b00072cb797-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Feiticeira - 24h HD
-https://i.mjh.nz/PlutoTV/631fa8dd7f25240007099a40-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1631fa8dd7f25240007099a40-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Aliança Catarinense HD
 https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Arnold - Diff'rent Strokes - 24h HD
-https://i.mjh.nz/PlutoTV/61f1d27a189ed10007b7393e-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/161f1d27a189ed10007b7393e-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", As Panteras - 24 HD
+https://i.mjh.nz/PlutoTV/1648776bf536e0c0008b49aef-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Barrados No Baile - 24h HD
 https://i.mjh.nz/PlutoTV/63eb9cfbc111bc0008feda3b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Being Mary Jane - 24h HD
-https://i.mjh.nz/PlutoTV/60a8126a0ac3970007f850fe-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/160a8126a0ac3970007f850fe-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", BET Pluto HD
-https://i.mjh.nz/PlutoTV/5ff768b6a4c8b80008498610-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15ff768b6a4c8b80008498610-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", BORA Filmes HD
 http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8?ROGERIOTORRES
@@ -520,20 +523,26 @@ https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Chaves HD
 http://168.205.87.198:8555/live/1492/123456/159.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Clássicos HD
+https://i.mjh.nz/PlutoTV/15fa1612a669ba0000702017b-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia HD
-https://i.mjh.nz/PlutoTV/5f12101f0b12f00007844c7c-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f12101f0b12f00007844c7c-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Comedia Romantica HD
-https://i.mjh.nz/PlutoTV/62545ed3dab4380007582f7c-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162545ed3dab4380007582f7c-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Crime HD
+https://i.mjh.nz/PlutoTV/16479ff764f5ba5000878dfe2-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Drama HD
-https://i.mjh.nz/PlutoTV/5f1210d14ae1f80007bafb1d-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1210d14ae1f80007bafb1d-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Família HD
-https://i.mjh.nz/PlutoTV/5f171f032cd22e0007f17f3d-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f171f032cd22e0007f17f3d-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cine TV Hits HD
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cine Inspiração HD
+https://i.mjh.nz/PlutoTV/15fa991b1f09e020007e78626-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", CineMonde HD
 https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?ROGERIOTORRES
@@ -542,16 +551,16 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/5fa1612a669ba0000702017b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Romance HD
-https://i.mjh.nz/PlutoTV/5f171f988ab9780007fa95ea-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Sucessos HD
-https://i.mjh.nz/PlutoTV/5f120e94a5714d00074576a1-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f171f988ab9780007fa95ea-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine TV Hits HD
 https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Terror HD
-https://i.mjh.nz/PlutoTV/5f12111c9e6c2c00078ef3bb-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f12111c9e6c2c00078ef3bb-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
@@ -569,7 +578,7 @@ https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", CSI - Miami HD
-https://i.mjh.nz/PlutoTV/63eb9c5351f5d000085e8d7e-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163eb9c5351f5d000085e8d7e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Curta! HD 
 https://video01.logicahost.com.br/canalcurta/canalcurta/playlist.m3u8?ROGERIOTORRES
@@ -587,19 +596,19 @@ http://cdn.connectbr.com.br/Entretendo/index.m3u8?ROGERIOTORRES
 https://acesso.ecast.site:3186/live/esflixlive.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Ficção Cientifica HD
-https://i.mjh.nz/PlutoTV/5fa15ad6367e170007cdd098-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15fa15ad6367e170007cdd098-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmelier HD
-https://i.mjh.nz/PlutoTV/633dcebd80386500074a2461-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1210d14ae1f80007bafb1d-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Ação HD
-https://i.mjh.nz/PlutoTV/5f120f41b7d403000783a6d6-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f120f41b7d403000783a6d6-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes De Natal HD
 http://d8ladbldf3ey5.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Nacionais HD
-https://i.mjh.nz/PlutoTV/5f5a545d0dbf7f0007c09408-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f5a545d0dbf7f0007c09408-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmes Suspense HD
 https://i.mjh.nz/PlutoTV/5f171d3442a0500007362f22-alt.m3u8?ROGERIOTORRES
@@ -616,14 +625,23 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
 https://i.mjh.nz/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Inferno Sobre Rodas - 24 HD
+https://i.mjh.nz/PlutoTV/164ff2c773efb5100082efb73-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Jeannie é um Genio - 24h HD
-https://i.mjh.nz/PlutoTV/6079c058aa05ac0007d10054-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/16079c058aa05ac0007d10054-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Justiça Em Dobro - Starsky & Hutch - 24h HD 
+https://i.mjh.nz/PlutoTV/16489c4a066e48500083ccf97-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kenan & Kel - 24h HD
 https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Louco Por Você - 24 HD
+https://i.mjh.nz/PlutoTV/164877764dc7a760008a12799-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", MacGyver HD
-https://i.mjh.nz/PlutoTV/63eb9dc84e83e70008abea92-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network HD
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
@@ -632,7 +650,7 @@ https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS HD
-https://i.mjh.nz/PlutoTV/63eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163eb9fdda995710008991c54-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Novelando HD
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-21vbc0vo9kqq3/playlist.m3u8?ROGERIOTORRES
@@ -641,22 +659,25 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3536
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", O Homem Que Veio Do Ceu - 24h HD
-https://i.mjh.nz/PlutoTV/62052d3b4eeb740007fbe125-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162052d3b4eeb740007fbe125-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Os Dez Mandamentos - 24h HD
 https://d1w1no6ex9c1d6.cloudfront.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Os Três Patetas - 24h HD
-https://i.mjh.nz/PlutoTV/5f1eed3c29b39600073e2ec0-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1eed3c29b39600073e2ec0-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Plantão Noturno - The Night Shift - 24h HD
-https://i.mjh.nz/PlutoTV/624f4e6bd5888f000754c53a-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1624f4e6bd5888f000754c53a-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro HD
-https://i.mjh.nz/PlutoTV/5f1212ad1728050007a523b8-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1212ad1728050007a523b8-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Revry Brasil HD
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Rookie Blue - 24h HD
+https://i.mjh.nz/PlutoTV/164ff2d8c6625510008c5a512-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Ação HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2552
@@ -671,19 +692,22 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time TV e Filmes HD
-https://i.mjh.nz/PlutoTV/62c5d32e2c48f9000715b6e9-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162c5d32e2c48f9000715b6e9-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Romance HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4866
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek HD
-https://i.mjh.nz/PlutoTV/620aca7a4d8ea4000778338a-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Schitts Creek - 24 HD
+https://i.mjh.nz/PlutoTV/1620aca7a4d8ea4000778338a-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Séries Ação HD
+https://i.mjh.nz/PlutoTV/16474ab1da51cb80008bfb5f4-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Séries HD
-https://i.mjh.nz/PlutoTV/5f121262a189a800076b9386-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f121262a189a800076b9386-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Séries Sci-Fi HD
-https://i.mjh.nz/PlutoTV/63d2ba2f60bc8f0008981a0e-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163d2ba2f60bc8f0008981a0e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Spark TV HD
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8?ROGERIOTORRES
@@ -716,7 +740,7 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Younger - 24h HD
-https://i.mjh.nz/PlutoTV/613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1613fd0043ffa39000736bb2b-alt.m3u8?ROGERIOTORRES
 
 
 ######################################
@@ -1081,7 +1105,7 @@ https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8?nimblesessionid=10423
 https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", The Ed Sullivan Show HD
-https://i.mjh.nz/PlutoTV/62e013a824f1bd0007a55631-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162e013a824f1bd0007a55631-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Top Mix TV
 https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m3u8?ROGERIOTORRES
@@ -1244,7 +1268,7 @@ http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?ROGERIOTORR
 https://i.mjh.nz/PlutoTV/5f6108d8cc331900075e98e4-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", MTV Pluto TV HD
-https://i.mjh.nz/PlutoTV/5f1212fb81e85c00077ae9ef-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1212fb81e85c00077ae9ef-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Mundo TV HD
 https://5cf4a2c2512a2.streamlock.net/mundotv/mundotv/chunklist.m3u8?ROGERIOTORRES
@@ -1265,7 +1289,7 @@ https://stm1.rbsys.radio.br/josealberto9351/josealberto9351/chunklist.m3u8?ROGER
 https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Paramount+ Apresenta - Pluto TV HD
-https://i.mjh.nz/PlutoTV/60072798dcf437000755b4f3-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/160072798dcf437000755b4f3-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Pet Lovers TV HD
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
