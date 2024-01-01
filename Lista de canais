@@ -223,44 +223,50 @@ http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 ###### DOCUMENTARIOS = 28 Canais #############
 ##############################################
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Animais HD
+https://i.mjh.nz/PlutoTV/16474aa984cfc2c0008883a92-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Assombrações HD
-https://i.mjh.nz/PlutoTV/620d1512c7986a0007220213-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1620d1512c7986a0007220213-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Detetives Médicos HD
 https://i.mjh.nz/PlutoTV/638df93ae2f2a3000737c168-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Documentarios HD
-https://i.mjh.nz/PlutoTV/5f1ef1a8cec6be00072a7ac9-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1ef1a8cec6be00072a7ac9-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação HD
-https://i.mjh.nz/PlutoTV/5f32cf37c9ff2b00082adbc8-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f32cf37c9ff2b00082adbc8-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", LIFE Channel Brasil HD
 https://cdn2.connectbr.com.br/life/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD
-https://i.mjh.nz/PlutoTV/5f1213ba0ecebc00070e170f-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1213ba0ecebc00070e170f-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP)
 https://i.mjh.nz/PlutoTV/60dd6b1da79e4d0007309455-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Minha Obsessão Favorita HD
-https://i.mjh.nz/PlutoTV/61843f5e491af10007f7eefa-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/161843f5e491af10007f7eefa-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Misterios HD
 https://i.mjh.nz/PlutoTV/5fac52f142044f00078e2a51-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Mistérios Sem Solução HD
-https://i.mjh.nz/PlutoTV/62b5c5a064163d0007b2efe6-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15fac52f142044f00078e2a51-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", MTV Catfish - 24h HD
-https://i.mjh.nz/PlutoTV/626c2a3502d84a0007cec817-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1626c2a3502d84a0007cec817-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", MTV Jovens e Mães HD
-https://i.mjh.nz/PlutoTV/620fdc7d8a36fc000710e3ba-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1620fdc7d8a36fc000710e3ba-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV (ENG)
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", Negócio Fechado - 24h HD
+https://i.mjh.nz/PlutoTV/164ad7394798def00087b2bfe-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Nosey HD
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
@@ -268,26 +274,26 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Nosey Escândalos HD
 https://i.mjh.nz/PlutoTV/5f9b05a99547eb0007676b02-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", O encantador De Cães HD
-https://i.mjh.nz/PlutoTV/61099df8cee03b00074b2ecf-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="DOCUMENTARIOS", O encantador De Cães - 24h HD
+https://i.mjh.nz/PlutoTV/161099df8cee03b00074b2ecf-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Os arquivos Do FBI HD
-https://i.mjh.nz/PlutoTV/620d12a82e8ac50007c269c3-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1620d12a82e8ac50007c269c3-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Phoenix TV HD
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Pronto-socorro - Histórias De Emergência HD
-https://i.mjh.nz/PlutoTV/61bb72a7bf8c520007a8fd27-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/161bb72a7bf8c520007a8fd27-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Quebrando o Tabu - 24h HD 
-https://i.mjh.nz/PlutoTV/62cd9e5a5c38c00007f5669a-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162cd9e5a5c38c00007f5669a-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries HD (PT)
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Smithsonian Channel HD 
-https://i.mjh.nz/PlutoTV/6298bd10d88ef000073f16b7-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/16298bd10d88ef000073f16b7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective HD
 https://i.mjh.nz/PlutoTV/5f515ebac01c0f00080e8439-alt.m3u8?ROGERIOTORRES
@@ -299,7 +305,7 @@ https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?ROGERI
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Vida Real HD
-https://i.mjh.nz/PlutoTV/5f32d4d9ec194100070c7449-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f32d4d9ec194100070c7449-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Wild Earth HD (ENG)
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-escapetonature-wildearth-samsungbr/playlist.m3u8?ROGERIOTORRES
@@ -415,7 +421,7 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRE
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Turbo - Pluto TV HD
-https://i.mjh.nz/PlutoTV/6014761dfb91870008ea6463-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/16014761dfb91870008ea6463-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", TVS Classic Sports (ENG)
 http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
@@ -453,16 +459,16 @@ https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Master Chefe HD |²
-https://d24vdd1b8d5s8r.cloudfront.net/playlist.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/16077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Com o Ex HD
-https://i.mjh.nz/PlutoTV/61a528267e1b8b0007357920-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/161a528267e1b8b0007357920-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Drag HD
 https://i.mjh.nz/PlutoTV/1645111f1d8436e00081bb2bd-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Shore HD
-https://i.mjh.nz/PlutoTV/625463563b8ddc0007134aeb-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1625463563b8ddc0007134aeb-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome HD
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
@@ -1265,7 +1271,7 @@ https://video02.logicahost.com.br/livretv/livretv/chunklist.m3u8?ROGERIOTORRES
 http://mastershowtv.videovox.pw/master6123/master6123/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", MTV Are you the One? HD
-https://i.mjh.nz/PlutoTV/5f6108d8cc331900075e98e4-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f6108d8cc331900075e98e4-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", MTV Pluto TV HD
 https://i.mjh.nz/PlutoTV/15f1212fb81e85c00077ae9ef-alt.m3u8?ROGERIOTORRES
@@ -1286,7 +1292,7 @@ https://serv4.videovox.pw/video55103/video55103/playlist.m3u8?ROGERIOTORRES
 https://stm1.rbsys.radio.br/josealberto9351/josealberto9351/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Paisagens HD
-https://i.mjh.nz/PlutoTV/604a8dedbca75b0007b1c753-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1604a8dedbca75b0007b1c753-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Paramount+ Apresenta - Pluto TV HD
 https://i.mjh.nz/PlutoTV/160072798dcf437000755b4f3-alt.m3u8?ROGERIOTORRES
