@@ -131,11 +131,11 @@ https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD  (MT)
 http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV RN
-https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", Record TV (RN) 
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/recordtv.png" group-title="Variedades", RecordTV NDTV SC
-https://caikron.com.br:19360/criciuma/criciuma.m3u8
+#EXTINF:-1 group-title="CANAIS ABERTOS", RecordTV NDTV (SC)
+https://caikron.com.br:19360/criciuma/criciuma.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Brasil HD
 https://5cf4a2c2512a2.streamlock.net/rbtv/rbtv/chunklist.m3u8?ROGERIOTORRES
