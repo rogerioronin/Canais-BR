@@ -1552,6 +1552,9 @@ https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", History 2 HD
 https://cdn-1.nxplay.com.br/HISTORY_2_TK/index.m3u8
 
+#EXTINF:-1 group-title="EXPERIMENTAL", HTO Filmes HD
+https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
+
 #EXTINF:-1 group-title="EXPERIMENTAL", Discovery ID HD
 https://cdn-1.nxplay.com.br/DISCOVERY_ID_NX/index.m3u8
 
