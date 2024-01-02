@@ -591,10 +591,10 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
 https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Clube Do Terror - 24h HD
-https://i.mjh.nz/PlutoTV/64e501eec630a900088ed0f8-alt.m3u8
+https://i.mjh.nz/PlutoTV/164e501eec630a900088ed0f8-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Clubinho Fun HD
-https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8
+https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Comedia Brazil HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-mvsphrecomedia-samsungbr/playlist.m3u8?ROGERIOTORRES
@@ -657,7 +657,7 @@ https://i.mjh.nz/PlutoTV/16079c058aa05ac0007d10054-alt.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/16489c4a066e48500083ccf97-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Kenan & Kel - 24h HD
-https://i.mjh.nz/PlutoTV/5ffcc5130fd98c0007f2e216-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15ffcc5130fd98c0007f2e216-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Louco Por Você - 24 HD
 https://i.mjh.nz/PlutoTV/164877764dc7a760008a12799-alt.m3u8?ROGERIOTORRES
@@ -805,10 +805,10 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", ISTV HD
 https://stmv1.srvstm.com/sistema7933/sistema7933/chunklist.m3u8
 
-#EXTINF:-1 group-title="GEEK", Jackie Chan HD
-https://i.mjh.nz/PlutoTV/6079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Jackie Chan - 24h HD
+https://i.mjh.nz/PlutoTV/16079c1539b05aa0007a57495-alt.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Jetsons TV
+#EXTINF:-1 group-title="GEEK", Jetsons TV - 24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", KE TV HD
@@ -898,22 +898,22 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 ######################################
 
 #EXTINF:-1 group-title="INFANTIL", As Pistas De Blue HD
-https://i.mjh.nz/PlutoTV/5f99aad4e82db50007fac4b2-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f99aad4e82db50007fac4b2-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", As Tartarugas Ninja - 24h HD
-https://i.mjh.nz/PlutoTV/63dd5c904e83e700088fb68a-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163dd5c904e83e700088fb68a-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", A vida moderna de Rocko HD
-https://i.mjh.nz/PlutoTV/5f6df6293a12e10007017396-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f6df6293a12e10007017396-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Babyfirst HD
-https://i.mjh.nz/PlutoTV/5f4fb4cf605ddf000748e16f-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f4fb4cf605ddf000748e16f-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Baby Shark TV HD
-https://i.mjh.nz/PlutoTV/63da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Bob Esponja - 24h HD
-https://i.mjh.nz/PlutoTV/62545c0b002f4b0007688b61-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162545c0b002f4b0007688b61-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Cartoonito FreeLive Brazil HD
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8?ROGERIOTORRES
@@ -928,7 +928,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_01/playlist.m3u8?ROGERIOTORRES
 https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Cocoricó - 24h HD
-https://i.mjh.nz/PlutoTV/62d969fd8451a30007f0fd94-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/162d969fd8451a30007f0fd94-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
@@ -937,37 +937,40 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Junior TV HD
-https://i.mjh.nz/PlutoTV/5f12141b146d760007934ea7-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f12141b146d760007934ea7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Kids HD
-https://i.mjh.nz/PlutoTV/5f1214a637c6fd00079c652f-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f1214a637c6fd00079c652f-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Leo o Caminhão - 24h HD
 https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Moranguinho HD
-https://i.mjh.nz/PlutoTV/63eba189c111bc0008ff59c5-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163eba189c111bc0008ff59c5-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Nick Classico HD
-https://i.mjh.nz/PlutoTV/5f12151794c1800007a8ae63-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f12151794c1800007a8ae63-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Nick Jr. Club HD
-https://i.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f121460b73ac6000719fbaf-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Nick Pluto TV HD
-https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1645951c0e94c38000802d2cb-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Nick Teen HD
 https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Oggy e As Baratas Tontas HD
-https://i.mjh.nz/PlutoTV/63221bafdc6e110007b50270-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163221bafdc6e110007b50270-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", O Reino Infantil HD
-https://i.mjh.nz/PlutoTV/5f5c216df68f920007888315-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f5c216df68f920007888315-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Os Padrinhos Mágicos - 24h HD
-https://i.mjh.nz/PlutoTV/63221e41af69b500076f84e7-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163221e41af69b500076f84e7-alt.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", PAW Patrol Patrulha Canina - 24h HD
+https://i.mjh.nz/PlutoTV/16495c7ad115d060008bf6df0-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", PBS Kids HD (ENG)
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROGERIOTORRES
@@ -978,17 +981,17 @@ https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8?
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="INFANTIL", Rocket Power HD
-https://i.mjh.nz/PlutoTV/6202a7fcfb1b100008811f54-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="INFANTIL", Rocket Power - 24h HD
+https://i.mjh.nz/PlutoTV/16202a7fcfb1b100008811f54-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Rugrats - 24h HD
-https://i.mjh.nz/PlutoTV/61f2c6969fcc3800076ef8af-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/161f2c6969fcc3800076ef8af-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Talking Tom - 24h HD
 https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Teletubbies - 24h HD
-https://i.mjh.nz/PlutoTV/64e50055286f6b000838c067-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/164e50055286f6b000838c067-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Toon Goggle HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
@@ -1000,7 +1003,7 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Turma da Mônica - 24h HD
-https://i.mjh.nz/PlutoTV/5f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Urban Kids HD
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
@@ -1094,16 +1097,16 @@ https://stmv1.srvif.com/gmusic/gmusic/playlist.m3u8?ROGERIOTORRES
 https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Karaokê Por Stingray HD
-https://i.mjh.nz/PlutoTV/604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MC Music Choice 90's HD
 http://45.11.56.147:8808/stream?id=140
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
-https://i.mjh.nz/PlutoTV/6047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/16047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD
-https://i.mjh.nz/PlutoTV/6047ff2e5e61cf000784e4da-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/16047ff2e5e61cf000784e4da-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Music Top
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ROGERIOTORRES
@@ -1130,7 +1133,7 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist.m3u8?ROGERIO
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8?nimblesessionid=10423405
 
 #EXTINF:-1 group-title="MUSICAS", Shows Por Stingray HD
-https://i.mjh.nz/PlutoTV/604b91e0692f770007d9f33f-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1604b91e0692f770007d9f33f-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", The Ed Sullivan Show HD
 https://i.mjh.nz/PlutoTV/162e013a824f1bd0007a55631-alt.m3u8?ROGERIOTORRES
