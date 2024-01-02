@@ -5,46 +5,50 @@
 ##############################################
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime HD
-https://i.mjh.nz/PlutoTV/5f12136385bccc00070142ed-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f12136385bccc00070142ed-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV
 https://stmv1.srvif.com/animetv/animetv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação HD
-https://i.mjh.nz/PlutoTV/604b79c558393100078faeef-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1604b79c558393100078faeef-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Beyblade - 24h HD
-https://i.mjh.nz/PlutoTV/633dc392e0282400071b0d39-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1633dc392e0282400071b0d39-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Captain Tsubasa - 24h HD
-https://i.mjh.nz/PlutoTV/646663b01593940008990a57-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1646663b01593940008990a57-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Death Note - 24h HD 
-https://i.mjh.nz/PlutoTV/625464a945b6a200079257d1-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1625464a945b6a200079257d1-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Geekdot HD
 https://stream.ichibantv.com:3764/hybrid/play.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto - 24h HD
-https://i.mjh.nz/PlutoTV/5f6df5a173d7340007c559f7-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f6df5a173d7340007c559f7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto Shippuden - 24h HD
-https://i.mjh.nz/PlutoTV/64c92f965580090008084968-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/164c92f965580090008084968-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Super Onze - 24h HD
-https://i.mjh.nz/PlutoTV/63988c2750108d00072e2686-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/163988c2750108d00072e2686-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", One Piece - 24h HD
-https://i.mjh.nz/PlutoTV/624b1c8d4321e200073ee421-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1624b1c8d4321e200073ee421-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Otaku Sign TV HD
 https://stmv1.srvif.com/otaku/otaku/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Tokusatsu HD
-https://i.mjh.nz/PlutoTV/5ff609de50ab210008025c1b-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15ff609de50ab210008025c1b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Wording TV
 https://tv02.zas.media:1936/wordingtv/wordingtv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU",  Yu-Gi-Oh - 24h HD
+https://i.mjh.nz/PlutoTV/163988a50be012600070f5db3-alt.m3u8?ROGERIOTORRES
+
 
 ##############################################
 ###### CANAIS ABERTOS = 54 Canais ############
@@ -447,7 +451,7 @@ https://i.mjh.nz/PlutoTV/163eba66da8b2270008436b10-alt.m3u8?ROGERIOTORRES
 ##############################################
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD
-https://i.mjh.nz/PlutoTV/60f8841a4865da0007421177-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/160f8841a4865da0007421177-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV HD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playlist.m3u8?ROGERIOTORRES
@@ -456,7 +460,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/playli
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashionstream HD
-https://i.mjh.nz/PlutoTV/5f516730b78b7600079294f5-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15f516730b78b7600079294f5-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire HD
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8?ROGERIOTORRES
@@ -465,7 +469,7 @@ https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", KFOOD HD
-https://i.mjh.nz/PlutoTV/633ee9ba83c08f00076b60a6-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1633ee9ba83c08f00076b60a6-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Master Chefe HD
 https://i.mjh.nz/PlutoTV/6077045b6031bd00078de127-alt.m3u8?ROGERIOTORRES
@@ -492,7 +496,7 @@ https://cdn.connectbr.com.br/Queens/video.m3u8?ROGERIOTORRES
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-owguzxrso3vrq/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade HD
-https://i.mjh.nz/PlutoTV/5fd1419a3b4f4b000773ba85-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/15fd1419a3b4f4b000773ba85-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade HD |²
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
@@ -641,7 +645,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
-https://i.mjh.nz/PlutoTV/620ff46e0a576e0007dc2f89-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1620ff46e0a576e0007dc2f89-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Inferno Sobre Rodas - 24 HD
 https://i.mjh.nz/PlutoTV/164ff2c773efb5100082efb73-alt.m3u8?ROGERIOTORRES
@@ -786,8 +790,11 @@ https://livestream.zazerconer.workers.dev/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?
 #EXTINF:-1 group-title="GEEK", FoxKids Network HD
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Gaming Por Ubisoft - Pluto TV HD
+https://i.mjh.nz/PlutoTV/164c815e8a1c6130008fef928-alt.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", Geek e Tech - Pluto TV HD
-https://i.mjh.nz/PlutoTV/605cc4de7ff3c50007be0f65-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/1605cc4de7ff3c50007be0f65-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", GLN TV HD
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
@@ -951,7 +958,7 @@ https://i.mjh.nz/PlutoTV/5f121460b73ac6000719fbaf-alt.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/645951c0e94c38000802d2cb-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Nick Teen HD
-https://i.mjh.nz/PlutoTV/60f5fabf0721880007cd50e3-alt.m3u8?ROGERIOTORRES
+https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Oggy e As Baratas Tontas HD
 https://i.mjh.nz/PlutoTV/63221bafdc6e110007b50270-alt.m3u8?ROGERIOTORRES
