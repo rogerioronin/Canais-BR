@@ -279,7 +279,7 @@ https://i.mjh.nz/PlutoTV/164ad7394798def00087b2bfe-alt.m3u8?ROGERIOTORRES
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Nosey Escândalos HD
-https://i.mjh.nz/PlutoTV/15f9b05a99547eb0007676b02-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f9b05a99547eb0007676b02/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", O encantador De Cães - 24h HD
 https://i.mjh.nz/PlutoTV/161099df8cee03b00074b2ecf-alt.m3u8?ROGERIOTORRES
@@ -300,7 +300,7 @@ https://i.mjh.nz/PlutoTV/162cd9e5a5c38c00007f5669a-alt.m3u8?ROGERIOTORRES
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Smithsonian Channel HD 
-https://i.mjh.nz/PlutoTV/16298bd10d88ef000073f16b7-alt.m3u8?ROGERIOTORRES
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6298bd10d88ef000073f16b7/master.m3u8?deviceId=PSID&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective HD
 https://i.mjh.nz/PlutoTV/15f515ebac01c0f00080e8439-alt.m3u8?ROGERIOTORRES
@@ -784,6 +784,9 @@ https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Caravana Play HD
 https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Cartoon classics
+https://c-01-sp.nxtv.com.br/bpk-token/1aa@ljifedtbbvqm2ebl55tnkqkig4kckbzyl5fwkqda/d/3DP9L4XWCC6TC4DIG5D5/hls3/now,-1m/0000000000030100/0000000000010200/m.m3u8?mm_sp&bpkio_sessionid=10a0a36e144-b8a75cab-36cf-4f7b-aff6-d0b30b2d2bad&bpkio_serviceid=9978b7063e297d847535e40753f7f427&category=all
+
 #EXTINF:-1 group-title="GEEK", Caverna Do Dragão HD 
 https://livestream.zazerconer.workers.dev/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?ROGERIOTORRES
 
@@ -791,7 +794,7 @@ https://livestream.zazerconer.workers.dev/channel/UCrDjVXUA3_yLgKcXyR-4Csw.m3u8?
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Gaming Por Ubisoft - Pluto TV HD
-https://i.mjh.nz/PlutoTV/164c815e8a1c6130008fef928-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="GEEK", Geek e Tech - Pluto TV HD
 https://i.mjh.nz/PlutoTV/1605cc4de7ff3c50007be0f65-alt.m3u8?ROGERIOTORRES
@@ -916,10 +919,10 @@ https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", Baby Shark TV HD
-https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 group-title="INFANTIL", Bob Esponja - 24h HD
-https://i.mjh.nz/PlutoTV/162545c0b002f4b0007688b61-alt.m3u8?ROGERIOTORRES
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIL", Cartoonito FreeLive Brazil HD
 https://playout.cdn.cartoonnetwork.com.br/playout_03/playlist.m3u8?ROGERIOTORRES
@@ -955,10 +958,10 @@ https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?
 https://i.mjh.nz/PlutoTV/163eba189c111bc0008ff59c5-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Nick Classico HD
-https://i.mjh.nz/PlutoTV/15f12151794c1800007a8ae63-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 group-title="INFANTIL", Nick Jr. Club HD
-https://i.mjh.nz/PlutoTV/15f121460b73ac6000719fbaf-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 group-title="INFANTIL", Nick Pluto TV HD
 https://i.mjh.nz/PlutoTV/1645951c0e94c38000802d2cb-alt.m3u8?ROGERIOTORRES
@@ -1009,7 +1012,10 @@ https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Turma da Mônica - 24h HD
-https://i.mjh.nz/PlutoTV/15f997e44949bc70007a6941e-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="INFANTIL", Universo Kids HD
+https://srv3.zcast.com.br/universo3/universo3/playlist_w554522056.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Urban Kids HD
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
@@ -1109,7 +1115,7 @@ https://i.mjh.nz/PlutoTV/1604b99d633a72b00078e05ad-alt.m3u8?ROGERIOTORRES
 http://45.11.56.147:8808/stream?id=140
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop HD
-https://i.mjh.nz/PlutoTV/16047fbdbbb776a0007e7f2ff-alt.m3u8?ROGERIOTORRES
+http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MUSICAS", MTV Spankin' New HD
 https://i.mjh.nz/PlutoTV/16047ff2e5e61cf000784e4da-alt.m3u8?ROGERIOTORRES
@@ -1221,7 +1227,7 @@ https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/chunklist_1335d542-
 ##############################################
 
 #EXTINF:-1 group-title="VARIEDADES", A Culpa é Do Cabral HD
-https://i.mjh.nz/PlutoTV/162fd6b865a502400075b2caf-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62fd6b865a502400075b2caf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES", Adesso TV HD
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?ROGERIOTORRES
