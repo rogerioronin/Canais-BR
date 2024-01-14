@@ -910,16 +910,16 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/15f99aad4e82db50007fac4b2-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", As Tartarugas Ninja - 24h HD
-https://i.mjh.nz/PlutoTV/163dd5c904e83e700088fb68a-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904e83e700088fb68a/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="INFANTIL", A vida moderna de Rocko HD
 https://i.mjh.nz/PlutoTV/15f6df6293a12e10007017396-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Babyfirst HD
-https://i.mjh.nz/PlutoTV/15f4fb4cf605ddf000748e16f-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f4fb4cf605ddf000748e16f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="INFANTIL", Baby Shark - Pluto TV HD
-https://i.mjh.nz/PlutoTV/163da6bcd60bc8f0008a5d364-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="INFANTIL", Baby Shark HD
 https://newidco-babysharktv-2-mx.samsung.wurl.tv/playlist.m3u8
@@ -955,13 +955,13 @@ https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/15f12141b146d760007934ea7-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Kids HD
-https://i.mjh.nz/PlutoTV/15f1214a637c6fd00079c652f-alt.m3u8?ROGERIOTORRES
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIL", Leo o Caminhão - 24h HD
 https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Moranguinho HD
-https://i.mjh.nz/PlutoTV/163eba189c111bc0008ff59c5-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="INFANTIL", Nick Classico HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
@@ -979,10 +979,10 @@ https://i.mjh.nz/PlutoTV/160f5fabf0721880007cd50e3-alt.m3u8?ROGERIOTORRES
 https://i.mjh.nz/PlutoTV/163221bafdc6e110007b50270-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", O Reino Infantil HD
-https://i.mjh.nz/PlutoTV/15f5c216df68f920007888315-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="INFANTIL", Os Padrinhos Mágicos - 24h HD
-https://i.mjh.nz/PlutoTV/163221e41af69b500076f84e7-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="INFANTIL", PAW Patrol Patrulha Canina - 24h HD
 https://i.mjh.nz/PlutoTV/16495c7ad115d060008bf6df0-alt.m3u8?ROGERIOTORRES
@@ -997,10 +997,10 @@ https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8?
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Rocket Power - 24h HD
-https://i.mjh.nz/PlutoTV/16202a7fcfb1b100008811f54-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6202a7fcfb1b100008811f54/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIL", Rugrats - 24h HD
-https://i.mjh.nz/PlutoTV/161f2c6969fcc3800076ef8af-alt.m3u8?ROGERIOTORRES
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f2c6969fcc3800076ef8af/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="INFANTIL", Talking Tom - 24h HD
 https://livestream.zazerconer.workers.dev/channel/UCY9xIaF8CIdS23e0W6nHAmg.m3u8?ROGERIOTORRES
