@@ -984,6 +984,9 @@ https://playout.cdn.cartoonnetwork.com.br/playout_05/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Cocoricó - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="INFANTIL", De Criança para Criança HD
+https://cdn-1.nxplay.com.br/dcpc/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="INFANTIL", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
 
