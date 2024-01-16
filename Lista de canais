@@ -114,6 +114,9 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Gazeta - TVC Araçatuba SP HD
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="EXPERIMENTAL", Globo Lixo HD (SP)
+https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo Lixo HD (BA)
 https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOBO.m3u8?ROGERIOTORRES
 
@@ -205,7 +208,7 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?ROGERIOTORRES
 https://tvaovivo.sites.ufsc.br/hls/1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera HD
-https://stream3.camara.gov.br/tv2/manifest.m3u8?ROGERIOTORRES
+https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE HD
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
@@ -221,6 +224,9 @@ https://dai.ly/x89qors
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV GOV HD
 https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Justiça HD
+https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", UniTV
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
@@ -337,6 +343,9 @@ https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA HD (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ESPORTES", Canal Do Inter HD
+https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Cazé TV HD | Não é 24h
 https://ythls.onrender.com/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?ROGERIOTORRES
 
@@ -352,6 +361,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b02be14ea480000831ec
  #EXTINF:-1 group-title="ESPORTES", DAZN Womens Sport HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00451-dazn-daznwomenssport-lgbr/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", DeporTV HD (ES)
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Dubai Sports 2 HD (ARA)
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist.m3u8?ROGERIOTORRES
 
@@ -360,6 +372,9 @@ http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chun
 
 #EXTINF:-1 group-title="ESPORTES", EDGEsport (ENG)
 https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Esportes Brasília HD
+https://a.cdni.live/radioesporte/radioesporte/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Esportes - Pluto TV HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -406,11 +421,17 @@ https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", PFL MMA HD
 https://i.mjh.nz/PlutoTV/164f6180130ab3300083d896b-alt.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Pop Bola HD
+https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Realmadrid TV HD
 https://i.mjh.nz/PlutoTV/163dac28760bc8f0008a7654b-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Red Bull TV HD (ENG)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", RS News Sports TV HD
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Sports HD
 https://i.mjh.nz/PlutoTV/56340779a738201b4ccfeac9-alt.m3u8?ROGERIOTORRES
@@ -433,6 +454,9 @@ https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8?ROGERIOTORRE
 #EXTINF:-1 group-title="ESPORTES", TNT Sports 5 HD
 https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Top Sports TV HD
+https://video05.logicahost.com.br/tvsports/tvsports/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Turbo - Pluto TV HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -441,6 +465,9 @@ http://rpn1.bozztv.com/36bay2/gusa-tvs/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Unique Sports HD
 https://stream.uniquetv.com.br/uniquetvsports/video.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Vitrine Esportiva TV HD
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/chunklist.m3u8?ROGERIOTORRES
  
  #EXTINF:-1 group-title="ESPORTES", World Poker Tour HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -572,9 +599,6 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Cinepix HD
-https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1295959840.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Romance HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -643,6 +667,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", FilmRise Séries HD
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Filmstream HD
+https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
@@ -749,6 +776,9 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine Clube HD
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Top Mix TV Filmes HD
+https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Tratamento De Choque - Anger Management - 24h HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8?ROGERIOTORRES
 
@@ -775,14 +805,23 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ###### GEEK = 40 Canais ##############
 ######################################
 
+#EXTINF:-1 group-title="GEEK", As Aventuras De Tintin HD
+http://ddsw.xyz:80/8590438094/9912004092/968354
+
 #EXTINF:-1 group-title="GEEK", ABC Brasil HD
 https://stmv1.srvstm.com/victor7513/victor7513/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", AWC Channel HD
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Canal 29
+#EXTINF:-1 group-title="GEEK", Blits TV HD
+https://video03.logicahost.com.br/blitstv01/blitstv01/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Canal 29 HD
 https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Canal BSTV HD
+https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal Start HD
 https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
@@ -960,6 +999,9 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c6
 #EXTINF:-1 group-title="INFANTIL", Leo o Caminhão - 24h HD
 https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Mi TV HD
+https://stmv4.voxtvhd.com.br/1990/1990/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="INFANTIL", Moranguinho HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eba189c111bc0008ff59c5/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -1037,6 +1079,12 @@ http://cdn.connectbr.com.br/24_news/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Al Jazeera English HD (ENG)
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", Band News HD
+https://cdn-1.nxplay.com.br/BAND_NEWS_TK/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Band News HD |²
+http://xciptv.aplicativos.top:80/p2puni777/8zksAAJgKEYq/468
+
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV HD (ENG) [erro]
 https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
@@ -1084,6 +1132,9 @@ https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="JORNALISMO", TRT World HD (ENG)
 https://tv-trtworld.live.trt.com.tr/master.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", TV 247 HD
+https://ythls.armelin.one/channel/UCRuy5PigeeBuecKnwqhM4yg.m3u8?ROGERIOTORRES
 
 
 ######################################
@@ -1253,6 +1304,9 @@ https://fast2.sbtvideosonline.com/v1/manifest/215c0da80606fed29372070168106400a6
 #EXTINF:-1 group-title="VARIEDADES", Caravelas TV
 https://stmv1.srvif.com/adeildsontv/adeildsontv/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Central TV HD
+https://tv02.zas.media:1936/centraltv/centraltv/chunklist_w613071872.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Chroma TV HD
 https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8?ROGERIOTORRES
 
@@ -1340,6 +1394,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4
 #EXTINF:-1 group-title="VARIEDADES", Pet Lovers TV HD
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="VARIEDADES", Play TV HD
+https://isaocorp.cloudecast.com/playtv/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="VARIEDADES", Polidoro TV HD [erro]
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist.m3u8?ROGERIOTORRES
 
@@ -1392,7 +1449,7 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/chunklist.m3u8?ROGERIOTO
 https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Aracati
-https://video01.logicahost.com.br/tvafolha/tvafolha/chunklist.m3u8?ROGERIOTORRES
+https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Artes HD |²
 https://stmv7.samcast.com.br/luca8510/luca8510/chunklist.m3u8?ROGERIOTORRES
@@ -1411,6 +1468,12 @@ https://stmv3.duvoxtv.com.br/tvcariocas/tvcariocas/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Cidade Canal 9 HD 
 https://59f1cbe63db89.streamlock.net:1443/tvcidade/_definst_/tvcidade/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Diário Do Sertão HD
+https://5ffab78b24f94.streamlock.net/pdsertaotv/pdsertaotv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Difusão HD
+https://59f1cbe63db89.streamlock.net:1443/canalvirtual09/_definst_/canalvirtual09/chunklist_w989725338.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Do Povo HD
 https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8?ROGERIOTORRES
@@ -1555,30 +1618,32 @@ https://cdn-2.nxplay.com.br/europaplay/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="EXPERIMENTAL", FX HD
 http://170.82.200.38:8080/fx/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 
+#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO | Não é 24h
 https://bal02.vivartec.com.br:8088/hls/livechannel1.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 2
+#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 2 | Não é 24h
 https://bal01.vivartec.com.br:8088/hls/livechannel2.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 3
+#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 3 | Não é 24h
 https://bal01.vivartec.com.br:8088/hls/livechannel3.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 4
+#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 4 | Não é 24h
 https://bal01.vivartec.com.br:8088/hls/livechannel4.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 5
+#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 5 | Não é 24h
 https://bal02.vivartec.com.br:8088/hls/livechannel5.m3u8?ManoTV
 
-#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 6
+#EXTINF:-1 group-title="EXPERIMENTAL", FUTEBOL",JOGO 6 | Não é 24h
 https://live.seo.tv.bo/live/SEO-5.m3u8
 
-
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo HD  (SP)
-https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8
+#EXTINF:-1 group-title="EXPERIMENTAL", H! Plus HD
+https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/playlist.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", HGTV HD
 https://cdn-1.nxplay.com.br/HGTV_BR_NX/index.m3u8
+
+#EXTINF:-1 group-title="EXPERIMENTAL", HTO Filmes HD
+https://cdn-1.nxplay.com.br/HTO_Filmes/playlist.m3u8
 
 #EXTINF:-1 group-title="EXPERIMENTAL", History HD
 https://cdn-1.nxplay.com.br/HISTORY_TK/index.m3u8
