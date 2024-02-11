@@ -114,7 +114,7 @@ https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Gazeta - TVC Araçatuba SP HD
 https://video02.logicahost.com.br/tvc21/tvc21/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="EXPERIMENTAL", Globo Lixo HD (SP)
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo Lixo HD (SP)
 https://cdn-1.nxplay.com.br/GLOBO_SP_TK/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Globo Lixo HD (BA)
@@ -124,7 +124,7 @@ https://transcoder.proxy.tokplay.com.br:443/videos/REDEGLOBO/format720p_REDEGLOB
 http://200.194.238.229:8383/live/globosupernet/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", NGT HD
-https://isaocorp.cloudecast.com/ngt/index.m3u8?ROGERIOTORRES
+https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Master TV - UNIVESP TV
 https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
@@ -599,6 +599,9 @@ https://video01.soultv.com.br/cinemonde/cinemonde/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine NERD HD
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", CinePIX HD
+https://stmv1.conectastreaming.com/hitstv/hitstv/chunklist_w1799143894.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Romance HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171f988ab9780007fa95ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -676,6 +679,15 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo HD
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", H! Plus HD
+https://cdn-1.nxplay.com.br/PLAYOUT_02_HMAIS/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo Classic HD
+https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo Movies HD
+https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -1383,7 +1395,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60072798dcf437000755b4
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Play TV HD
-https://isaocorp.cloudecast.com/playtv/mono.m3u8?ROGERIOTORRES
+https://isaocorp.cloudecast.com/playtv/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Polidoro TV HD [erro]
 https://stmv1.painelvideo.top/polidorotv/polidorotv/chunklist.m3u8?ROGERIOTORRES
