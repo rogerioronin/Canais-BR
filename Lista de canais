@@ -203,6 +203,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1213ba0ecebc00070e17
 #EXTINF:-1 group-title="DOCUMENTARIOS", Love Nature HD (ESP)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Love The Planet HD (ESP)
+https://i.mjh.nz/SamsungTVPlus/ESBC4700002TD.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Minha Obsessão Favorita HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61843f5e491af10007f7eefa/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -271,8 +274,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7c
 #EXTINF:-1 group-title="ESPORTES", Canal Do Inter HD
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Cazé TV HD (Só dia de jogos)
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", Cazé TV HD 2 (Só dia de jogos)
+https://abre.ai/iWlJ
+
 #EXTINF:-1 group-title="ESPORTES", Combate Global HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 group-title="ESPORTES", DAZN Women's Football HD
+https://i.mjh.nz/PlutoTV/64b02be14ea480000831ec78-alt.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", DeporTV HD (ES)
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/chunklist.m3u8?ROGERIOTORRES
@@ -863,6 +875,9 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids FreeLive Brazil HD
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="INFANTIL", Feliz 7 Play HD
+https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Junior TV HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
