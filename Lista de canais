@@ -69,9 +69,6 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Gospel Cartoon
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Jackie Chan - 24h HD
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6079c1539b05aa0007a57495/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c1c38b71-1b34-11ec-b13b-f726df667295&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a519ea2b-1a16-4441-9e07-a7ef103cd260&userId=&serverSideAds=true
-
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Jetsons TV - 24h
 https://stmv1.srvif.com/jetsontv/jetsontv/chunklist.m3u8?ROGERIOTORRES
 
@@ -110,9 +107,6 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Agro Brasil TV
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band HD
-https://live-c2.cf.dmcdn.net/sec2(FhW7vBx_bPIS_kR6GukySiHL375LXMtw6UX7XUtaNkGLJLph7zx2aYQ30MK0lrs9nPwEy-cNfx74VuSa6e6Go4sRenDvN7cEVp0LbdAPuKk)/cloud/3/x83vbd6/s/live-2.m3u8#cell=lcfc2
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV HD (PA)
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
@@ -122,14 +116,8 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Educação HD
 https://canaleducacao-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Canal Libras HD
-https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Rural
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura HD
-https://d3cl2fhxe5yjek.cloudfront.net/out/v1/60730e40f6d142f19428f0adaf64658d/index.mpd
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - Pluto TV HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -142,15 +130,6 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", FonteTV HD
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1017652728.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Gazeta Digital HD
-https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Gazeta - TVC Araçatuba SP HD
-https://video02.logicahost.com.br/tvc21/tvc21/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", NGT HD
-https://isaocorp.cloudecast.com/ngt/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV HD
 https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/playlist.m3u8?ROGERIOTORRES
