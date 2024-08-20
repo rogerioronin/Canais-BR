@@ -34,6 +34,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto Shippuden - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Sato + HD
+https://sto-sat-samsung.otteravision.com/sto/sat/sat.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Super Onze - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e2686/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -244,6 +247,9 @@ https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="DOCUMENTARIOS", Os arquivos Do FBI HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Manual Do Mundo HD
+https://cc-e0wcb2lgejxkf.akamaized.net/Offgrid/Manual_do_Mundo_BR/Manual_do_Mundo.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Phoenix TV HD
 https://video01.soultv.com.br/phoenixtv/phoenixtv/playlist.m3u8?ROGERIOTORRES
 
@@ -290,9 +296,6 @@ https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="ESPORTES", Cazé TV HD
 https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESPORTES", Cazé TV HD (Só dia de jogos)
-https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Combate Global HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -365,6 +368,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b
 ###### ESTILO DE VIDA = 19 Canais ############
 ##############################################
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Canal L!ke HD
+https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Estilo De Vida HD [erro]
 https://i.mjh.nz/PlutoTV/160f8841a4865da0007421177-alt.m3u8?ROGERIOTORRES
 
@@ -395,6 +401,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/645111f1d
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Shore HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", O Encantador de Cães - 24h HD
+https://rvg-dg-br-samsung.otteravision.com/rvg/dg_br/dg_br_h265.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome HD
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -412,6 +421,9 @@ https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy HD
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", Zenlife by Stingray HD
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungbr/master.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -564,6 +576,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Louco Por Você - 24 HD [erro]
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64877764dc7a760008a12799/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Malhação Fast - 24h HD
+https://cc-b6t4lda8x3u3t.akamaized.net/Globo/Malhacao_Fast_BR/Malhacao_Fast.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MacGyver HD [erro]
 https://i.mjh.nz/PlutoTV/163eb9dc84e83e70008abea92-alt.m3u8?ROGERIOTORRES
@@ -895,10 +910,10 @@ https://cc-j1hzvn37tgian.akamaized.net/Leadstory/Leadstory_BR/Leadstory.m3u8?ROG
 #EXTINF:-1 group-title="JORNALISMO", Canal Empreender HD
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-t36qky98i4sus/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="JORNALISMO", Canal UOL Pluto HD
+#EXTINF:-1 group-title="JORNALISMO", Canal UOL - Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64b9370b409629000802d32blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
-#EXTINF:-1 group-title="JORNALISMO", Canal UOL Samsung HD
+#EXTINF:-1 group-title="JORNALISMO", Canal UOL - Samsung HD
 https://d19fe0yjxkxylf.cloudfront.net/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", CBS News (ENG)
