@@ -433,9 +433,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60a8126a0ac3970007f850
 #EXTINF:-1 group-title="FILMES E SÉRIES", BET Pluto HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b80008498610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", BORA Filmes HD
-http://cdn.connectbr.com.br:80/Bora_Filmes/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 
@@ -484,9 +481,6 @@ https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Clube Do Terror - 24h HD
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Clubinho Fun HD
-https://cdn2.connectbr.com.br/Clubinho/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", CSI - Miami - 24h HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9c5351f5d000085e8d7e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -498,9 +492,6 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Matter HD
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Entretendo HD
-http://cdn.connectbr.com.br/Entretendo/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Família Dinossauros - 24h HD
 https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/chunklist.m3u8
@@ -621,9 +612,6 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8?R
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Tratamento De Choque - Anger Management - 24h HD
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", TV Brasil Hits
-https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist_w1407789719.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
