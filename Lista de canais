@@ -19,6 +19,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Beyblade - 24h ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Boruto - Naruto Next Generations - 24h ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Captain Tsubasa - 24h ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a57/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -27,6 +30,12 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ
 https://cdn-5.nxplay.com.br/HALLOANIME/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter - 24h ᴴᴰ 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Inuyasha - 24h ᴴᴰ 
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b26681d2d50d00083abe8b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV ᴴᴰ
 https://stmv1.srvif.com/loadingtv/loadingtv/chunklist_w1622005791.m3u8?ROGERIOTORRES
@@ -312,6 +321,9 @@ https://video01.soultv.com.br/xrhealth/xrhealth/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Bellator MMA ᴴᴰ (ENG)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ESPORTES", Billiard TV ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664f766741af640008e59cc9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="ESPORTES", Canal Do Inter ᴴᴰ
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOTORRES
 
@@ -320,6 +332,9 @@ https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8?ROGERIOTORRE
 
 #EXTINF:-1 group-title="ESPORTES", Combate Global ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
+
+#EXTINF:-1 group-title="ESPORTES", DAZN Combat ᴴᴰ
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64df7ab4dfa32400083c517b/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="ESPORTES", DAZN Women's Football ᴴᴰ
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/659bfdc66e4f6a0008ae4a3c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -372,11 +387,20 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3
 #EXTINF:-1 group-title="ESPORTES", Origin Sports ᴴᴰ (ENG)
 https://raycomsports-originsports-lg.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", PFL MMA ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64f6180130ab3300083d896b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="ESPORTES", Pop Bola ᴴᴰ
 https://video01.soultv.com.br/popbola/popbola/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", Real Madrid TV ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="ESPORTES", Red Bull TV ᴴᴰ (ENG)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", SFT Combat ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c6a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ESPORTES", RS News Sports TV ᴴᴰ
 https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/chunklist.m3u8?ROGERIOTORRES
@@ -397,6 +421,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Canal L!ke ᴴᴰ
 https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", Cozinha ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV ᴴᴰ
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
@@ -437,6 +464,9 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Receitas Fast ᴴᴰ
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Salon Line ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade ᴴᴰ
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
@@ -445,6 +475,9 @@ https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", U Miss ᴴᴰ
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", Viagens ᴴᴰ
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d432d612e50007e56133/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", WeatherSpy ᴴᴰ
 https://jukin-weatherspy-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
@@ -824,6 +857,9 @@ https://cdn-1.nxplay.com.br/dcpc/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids FreeLive Brazil ᴴᴰ
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Dora, A Aventureira - 24h ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656e28dd57fe4a0008819c3d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-1 group-title="INFANTIL", Duck TV - 24h ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
 
@@ -1173,6 +1209,9 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8?ROGERIOTORR
 
 #EXTINF:-1 group-title="VARIEDADES", Demand Africa ᴴᴰ
 https://demandafrica-por-samsungbr.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", DiaTV ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/662156805a31f70013dba21c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="VARIEDADES", Elytv
 https://stmv1.srvsite.com/ely/ely/playlist.m3u8?ROGERIOTORRES
