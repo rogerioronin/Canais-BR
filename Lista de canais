@@ -336,11 +336,17 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6
 #EXTINF:-1 group-title="ESPORTES", Fuel TV ᴴᴰ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESPORTES", GeFast ᴴᴰ
+https://cc-huzqc47g60md7.akamaized.net/Globo/GE_Fast_BR/GE_Fast.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Glory Kickboxing ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks Fight Championship ᴴᴰ (ENG)
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESPORTES", MAV TV Brasil ᴴᴰ
+https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Motorvision ᴴᴰ
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
@@ -379,6 +385,9 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV ᴴᴰ
 https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", GoUSA TV ᴴᴰ
+https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire ᴴᴰ
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8?ROGERIOTORRES
@@ -448,6 +457,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b800084986
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1 ᴴᴰ
 https://stmv1.srvif.com/movies1/movies1/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite ᴴᴰ
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cine Clássicos ᴴᴰ
 https://service-stitcher-ipv4.clusters.pluto.tv/stitch/hls/channel/5fa1612a669ba0000702017b/master.m3u8?advertisingId=&appName=web&appVersion=5.103.1-8fad9f5523fef57dce06179da605682c035afe99&app_name=web&clientDeviceType=0&clientID=3878c229-195a-4843-9847-d066d964e2de&clientModelNumber=1.0.0&country=BR&deviceDNT=false&deviceId=3878c229-195a-4843-9847-d066d964e2de&deviceLat=-10.4017&deviceLon=-39.0337&deviceMake=chromium-webview&deviceModel=web&deviceType=web&deviceVersion=93.0.4577&marketingRegion=BR&serverSideAds=true&sessionID=0452bc54-0c9a-11ec-abd1-0242ac110003&sid=0452bc54-0c9a-11ec-abd1-0242ac110003&userId=
 
@@ -505,8 +517,11 @@ https://video01.soultv.com.br/darkflix/darkflix/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Dark Matter ᴴᴰ
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_darkmatter_002.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Detetives Do Prédio Azul - 24h ᴴᴰ
+https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Família Dinossauros - 24h ᴴᴰ
-https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/chunklist.m3u8
+https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Ficção Cientifica ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -779,6 +794,9 @@ https://cdn-1.nxplay.com.br/dcpc/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Discovery Kids FreeLive Brazil ᴴᴰ
 https://playout.cdn.cartoonnetwork.com.br/playout_07/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="INFANTIL", Duck TV - 24h ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=7617
+
 #EXTINF:-1 group-title="INFANTIL", Feliz 7 Play ᴴᴰ
 https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8?ROGERIOTORRES
 
@@ -809,17 +827,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221bafd
 #EXTINF:-1 group-title="INFANTIL", O Reino Infantil ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f5c216df68f920007888315/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="INFANTIL", Palavrinhas - 24h ᴴᴰ
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6207
+
 #EXTINF:-1 group-title="INFANTIL", PAW Patrol Patrulha Canina - 24h ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6495c7ad115d060008bf6df0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="INFANTIL", PBS Kids ᴴᴰ (ENG)
 https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="INFANTIL", Peppa Pig - 24h HD
+#EXTINF:-1 group-title="INFANTIL", Peppa Pig - 24h ᴴᴰ
 https://livestream.zazerconer.workers.dev/channel/UCvD9GB-E4q_TuMpwUtFBhLA.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", PlayKids ᴴᴰ
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 group-title="INFANTIL", Pocoyo - 24h ᴴᴰ
+https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Rakuten Family ᴴᴰ (PT)
 https://rakuten-family-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
@@ -948,6 +972,9 @@ https://vcp.myplaytv.com/italianissimo/italianissimo/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Karaokê Por Stingray ᴴᴰ
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05adlivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
+#EXTINF:-1 group-title="MUSICAS", Qwest TV ᴴᴰ
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", MC Music Choice 90's ᴴᴰ
 http://45.11.56.147:8808/stream?id=140
 
@@ -984,6 +1011,9 @@ https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="MUSICAS", Sexy KpopTV ᴴᴰ
 https://250weu.bozztv.com/ssh101/ssh101/kpoptv/chunks.m3u8?nimblesessionid=10423405
 
+#EXTINF:-1 group-title="MUSICAS", Stingray Qello Concerts ᴴᴰ
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplusbr/master.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", Shows Por Stingray ᴴᴰ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604b91e0692f770007d9f33f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d759160-c883-11eb-a960-3d434807f51f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59dd21f-38ed-446d-8348-e9e4b6640131&userId=&serverSideAds=true
 
@@ -995,6 +1025,9 @@ https://59f1cbe63db89.streamlock.net:1443/topmixtv/_definst_/topmixtv/playlist.m
 
 #EXTINF:-1 group-title="MUSICAS", Top TV HD
 https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Trace Brazuca ᴴᴰ
+https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ccfvktkgxl5qg/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
@@ -1071,6 +1104,9 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8?ROGERIOTO
 
 #EXTINF:-1 group-title="VARIEDADES", Aliança Catarinense ᴴᴰ
 https://video05.logicahost.com.br/lifesctv/lifesctv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", Always Funny Videos ᴴᴰ
+https://cc-adhkhug69u4vo.akamaized.net/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Assim é Portugal TV ᴴᴰ
 https://alanza.iptv2022.com/ASSIME_PORTUGAL_TV/index.m3u8?ROGERIOTORRES
@@ -1157,7 +1193,7 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Paisagens ᴴᴰ
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604a8dedbca75b0007b1c753/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Pet Lovers TV ᴴᴰ
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
@@ -1215,6 +1251,9 @@ https://stmv7.samcast.com.br/luca8510/luca8510/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Artes ᴴᴰ 
 https://alanza.iptv2022.com/TV_ART_HD/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="VARIEDADES", TV Aprecida ᴴᴰ
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Aparecida/TV_Aparecida_BR/TV_Aparecida.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Brasil Hits ᴴᴰ |²
 https://video01.logicahost.com.br/brasilhits/brasilhits/chunklist.m3u8?ROGERIOTORRES
