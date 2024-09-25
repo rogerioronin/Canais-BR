@@ -1273,29 +1273,17 @@ https://stmv1.srvif.com/tvriogrande/tvriogrande/chunklist_w1706382925.m3u8?ROGER
 #EXTINF:-1 group-title="VARIEDADES", TV Rio Madeira
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", TV Serra Verde [erro]
-https://cdn.jmvstream.com/w/AVJ-13064/playlist/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="VARIEDADES", TV Sim Cachoeiro ᴴᴰ
 https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", TV Vianney
-https://5e837408ea907.streamlock.net:1936/paroquiavianney/paroquiavianney/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", Urban TV ᴴᴰ [erro]
-https://stream.urbantv.com.br/urbantv/tracks-v1a1/mono.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="VARIEDADES", US Brasil TV [erro]
-https://5a2b083e9f360.streamlock.net/usbrasiltv/usbrasiltv.sdp/playlist.m3u8?ROGERIOTORRES
+https://58c8a6b3c74e2.streamlock.net:1936/paroquiavianney/smil:paroquiavianney.smil/chunklist_w919877190_b1000000_slen.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Via Morena ᴴᴰ
 https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="VARIEDADES", VH1 Classics ᴴᴰ (ESP) [erro]
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/602ba1cfb386d30007aecbbe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="VARIEDADES", Vivax TV ᴴᴰ [erro]
-https://cdn.jmvstream.com/w/LVW-14375/LVW14375_v81W7a1VHm/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="VARIEDADES", Vivax TV ᴴᴰ
+https://srv3.zcast.com.br/vivaxtv/vivaxtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Web TV Água Boa ᴴᴰ
 https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/chunklist.m3u8?ROGERIOTORRES
