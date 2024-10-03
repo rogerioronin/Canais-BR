@@ -697,6 +697,9 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine Clube ᴴᴰ
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Star Trek - 24h
+https://stmv1.srvif.com/startrek/startrek/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Top Mix TV Filmes ᴴᴰ
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8?ROGERIOTORRES
 
@@ -1023,9 +1026,6 @@ https://30a-tv.com/feeds/720p/6.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV HD
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="MUSICAS", Catedral Do Rock
-https://stmv1.srvstm.com/catedraldorock/catedraldorock/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="MUSICAS", Clubbing TV ᴴᴰ
 https://clubbingtv-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -1041,6 +1041,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b99d633a72b00078e05
 #EXTINF:-1 group-title="MUSICAS", Qwest TV ᴴᴰ
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00447-qwesttv-qwesttv-samsungbr/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="MUSICAS", M20 TV ᴴᴰ
+https://host200-25-57-9-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="MUSICAS", MC Music Choice 90's ᴴᴰ
 http://45.11.56.147:8808/stream?id=140
 
@@ -1055,6 +1058,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8?ROGER
 
 #EXTINF:-1 group-title="MUSICAS", NOW 70s
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", NOW 80s
+https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Ocko Express ᴴᴰ
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?ROGERIOTORRES
@@ -1099,28 +1105,31 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Vevo 2K ᴴᴰ
-https://i.mjh.nz/PlutoTV/5fd7bca3e0a4ee0007a38e8c-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MUSICAS", Vevo 70's ᴴᴰ
-https://i.mjh.nz/PlutoTV/5f32f26bcd8aea00071240e5-alt.m3u8?ROGERIOTORRES
-
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+ 
 #EXTINF:-1 group-title="MUSICAS", Vevo 80's ᴴᴰ
-https://i.mjh.nz/PlutoTV/5fd7b8bf927e090007685853-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7b8bf927e090007685853/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MUSICAS", Vevo 90's ᴴᴰ
-https://i.mjh.nz/PlutoTV/5fd7bb1f86d94a000796e2c2-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="MUSICAS", VEVO Classica ᴴᴰ
-https://i.mjh.nz/PlutoTV/5f779951372da90007fd45e8-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="MUSICAS", Vevo Classica ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f779951372da90007fd45e8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="MUSICAS", Vivaldi ᴴᴰ
-https://i.mjh.nz/Plex/5e20b730f2f8d5003d739db7-61bb9a63e0b39cfe304c9a8a.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="MUSICAS", Vevo Country ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="MUSICAS", Vevo Retro Rock ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="MUSICAS", Xite Classic Country ᴴᴰ
-https://i.mjh.nz/PlutoTV/623b92a2ccefed0007b1db48-alt.m3u8?ROGERIOTORRES
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/623b92a2ccefed0007b1db48/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="MUSICAS", XITE Rock ᴴᴰ
-https://i.mjh.nz/PlutoTV/1623a1b5188ecdc0007c9ef5a-alt.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="MUSICAS", XITE Rock x Metal ᴴᴰ
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/623a1b5188ecdc0007c9ef5a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 ##############################################
