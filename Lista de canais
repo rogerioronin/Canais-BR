@@ -75,7 +75,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988a50be012600070f5d
 ###### ANIMAÇÕES CLASSICAS  = 4 Canais #######
 ##############################################
 
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", A vida moderna de Rocko ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", A vida moderna de Rocko ᴴᴰ 🔴
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6df6293a12e10007017396/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97846020-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c2c3d24-7129-4534-95c8-5bbb6a0ce9f6&userId=&serverSideAds=true
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", As Tartarugas Ninja - 24h ᴴᴰ 🟢
@@ -84,7 +84,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63dd5c904
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Bob Esponja - 24h ᴴᴰ 🟢
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545c0b002f4b0007688b61/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Discovery Kids ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Discovery Kids ᴴᴰ 🔴
 https://cdn-5.nxplay.com.br/DISCOVERY_KIDS_NX/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Gospel Cartoon  🟢
@@ -215,7 +215,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Justiça ᴴᴰ 🟢
 https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV 🟢
+#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV 🔴
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
 
