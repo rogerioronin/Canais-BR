@@ -1,4 +1,4 @@
-#EXTM3U
+ #EXTM3U
 
 ##############################################
 ###### ANIME E TOKUSATSU = 13 Canais #########
@@ -215,7 +215,7 @@ https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Justiça ᴴᴰ 🟢
 https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV 🔴
+#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV 🟢
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
 
@@ -271,13 +271,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec8
 #EXTINF:-1 group-title="DOCUMENTARIOS", MTV Jovens e Mães ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
  
-#EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV ᴴᴰ (ENG) 🟢
+#EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV ᴴᴰ (ENG) 🔴
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Negócio Fechado ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Nosey ᴴᴰ 🟢
+#EXTINF:-1 group-title="DOCUMENTARIOS", Nosey ᴴᴰ 🔴
 https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Os arquivos Do FBI ᴴᴰ 🟢
@@ -354,10 +354,10 @@ https://a.cdni.live/radioesporte/radioesporte/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Esportes - Pluto TV ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
-#EXTINF:-1 group-title="ESPORTES", FIFA Plus ᴴᴰ (ENG) 🟢
+#EXTINF:-1 group-title="ESPORTES", FIFA Plus ᴴᴰ (ENG) 🔴
 https://7dcc3ebb.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c19ITFM/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Fight Network ᴴᴰ (ENG) 🟢
+#EXTINF:-1 group-title="ESPORTES", Fight Network ᴴᴰ (ENG) 🔴
 https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Fight TV ᴴᴰ (ENG) 🟢
@@ -384,7 +384,7 @@ https://cc-panvcqnzkgrdl.akamaized.net/Sports7/Sports7_BR/Sports7.m3u8?ROGERIOTO
 #EXTINF:-1 group-title="ESPORTES", Motorvision ᴴᴰ 🟢
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01329-ottera-motorvision-samsungbr/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESPORTES", Nitro TV HD 🟢
+#EXTINF:-1 group-title="ESPORTES", Nitro TV HD 🔴
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxnitrocircus/CDN/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Origin Sports ᴴᴰ (ENG) 🟢
@@ -443,7 +443,7 @@ https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire ᴴᴰ 🟢
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Homeful ᴴᴰ 🟢
+#EXTINF:-1 group-title="ESTILO DE VIDA", Homeful ᴴᴰ 🔴
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", KFOOD ᴴᴰ 🟢
@@ -479,7 +479,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d3100084486
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade ᴴᴰ |² 🟢
+#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade ᴴᴰ |² 🔴
 https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", U Miss ᴴᴰ 🟢
@@ -583,7 +583,7 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="FILMES E SÉRIES", Detetives Do Prédio Azul - 24h ᴴᴰ 🟢
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Família Dinossauros - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="FILMES E SÉRIES", Família Dinossauros - 24h ᴴᴰ 🔴
 https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Ficção Cientifica ᴴᴰ 🟢
@@ -613,11 +613,8 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo ᴴᴰ 🟢
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo Classic ᴴᴰ 🟢
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo Classic ᴴᴰ 🔴
 https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo Movies ᴴᴰ 🟢
-https://cdn-2.nxplay.com.br/HALLOMOVIES/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -744,7 +741,7 @@ https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Caravana Play ᴴᴰ 🟢
 https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Gaming Por Ubisoft - Pluto TV ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", Gaming Por Ubisoft - Pluto TV ᴴᴰ 🔴
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
  
 #EXTINF:-1 group-title="GEEK", Geekdot ᴴᴰ 🟢
@@ -759,10 +756,10 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Imperial TV ᴴᴰ 🟢
 https://acesso.ecast.site:3630/live/imperiallive.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", KE TV ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", KE TV ᴴᴰ 🔴
 https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Moon Plus TV ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", Moon Plus TV ᴴᴰ 🔴
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Planalto Norte ᴴᴰ 🟢
@@ -789,25 +786,25 @@ https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?ROG
 #EXTINF:-1 group-title="GEEK", TV KidMais 🟢
 https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Lagoa Dantas 🟢
+#EXTINF:-1 group-title="GEEK", TV Lagoa Dantas 🔴
 https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil ᴴᴰ 🟢
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Manchete ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", TV Manchete ᴴᴰ 🔴
 https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Nova Play ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", TV Nova Play ᴴᴰ 🔴
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TV Sonata 🟢
 https://video01.kshost.com.br/tiago2001/tiago2001/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Teen Net ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", TV Teen Net ᴴᴰ 🔴
 https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", UlbTV ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", UlbTV ᴴᴰ 🔴
 https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Vila TV 🟢
@@ -816,16 +813,16 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="GEEK", Vintage TV 🟢
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Vivax TV ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", Vivax TV ᴴᴰ 🔴
 https://cdn.jmvstream.com/w/LVW-14375/ngrp:LVW14375_v81W7a1VHm_all/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema ᴴᴰ 🔴
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", X Plus TV ᴴᴰ 🟢
 https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", XtremeTV ᴴᴰ 🟢
+#EXTINF:-1 group-title="GEEK", XtremeTV ᴴᴰ 🔴
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 
 
@@ -833,7 +830,7 @@ https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 ###### INFANTIL = 32 Canais ##########
 ######################################
 
-#EXTINF:-1 group-title="INFANTIL", As Pistas De Blue ᴴᴰ 🟢
+#EXTINF:-1 group-title="INFANTIL", As Pistas De Blue ᴴᴰ 🔴
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
 #EXTINF:-1 group-title="INFANTIL", Babyfirst ᴴᴰ 🟢
