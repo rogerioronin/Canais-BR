@@ -1427,8 +1427,9 @@ http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?JoCaRoIPTV.m3u8?
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-5w3mfvzg9saoi/playlist.m3u8?ROGERIOTORRES
 
 
-##############################################
+###############################EXTINF:-1 group-title="", ################
 ###### EXPERIMENTAIS = 1 Canais ##############
 ##############################################
 
-
+#EXTINF:-1 group-title="EXPERIMENTAL", Canal GOAT N HD 🟢
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
