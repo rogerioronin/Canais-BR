@@ -117,8 +117,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869f
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Urban Kids ᴴᴰ 🟢
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Tooncast ᴴᴰ 🔴
-https://cdn-5.nxplay.com.br/TOONCAST_TK/index.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Tooncast ᴴᴰ 🟢
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -1431,5 +1431,4 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 ###### EXPERIMENTAIS = 1 Canais ##############
 ##############################################
 
-#EXTINF:-1 group-title="EXPERIMENTAL", A&E HD 🟢
-https://d1r94zrwa3gnlo.cloudfront.net/livestore103/stream/hls/267/267.m3u8
+
