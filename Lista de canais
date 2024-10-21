@@ -723,6 +723,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/613fd0043ffa39000736bb
 ###### GEEK = 40 Canais ##############
 ######################################
 
+#EXTINF:-1 group-title="GEEK", 1980 Channel ᴴᴰ 🟢
+https://stmv1.srvif.com/channel80s/channel80s/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", AWC Channel ᴴᴰ 🟢
 https://ebocast.ebosystems.com.br:3070/live/awtvlive.m3u8?ROGERIOTORRES
 
@@ -773,6 +776,9 @@ https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", TeleWEB TV ᴴᴰ 🟢
 https://video01.kshost.com.br:4443/acessweb7837/acessweb7837/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", TV 100 🟢
+https://alanza.iptv2022.com/TV_100/tracks-v1a1/mono.m3u8?filter.tracks=a1v1v2
 
 #EXTINF:-1 group-title="GEEK", TV Clube Web 🟢
 https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8?ROGERIOTORRES
@@ -1115,6 +1121,9 @@ https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 #EXTINF:-1 group-title="MUSICAS", TV Alvorada Sertaneja 🟢
 http://stmv6.srvstm.com/tvalvoradasertaneja/tvalvoradasertaneja/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", VClassic TV 🟢
+https://5eaccbab48461.streamlock.net:1936/8112/8112/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Vevo 2K ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
