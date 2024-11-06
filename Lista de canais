@@ -28,7 +28,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Death Note - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟠
 https://cdn-1.nxplay.com.br/HALLOANIME/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter - 24h ᴴᴰ 🟢
@@ -664,6 +664,9 @@ https://cc-97z35d907q26w.akamaized.net/Samsung/Os_Dez_Mandamentos_BR/Os_Dez_Mand
 #EXTINF:-1 group-title="FILMES E SÉRIES", Retro ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Reviva TV ᴴᴰ 🟢
+https://stmv3.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Revry Brasil ᴴᴰ 🟢
 http://linear-181.frequency.stream/181/hls/master/playlist.m3u8?ROGERIOTORRES
 
@@ -834,8 +837,8 @@ https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTOR
 #EXTINF:-1 group-title="GEEK", Vintage TV 🟢
 https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Vivax TV ᴴᴰ 🔴
-https://cdn.jmvstream.com/w/LVW-14375/ngrp:LVW14375_v81W7a1VHm_all/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Vivax TV ᴴᴰ 🟢
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema ᴴᴰ 🔴
 https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
@@ -1039,6 +1042,10 @@ https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="JORNALISMO", Reuters ᴴᴰ 🔴
 https://reuters-reutersnow-1-pt.samsung.wurl.com/manifest/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="JORNALISMO", SIC Notícias ᴴᴰ 🟢
+https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8?ROGERIOTORRES
+
+
 #EXTINF:-1 group-title="JORNALISMO", TRT World ᴴᴰ (ENG) 🟢
 https://tv-trtworld.live.trt.com.tr/master.m3u8?ROGERIOTORRES
 
@@ -1055,6 +1062,9 @@ http://hz1.teleport.cc/HLS/HD.m3u8?ROGERIOTORRES
  
 #EXTINF:-1 group-title="MUSICAS", 30A Music ᴴᴰ 🟢
 https://30a-tv.com/feeds/720p/6.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", Agito Max ᴴᴰ 🟢
+https://stmv2.samcast.com.br/agitomax/agitomax/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Blast Channel TV ᴴᴰ 🟢
 https://video01.logicahost.com.br/blast/blast/playlist.m3u8?ROGERIOTORRES
@@ -1094,6 +1104,9 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", NOW 80s 🟢
 https://lightning-now80s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="MUSICAS", NOW 90s 🟢
+https://lightning-now90s-samsungnz.amagi.tv/playlist720p.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="MUSICAS", Ocko Express ᴴᴰ 🟢
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?ROGERIOTORRES
