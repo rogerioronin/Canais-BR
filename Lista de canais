@@ -28,7 +28,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Death Note - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟠
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟢
 https://cdn-5.nxplay.com.br/HALLOANIME/tracks-v1a1/mono.m3u8?token=cdff858234459725167bf9be74fa5fb3808303a0-0683dcda392f693836ced41447472aa0-1731305419-1731262219
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter - 24h ᴴᴰ 🟢
@@ -125,10 +125,10 @@ https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8?ROGERIOTORRES
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Agro Brasil TV ᴴᴰ 🟢
+#EXTINF:-1 group-title="CANAIS ABERTOS", Agro Brasil TV ᴴᴰ 🔴
 https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV ᴴᴰ (PA) 🟢
+#EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV ᴴᴰ (PA) 🔴
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Do Criador 🟢
@@ -167,7 +167,7 @@ https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist.m3u8?ROGERIO
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV ᴴᴰ (PR) 🟢
 https://tv02.zas.media:1936/redetvparana/redetvparana/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV ᴴᴰ (RS) 🟢
+#EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV ᴴᴰ (RS) 🔴
 https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV - Pluto TV ᴴᴰ 🟢
@@ -212,10 +212,10 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV GOV ᴴᴰ 🟢
 https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", TV Justiça ᴴᴰ 🟢
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Justiça ᴴᴰ 🔴
 https://ythls.armelin.one/channel/UC0qlZ5jxxueKNzUERcrllNw.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV 🟢
+#EXTINF:-1 group-title="CANAIS ABERTOS", UniTV 🔴
 http://unitvaovivo.ufrgs.br:8080/live.ogg?ROGERIOTORRES
 
 
@@ -271,14 +271,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/626c2a3502d84a0007cec8
 #EXTINF:-1 group-title="DOCUMENTARIOS", MTV Jovens e Mães ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620fdc7d8a36fc000710e3ba/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
  
-#EXTINF:-1 group-title="DOCUMENTARIOS", NASA TV ᴴᴰ (ENG) 🔴
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="DOCUMENTARIOS", Negócio Fechado ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64ad7394798def00087b2bfe/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
-
-#EXTINF:-1 group-title="DOCUMENTARIOS", Nosey ᴴᴰ 🔴
-https://nosey-4-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Os arquivos Do FBI ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/620d12a82e8ac50007c269c3/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -295,7 +289,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61bb72a7bf8c520007a8fd
 #EXTINF:-1 group-title="DOCUMENTARIOS", Quebrando o Tabu - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62cd9e5a5c38c00007f5669a/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries ᴴᴰ (PT) 🟢
+#EXTINF:-1 group-title="DOCUMENTARIOS", Rakuten Documentaries ᴴᴰ (PT) 🔴
 https://rakuten-documentaries-14-pt.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Smithsonian Channel ᴴᴰ 🟢
