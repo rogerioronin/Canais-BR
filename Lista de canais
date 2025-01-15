@@ -363,6 +363,9 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESPORTES", Fight TV ᴴᴰ (ENG) 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ESPORTES", FOX Deportes (ES) ᴴᴰ 🟢
+https://live-news-manifest.tubi.video/live-news-manifest/csm/extlive/tubiprd01,Fox-Sports-Espanol2.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Fox Sports - Pluto TV ᴴᴰ (ENG) 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -786,11 +789,11 @@ https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Imperial TV ᴴᴰ 🟢
 https://acesso.ecast.site:3630/live/imperiallive.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="GEEK", Lucas TV ᴴᴰ 🟢
+https://stmv6.voxtvhd.com.br/lucastv/lucastv/chunklist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="GEEK", KE TV ᴴᴰ 🔴
 https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Mi TV ᴴᴰ 🟢
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Moon Plus TV ᴴᴰ 🔴
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8?ROGERIOTORRES
@@ -920,7 +923,7 @@ https://livestream.zazerconer.workers.dev/channel/UCGHwgdWN9WHAb9q83p-S8EQ.m3u8?
 #EXTINF:-1 group-title="INFANTIL", Ministério Infantil TV ᴴᴰ 🟢
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?ROGERIOTORRES
  
-#EXTINF:-1 group-title="INFANTIL", Mi TV ᴴᴰ 🟢
+#EXTINF:-1 group-title="INFANTIL", Ministerio Infantil TV ᴴᴰ 🟢
 https://stmv4.voxtvhd.com.br/1990/1990/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Moranguinho ᴴᴰ 🟢
