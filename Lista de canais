@@ -155,6 +155,9 @@ https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8?
 #EXTINF:-1 group-title="CANAIS ABERTOS", FonteTV ᴴᴰ 🟢
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1017652728.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", Globo (SP) ᴴᴰ 🟢
+http://tv.fazoeli.co.za/m3u8/globosp.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV ᴴᴰ (MT) 🟢
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
 
@@ -246,6 +249,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8c
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Estado Paranormal ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", Hallo! Doc ᴴᴰ 🟢
+https://cdn-5.nxplay.com.br/HALLODOC/index.m3u8?token=0fb1d8ca306aa36413e9cc65e4fe40c35ffb54d0-3661fd422d102d89db1283e72d1e3b4a-1731305419-1731262219
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -613,8 +619,17 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo ᴴᴰ 🟢
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo Classic ᴴᴰ 🔴
-https://cdn-2.nxplay.com.br/HALLOCLASSIC/index.m3u8?token=cdntv_62qwd7eSv1Ihnlni
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo! Classic ᴴᴰ 🟢
+https://cdn-5.nxplay.com.br/HALLOCLASSIC/tracks-v1a1/mono.m3u8?token=cf13e87b855ab49daac5ebe7d93e81514a5cbab7-0e08ef78ccf8bea855c6905a327c1707-1733526642-1733483442
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo! Movies ᴴᴰ 🟢
+https://cdn-5.nxplay.com.br/HALLOMOVIES/tracks-v1a1/mono.m3u8?token=82a409ea228d7cb2402106159a946417c66652eb-d17eb7b54a9c7f76042adf5377a57137-1731305419-1731262219
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo! Plus ᴴᴰ 🟢
+https://cdn-5.nxplay.com.br/halloplus/tracks-v1a1/mono.m3u8?token=68c5767b5f4c2663b12c2c8b1cda46094e600bf8-ff74fd75a0332f98d9569f131ab259c1-1733526642-1733483442
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Hallo! Séries ᴴᴰ 🟢
+https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", iCarly - 24h ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/620ff46e0a576e0007dc2f89/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -773,6 +788,9 @@ https://acesso.ecast.site:3630/live/imperiallive.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", KE TV ᴴᴰ 🔴
 https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Mi TV ᴴᴰ 🟢
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Moon Plus TV ᴴᴰ 🔴
 https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8?ROGERIOTORRES
