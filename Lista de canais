@@ -443,9 +443,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d3100084486
 #EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd1419a3b4f4b000773ba85livestitch/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Tastemade ᴴᴰ |² 🔴
-https://tastemade-pt16intl-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", U Miss ᴴᴰ 🟢
 https://video01.soultv.com.br/umiss/umiss/playlist.m3u8?ROGERIOTORRES
 
@@ -533,7 +530,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12111c9e6c2c00078ef3
 https://stmv1.srvif.com/classique/classique/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Classique Western TV 🟢
-https://stmv1.srvif.com/classiquew/classiquew/playlist.m3u8?ROGERIOTORRES
+https://stmv1.srvif.com/classique/classique/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Clube Do Terror - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e501eec630a900088ed0f8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -552,9 +549,6 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Detetives Do Prédio Azul - 24h ᴴᴰ 🟢
 https://cc-vh52nvd84na11.akamaized.net/Globo/DPA_Fast_BR/DPA_Fast.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Família Dinossauros - 24h ᴴᴰ 🔴
-https://stmv4.voxtvhd.com.br/dinotvfast20240825/dinotvfast20240825/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Ficção Cientifica ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fa15ad6367e170007cdd098/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
@@ -576,9 +570,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f171d3442a0500007362f
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", FilmRise Séries ᴴᴰ 🟢
 https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-samsungtvplus-stitched/samsungtvplus_br_filmrisefreeseries_002.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Filmstream ᴴᴰ 🟢
-https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", FreeTV Crime ᴴᴰ 🟢
 https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8?ROGERIOTORRES
@@ -700,17 +691,11 @@ https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Soul Cine Clube ᴴᴰ 🟢
 https://video01.soultv.com.br/soulcine/soulcine/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", Star Trek - 24h 🟢
-https://stmv1.srvif.com/startrek/startrek/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="FILMES E SÉRIES", Terror Trash ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66aa67493a4ad2000806d91b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Top Mix TV Filmes ᴴᴰ 🟢
 https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="FILMES E SÉRIES", Tratamento De Choque - Anger Management - 24h ᴴᴰ 🟢
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-tratamentodechoque-runtimelatam/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries 🟢
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
@@ -741,15 +726,6 @@ https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", Canal BSTV ᴴᴰ 🟢
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Canal Start ᴴᴰ 🟢
-https://stmv1.srvif.com/canalstart/canalstart/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Caravana Play ᴴᴰ 🟢
-https://srv4.zcast.com.br/keynni2406/keynni2406/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Gaming Por Ubisoft - Pluto TV ᴴᴰ 🔴
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62e01661a3e6270007f4ec9e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
- 
 #EXTINF:-1 group-title="GEEK", Geekdot ᴴᴰ 🟢
 https://stream.ichibantv.com:3764/hybrid/play.m3u8?ROGERIOTORRES
 
@@ -758,21 +734,15 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/605cc4de7ff3c50007be0f
 
 #EXTINF:-1 group-title="GEEK", GLN TV ᴴᴰ 🟢
 https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist.m3u8?ROGERIOTORRES
- 
-#EXTINF:-1 group-title="GEEK", Imperial TV ᴴᴰ 🟢
-https://acesso.ecast.site:3630/live/imperiallive.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Lucas TV ᴴᴰ 🟢
 https://stmv6.voxtvhd.com.br/lucastv/lucastv/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", KE TV ᴴᴰ 🔴
-https://stmv7.samcast.com.br/ketv/ketv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", Moon Plus TV ᴴᴰ 🔴
-https://stmv1.srvsite.com/moonplustv/moonplustv/chunklist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", KE TV ᴴᴰ 🟢
+https://stmv1.srvif.com/ketv/ketv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Planalto Norte ᴴᴰ 🟢
-https://video05.logicahost.com.br/tvplanalto/tvplanalto/chunklist.m3u8?ROGERIOTORRES
+https://pop.uniquetv.com.br/uniqueplanalto/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Q Tal Channel ᴴᴰ 🟢
 https://video03.logicahost.com.br/qtalchannel01/qtalchannel01/chunklist.m3u8?ROGERIOTORRES
@@ -795,29 +765,11 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist-1080p.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="GEEK", TV KidMais ᴴᴰ 🟢
 https://video03.logicahost.com.br/novafamilia01/novafamilia01/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV KidMais 🟢
-https://59f1cbe63db89.streamlock.net:1443/tvkidmais/_definst_/tvkidmais/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Lagoa Dantas 🔴
-https://stmv3.webtvninjas.com.br/lucas3285/lucas3285/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV Mais Brasil ᴴᴰ 🟢
 https://stmv1.paineltv.net/tvmaisbrasil/tvmaisbrasil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", TV Manchete ᴴᴰ 🔴
-https://stmv3.voxtvhd.com.br/tvmancheteweb/tvmancheteweb/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Nova Play ᴴᴰ 🔴
-https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="GEEK", TV Sonata 🟢
-https://video01.kshost.com.br/tiago2001/tiago2001/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", TV Teen Net ᴴᴰ 🔴
-https://stmv2.painelvideo.top/tvteennet/tvteennet/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", UlbTV ᴴᴰ 🔴
-https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist.m3u8?ROGERIOTORRES
+https://video04.logicahost.com.br/isonata/isonata/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Vila TV 🟢
 https://streamserver.streamingdevideo.com.br/8072/8072/chunklist.m3u8?ROGERIOTORRES
@@ -828,13 +780,10 @@ https://video01.kshost.com.br:4443/rogerio7271/rogerio7271/chunklist.m3u8?ROGERI
 #EXTINF:-1 group-title="GEEK", Vivax TV ᴴᴰ 🟢
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema ᴴᴰ 🔴
-https://cdnhd.iblups.com/hls/KjpAu5k2I3.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="GEEK", Web TV Classicos Do Cinema ᴴᴰ 🟢
+https://stream.gia.tv/giatvplayout7/giatv-208272/tracks-v1a1/mono.ts.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="GEEK", X Plus TV ᴴᴰ 🟢
-https://srv4.zcast.com.br/telavivatv/telavivatv/chunklist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="GEEK", XtremeTV ᴴᴰ 🔴
+#EXTINF:-1 group-title="GEEK", XtremeTV ᴴᴰ 🟢
 https://stmv1.srvif.com/xtremetv/xtremetv/chunklist.m3u8?ROGERIOTORRES
 
 
