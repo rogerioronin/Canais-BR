@@ -476,6 +476,9 @@ https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Receitas Fast ᴴᴰ 🟢
 https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Sabor Arte 2 ᴴᴰ 🟢
+https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", Salon Line ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a7d0e0cd0d310008448610/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
@@ -510,6 +513,9 @@ https://cc-e2pb6h3gp19c3.akamaized.net/Sofa_Digital/Adrenalina_Freezone_BR/Adren
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Escrava Isaura - 24h ᴴᴰ 🟢
 https://cc-slllnk8iujdo8.akamaized.net/Samsung/A_Escrava_Isaura_BR/A_Escrava_Isaura.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", AnaCarolina - 24h ᴴᴰ 🟢
+https://video-solutions-ag-anacarolina-1-br.tcl.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Arnold - Minha Familia é Uma Bagunça ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61f1d27a189ed10007b7393e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
@@ -616,6 +622,12 @@ https://d2gjhy8g9ziabr.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae0
 #EXTINF:-1 group-title="FILMES E SÉRIES", Filmstream ᴴᴰ 🟢
 https://spi-filmstream-1-in.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", FreeTV Crime ᴴᴰ 🟢
+https://oly-ftvcbr.otteravision.com/oly/ftvcbr/ftvcbr.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", FreeTV Drama ᴴᴰ 🟢
+https://oly-ftvdrbr.otteravision.com/oly/ftvdrbr/ftvdrbr.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Gospel Movie TV 🟢
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 
@@ -717,6 +729,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63d2ba2f6
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Spark TV ᴴᴰ 🟢
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sr15nxkp06uk9/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Spark TV |² ᴴᴰ 🟢
+https://candlelightmedia-sparklightlove-3-br.tcl.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Sony One - Classics ᴴᴰ 🟢
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
