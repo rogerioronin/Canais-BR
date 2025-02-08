@@ -155,6 +155,9 @@ https://tv01.zas.media:1936/rftv/rftv/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede Minas ᴴᴰ 🟢
 https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/chunklist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", RedeTV! ᴴᴰ 🟢
+https://d1wwtskvr1r98k.cloudfront.net/out/v1/f61282790c1f4644ba906364b7d49d8d/index_3.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Rede TV - Pluto TV ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6048fc47a44e540007745d2b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -169,6 +172,9 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Assembleia ᴴᴰ (MG) 🟢
 http://streaming.almg.gov.br:80/live/tvalmg.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil ᴴᴰ 🟢
+https://tvbrasil-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Brasil ᴴᴰ (ES) 🟢
 https://5cf4a2c2512a2.streamlock.net/8132/8132/chunklist.m3u8?ROGERIOTORRES
@@ -190,6 +196,9 @@ http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE ᴴᴰ (RS) 🟢
 http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Gazeta ᴴᴰ 🟢
+https://stream1.freetv.fun/tv-gazeta-1.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV GOV ᴴᴰ 🟢
 https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
@@ -301,7 +310,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664f766741af640008e59c
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Cazé TV ᴴᴰ 🟢
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8?ROGERIOTORRES
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Combate Global ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -878,6 +887,9 @@ https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?ROGERIOT
 
 #EXTINF:-1 group-title="JORNALISMO", Al Jazeera English ᴴᴰ (ENG) 🟢
 https://live-hls-web-aje.getaj.net/AJE/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", Avança Brasil ᴴᴰ 🟢
+https://video01.soultv.com.br/avancabrasil/avancabrasil/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Bloomberg TV ᴴᴰ (ENG) 🟢
 https://bloomberg-bloomberg-3-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
