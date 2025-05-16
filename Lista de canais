@@ -313,7 +313,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664f766741af640008e59c
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Cazé TV ᴴᴰ 🟢
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/1080p-vtt/index.m3u8?ROGERIOTORRES
+https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Combate Global ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -895,6 +895,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a694
 
 
 #EXTINF:-1 group-title="JORNALISMO", 24h News ᴴᴰ 🟢
+https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="JORNALISMO", 4 Por 4 ᴴᴰ 🟢
 https://video01.soultv.com.br/programa4por4/programa4por4/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", Al Jazeera English ᴴᴰ (ENG) 🟢
