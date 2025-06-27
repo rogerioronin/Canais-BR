@@ -122,6 +122,9 @@ http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 ###### CANAIS ABERTOS = 54 Canais ############
 ##############################################
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", BAND TV ᴴᴰ 🟢
+https://cdn-3.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v2a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", Band - RBA TV ᴴᴰ (PA) 🟢
 https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?ROGERIOTORRES
 
@@ -134,17 +137,11 @@ https://canaleducacao-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Rural ᴴᴰ 🟢
 https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - Pluto TV ᴴᴰ 🟢
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura - CATVE ᴴᴰ (PR) 🟢
-https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="CANAIS ABERTOS", Cultura Fast ᴴᴰ 🟢
-https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="CANAIS ABERTOS", FonteTV ᴴᴰ 🟢
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1017652728.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Futura ᴴᴰ 🟢
+https://cdn.mycloudstream.io/hls/live/broadcast/pxf9amx8/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Record TV ᴴᴰ (MT) 🟢
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8?ROGERIOTORRES
@@ -191,6 +188,18 @@ https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV Camera ᴴᴰ 🟢
 https://stream3.camara.gov.br/tv1/manifest.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Cultura Nacional ᴴᴰ 🟢
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Cultura - CATVE ᴴᴰ (PR) 🟢
+https://5b33b873179a2.streamlock.net:1443/live/livestream/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TV Cultura - Pluto TV ᴴᴰ 🟢
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e010e6cd663f0007e57dc8/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", TVCultura Fast ᴴᴰ 🟢
+https://cc-oeelrj1iysbeq.akamaized.net/TV_Cultura/TV_Cultura_BR/TV_Cultura.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="CANAIS ABERTOS", TVE ᴴᴰ 🟢
 http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8?ROGERIOTORRES
 
@@ -205,6 +214,9 @@ https://video08.logicahost.com.br/tvc21/tvc21/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", TV GOV ᴴᴰ 🟢
 https://canalgov-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="CANAIS ABERTOS", Univesp TV ᴴᴰ 🟢
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8?ROGERIOTORRES
 
 
 ##############################################
@@ -313,7 +325,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/664f766741af640008e59c
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Cazé TV ᴴᴰ 🟢
-https://cc-panvcqnzkgrdl.akamaized.net/Caze/Caze_TV_BR/Caze_TV.m3u8?ROGERIOTORRES
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Combate Global ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
@@ -331,7 +343,7 @@ https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunk
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Esportes Brasília ᴴᴰ 🟢
-https://a.cdni.live/radioesporte/radioesporte/chunklist.m3u8?ROGERIOTORRES
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESPORTES", Esportes - Pluto TV ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -743,6 +755,9 @@ https://stmv1.srvif.com/canal29/canal29/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Canal BSTV ᴴᴰ 🟢
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="GEEK", Fox Kids ᴴᴰ 🟢
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Geekdot ᴴᴰ 🟢
 https://stream.ichibantv.com:3764/hybrid/play.m3u8?ROGERIOTORRES
@@ -1189,7 +1204,7 @@ https://lotus.stingray.com/manifest/naturescape-a003s-montreal/samsungbr/master.
 https://video04.logicahost.com.br/petloverstv/petloverstv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Play TV ᴴᴰ 🟢
-https://isaocorp.cloudecast.com/playtv/index.m3u8?ROGERIOTORRES
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="VARIEDADES", Polidoro TV ᴴᴰ 🟢
 https://srv2.zcast.com.br/polidorotv/polidorotv/chunklist.m3u8?ROGERIOTORRES
