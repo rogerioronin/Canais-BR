@@ -138,9 +138,6 @@ https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", South Park ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Tooncast ᴴᴰ 🟢
-http://7semfronteiras.cc:8080/julia3387/jpc374856/18699
-
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Urban Kids ᴴᴰ 🟢
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 
