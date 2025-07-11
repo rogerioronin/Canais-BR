@@ -138,6 +138,9 @@ https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/chunklist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", South Park ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS" Tooncast ᴴᴰ 🟢
+http://7semfronteiras.cc:8080/julia3387/jpc374856/18699
+
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Urban Kids ᴴᴰ 🟢
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
 
@@ -878,6 +881,9 @@ https://video01.soultv.com.br/feliz7play/feliz7play/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Junior TV ᴴᴰ 🟢
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12141b146d760007934ea7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=978179f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bc2b3e9d-2c6a-4239-b56d-b64e1afa1902&userId=&serverSideAds=true
+
+#EXTINF:-1 group-title="INFANTIL", Kids Club Pluto TV ᴴᴰ 🟢
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8cae7fed35b0008580ec0/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 group-title="INFANTIL", Ministério Infantil TV ᴴᴰ 🟢
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8?ROGERIOTORRES
