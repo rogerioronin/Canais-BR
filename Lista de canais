@@ -28,19 +28,19 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Death Note - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="ANIMES & GEEK", Dragon Ball - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIMES & GEEK", Dragon Ball Z - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball Z - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIMES & GEEK", Dragon Ball Z Kai - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball Z Kai - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIMES & GEEK", Dragon Ball GT - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball GT - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIMES & GEEK", Dragon Ball Super - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball Super - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟢
