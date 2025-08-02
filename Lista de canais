@@ -410,16 +410,13 @@ https://cnl-cl-samsung.otteravision.com/cnl/cl_h265/cl_h265.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ESTILO DE VIDA", Cozinha ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1ef23020a5ac0007e5e8ea/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Fashion TV ᴴᴰ 🟢
-https://fashiontv-fashiontv-5-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", GoUSA TV ᴴᴰ 🟢
 https://brandusa-gousa-1-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Hollywire ᴴᴰ 🟢
 https://di1slo8304ver.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bg9yxt784ebvh-ssai-prd/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Homeful ᴴᴰ 🔴
+#EXTINF:-1 group-title="ESTILO DE VIDA", Homeful ᴴᴰ 🟢
 https://d25usgadhphvwi.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9flatd4lam6vc/master.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", KFOOD ᴴᴰ 🟢
@@ -440,16 +437,10 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988b61c8d285000798a2
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Shore ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", O Encantador de Cães - 24h ᴴᴰ 🟢
-https://rvg-dg-br-samsung.otteravision.com/rvg/dg_br/dg_br_h265.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome ᴴᴰ 🟢
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ESTILO DE VIDA", Receitas Fast ᴴᴰ 🟢
-https://cc-panvcqnzkgrdl.akamaized.net/Globo/Receitas_Fast_BR/Receitas_Fast.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ESTILO DE VIDA", Sabor Arte 2 ᴴᴰ 🟢
+#EXTINF:-1 group-title="ESTILO DE VIDA", Sabor Arte ᴴᴰ 🟢
 https://amg01391-sbtinfast-amg01391c6-tcl-us-5081.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", Salon Line ᴴᴰ 🟢
