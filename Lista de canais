@@ -49,6 +49,9 @@ http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hantaro - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-hantaro/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟢
+https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -149,6 +152,9 @@ http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Retro Cartoon 🟢
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8?hls_ctx=338966du
+
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Scooby-Doo - 24h ᴴᴰ 🟢
+http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", South Park ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -270,6 +276,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1ef1a8c
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Estado Paranormal ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/656e2a81954b020008ed17a4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
+
+#EXTINF:-1 group-title="DOCUMENTARIOS", Hallo! Doc. ᴴᴰ 🟢
+https://cdn-3.nxplay.com.br/HALLODOC/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="DOCUMENTARIOS", Investigação ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
