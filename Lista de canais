@@ -61,6 +61,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b26681d2d50d00083abe
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Jiraya - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", JoJo’s Bizarre Adventure - 24h ᴴᴰ 🟢
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Loading TV ᴴᴰ 🟢
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?hls_ctx=h1518u77
 
@@ -440,6 +443,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/633ee9ba8
 #EXTINF:-1 group-title="ESTILO DE VIDA", Master Chefe ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6077045b6031bd00078de127/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
 
+#EXTINF:-1 group-title="ESTILO DE VIDA", Mais MasterChef Brasil ᴴᴰ 🟢
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/681111be5e0764e297fb200e/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
+
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Com o Ex ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61a528267e1b8b0007357920/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
@@ -451,6 +457,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988b61c8d285000798a2
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", MTV Shore ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625463563b8ddc0007134aeb/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="ESTILO DE VIDA", O Encantador De Cães ᴴᴰ 🟢
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61099df8cee03b00074b2ecf/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 group-title="ESTILO DE VIDA", People Are Awesome ᴴᴰ 🟢
 https://jukin-peopleareawesome-2-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
@@ -618,6 +627,9 @@ https://cis-no-samsung.otteravision.com/cis/no/no_h265.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Novelas ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f512365abe1f50007d3ff56/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Numbers ᴴᴰ 🟢
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/67f960c5441853fe50e7afc1/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", O Homem Que Veio Do Ceu - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62052d3b4eeb740007fbe125/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -952,6 +964,9 @@ http://45.11.56.147:8808/stream?id=140
 
 #EXTINF:-1 group-title="MUSICAS", MTV Biggest Pop ᴴᴰ 🟢
 http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/6047fbdbbb776a0007e7f2fflivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=0&deviceId=e1760207-0a78-8a50-619d-f898605668f9&advertisingId=e1760207-0a78-8a50-619d-f898605668f9&us_privacy=%7BUS_PRIVACY%7D&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="MUSICAS", MTV Classic ᴴᴰ 🟢
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01dcb8561260008b0a41d/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
 #EXTINF:-1 group-title="MUSICAS", MTV Spankin' New ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6047ff2e5e61cf000784e4da/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
