@@ -156,6 +156,9 @@ http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS",Popeye - 24h ᴴᴰ 🟢
 http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS",PrimeToon ᴴᴰ 🟢
+https://pop.uniquetv.com.br/primetoon/tracks-v1a1/mono.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Retro Cartoon 🟢
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8?hls_ctx=338966du
 
@@ -919,7 +922,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6317ba014d4d040007227f
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6102e04e9ab1db0007a980a1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="JORNALISMO", Record News ᴴᴰ |² 🟢
-https://rnw-rn-samsungtvplus.otteravision.com/rnw/rn/rnw_rn.m3u8?ROGERIOTORRES
+https://cc-dozswt8rxfksa.akamaized.net/rnw/rn/rnw_rn_h265.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="JORNALISMO", SIC Notícias ᴴᴰ 🟢
 https://d277k9d1h9dro4.cloudfront.net/out/v1/293e7c3464824cbd8818ab8e49dc5fe9/index.m3u8?ROGERIOTORRES
