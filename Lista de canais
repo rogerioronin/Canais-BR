@@ -201,7 +201,7 @@ https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
 https://canaleducacao-stream.ebc.com.br/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", Canal Rural ᴴᴰ 🟢
-https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/chunklist.m3u8?ROGERIOTORRES
+https://brn-crbr-tcl-roku-syndication.otteravision.com/brn/crbr_h265/crbr_h265.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="CANAIS ABERTOS", FonteTV ᴴᴰ 🟢
 https://59fb88a1b1108.streamlock.net/fonte/_definst_/fontetv/chunklist_w1017652728.m3u8?ROGERIOTORRES
@@ -508,6 +508,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/67e59a655
 #EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Freezone ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b790b985706b00072cb797/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Adrenalina Pura TV Halloween ᴴᴰ 🟢
+https://amg00740-sofa-amg00740c15-tcl-us-#EXTINF:-1 group-title="FILMES E SÉRIES",.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", A Feiticeira ᴴᴰ 🟢
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/631fa8dd7f25240007099a40/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
 
@@ -528,6 +531,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff768b6a4c8b800084986
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Channel 1 ᴴᴰ 🟢
 https://stmv1.srvif.com/movies1/movies1/playlist.m3u8?hls_ctx=687th9q7
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Charlie Silent Movies ᴴᴰ 🟢
+https://amogonetworx-charlie-1-br.tcl.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Cindie Lite ᴴᴰ 🟢
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8?ROGERIOTORRES
@@ -634,11 +640,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f
 #EXTINF:-1 group-title="FILMES E SÉRIES", MacGyver ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network ᴴᴰ 🟢
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
+#EXTINF:-1 group-title="FILMES E SÉRIES", Mr. Bean Series - 24h ᴴᴰ 🟢
+https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MovieSphere ᴴᴰ 🟢
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network ᴴᴰ 🟢
+https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", NCIS ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb9fdda995710008991c54/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
@@ -893,6 +902,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c0
 
 #EXTINF:-1 group-title="INFANTIL", Toon Goggle ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
+
+#EXTINF:-1 group-title="INFANTIL", Toon Goggle ᴴᴰ |² 🟢
+https://tg-tg-br.otteravision.com/tg/tg_br_h265/tg_br_h265.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", TV Liberdade ᴴᴰ 🟢
 https://srv1.paineldevideo.com/liberdaderadioetv/liberdaderadioetv/playlist.m3u8?ROGERIOTORRES
