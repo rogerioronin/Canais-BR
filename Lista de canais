@@ -8,7 +8,10 @@
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f12136385bccc00070142ed/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV 🟢
-https://stmv4.voxtvhd.com.br/animetv2/animetv2/playlist.m3u8?hls_ctx=6bo593z0
+https://stmv6.voxtvhd.com.br/animetv/animetv/playlist.m3u8?hls_ctx=3112bwwr
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime TV 2 🟢
+https://stmv4.voxtvhd.com.br/animetv2/animetv2/playlist.m3u8?hls_ctx=5p647777
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Anime Ação ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078faeef/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -645,6 +648,9 @@ https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MovieSphere ᴴᴰ 🟢
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-moviespherebrazil-runtimelatam/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Multimix ᴴᴰ 🟢
+https://stmv.webtvninjas.com.br/multimix/multimix/chunklist_w589753795.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", MyTime Movie Network ᴴᴰ 🟢
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8?ROGERIOTORRES
