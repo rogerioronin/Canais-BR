@@ -160,6 +160,12 @@ http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8?ROGERIOTORRES
 https://pop.uniquetv.com.br/primetoon/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Retro Cartoon 🟢
+https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8?hls_ctx=7vr6o0o8
+
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Retro Cartoon 2 🟢
+https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8?hls_ctx=079867d6
+
+#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Retro Cartoon 3 🟢
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8?hls_ctx=338966du
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Scooby-Doo - 24h ᴴᴰ 🟢
