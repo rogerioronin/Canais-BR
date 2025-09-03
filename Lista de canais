@@ -343,6 +343,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f515ebac
 #EXTINF:-1 group-title="DOCUMENTARIOS", The Pet Collective ᴴᴰ (ENG) 🟢
 https://the-pet-collective-international-br.samsung.wurl.tv/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="DOCUMENTARIOS", Urban Travel ᴴᴰ 🟢
+https://iptv.vivatele.com/live/viva_padrao/viva2384/111.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="DOCUMENTARIOS", Viajando Pelo Brasil ᴴᴰ 🟢
 http://video01.soultv.com.br/viajandopelobrasil/viajandopelobrasil/playlist.m3u8?ROGERIOTORRES
 
@@ -432,8 +435,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6660b636cb3ea10008429c
 #EXTINF:-1 group-title="ESPORTES", Turbo - Pluto TV ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6014761dfb91870008ea6463/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
- #EXTINF:-1 group-title="ESPORTES", World Poker Tour ᴴᴰ 🟢
+#EXTINF:-1 group-title="ESPORTES", World Poker Tour ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eba66da8b2270008436b10/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ESPORTES", Yahoo! Sports ᴴᴰ 🟢
+https://yahoo.global.transmit.live/hls/6862d5fd233e6604b8b457c6/09f289527d9545b38b36cfe7623c619f/us-east-1/6415665815001/playlist_dvr.m3u8
 
 
 ##############################################
@@ -745,6 +751,12 @@ https://video03.logicahost.com.br/filmestopmixtv/filmestopmixtv/chunklist.m3u8?R
 #EXTINF:-1 group-title="FILMES E SÉRIES", TV Séries ᴴᴰ 🟢
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Movies ᴴᴰ 🟢
+https://iptv.vivatele.com/live/viva_padrao/viva2384/108.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Urban Series ᴴᴰ 🟢
+https://iptv.vivatele.com/live/viva_padrao/viva2384/110.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Xumo Filmes ᴴᴰ 🟢
 https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992307&ads.xumo_streamId=99992307&ads.channelId=99992307&ads.csid=lgchannels_br_xumofreemoviesbrazil_ssai&ads.channelName=xumofreemoviesbrazil_br&ads.xumo_contentName=XumoFreeMoviesBrazil&ads.xumo_contentId=5&ads.xumo_providerName=XumoFreeMoviesBrazil&ads.xumo_providerId=5&ads.content_category=IAB1-7&ads.content_genre=Movies&ads.content_language=en&ads.content_rating=tv-ma&ads.coppa=0&ads.did=[IFA]&ads.is_lat=[LMT]&ads.us_privacy=[US_PRIVACY]&ads.gdpr=[GDPR]&ads.gdpr_consent=[GDPR_CONSENT]&ads.devicemake=[DEVICE_MAKE]&ads.appName=[APP_NAME]&ads.app_bundle=[APP_BUNDLE]&ads.app_version=[APP_VERSION]&ads.fck=[FCK]&ads.viewsize=[VIEWSIZE]&ads.givn=[NONCE]&ads.app_storeurl=[APP_STOREURL]
 
@@ -924,6 +936,8 @@ https://video01.soultv.com.br/tvr/tvr/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="INFANTIL", Turma da Mônica - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f997e44949bc70007a6941e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="INFANTIL", Urban Kids ᴴᴰ 🟢
+https://iptv.vivatele.com/live/viva_padrao/viva2384/105.m3u8?ROGERIOTORRES 
 
 ######################################
 ###### JORNALISMO = 17 Canais ########
