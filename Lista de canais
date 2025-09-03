@@ -20,7 +20,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/604b79c558393100078fae
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/633dc392e0282400071b0d39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Boruto - Naruto Next Generation - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-boruto/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-boruto/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Boruto - Naruto Next Generations Pluto - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/656f389c3944b60008e5bdab/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -32,25 +32,25 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/646663b01593940008990a
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257d1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Digimon - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-digimon/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-digimon/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-dragon.ball/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-dragon.ball/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball Z - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z/tracks-v1a1/index.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-dragon.ball.z/tracks-v1a1/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball Z Kai - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-dragon.ball.z.kai/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-dragon.ball.z.kai/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball GT - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-dragon.ball.gt/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-dragon.ball.gt/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Dragon Ball Super - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-dragon.ball.super/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-dragon.ball.super/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hantaro - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-hantaro/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-hantaro/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟢
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8?ROGERIOTORRES
@@ -62,7 +62,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e87
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b26681d2d50d00083abe8b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Jiraya - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-Jiraya/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-Jiraya/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", JoJo’s Bizarre Adventure - 24h ᴴᴰ 🟢
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0d24/master.m3u8?CreatedWithS2by=Neywerson&country=BR&deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTAROPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
@@ -71,13 +71,13 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c7982f6838ee00085f0
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8?hls_ctx=h1518u77
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-naruto.txt/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-naruto.txt/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto Pluto - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f6df5a173d7340007c559f7/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto Shippuden - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-narutoshippuden.txt/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-narutoshippuden.txt/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Naruto Shippuden Pluto - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64c92f965580090008084968/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -92,13 +92,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63988c2750108d00072e26
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/624b1c8d4321e200073ee421/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Os Cavaleiros Dos Zodiacos - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-cavaleiros/tracks-v1a1/index.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-cavaleiros/tracks-v1a1/index.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Otaku Sign TV ᴴᴰ 🟢
 https://stmv1.srvif.com/anime/anime/playlist.m3u8?hls_ctx=9o6p063n
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Pokemon - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-pokemon/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-pokemon/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Tokusatsu ᴴᴰ 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ff609de50ab210008025c1b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -127,7 +127,7 @@ http://service-stitcher-ipv4.clusters.pluto.tv/v1/stitch/embed/hls/channel/62545
 https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66c8ca1280a0af00085b5b83/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Corrida Maluca - 24h 🟢
-http://24hrs.homelinux.com:8080/24H-Corrida.Maluca/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-Corrida.Maluca/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Gospel Cartoon  🟢
 https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?ROGERIOTORRES
@@ -145,19 +145,19 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63221e41af69b500076f84e7/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Mundo De Boby - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-ofantasticomundodeboby/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-ofantasticomundodeboby/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Nick Classico ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12151794c1800007a8ae63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5f12151794c1800007a8ae63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Pequeno Urso - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-pequenourso/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-pequenourso/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", PicaPau - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-picapau/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-picapau/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS",Popeye - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-Popeye.S01/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-Popeye.S01/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS",PrimeToon ᴴᴰ 🟢
 https://pop.uniquetv.com.br/primetoon/tracks-v1a1/mono.m3u8?ROGERIOTORRES
@@ -172,16 +172,16 @@ https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8?hls_ctx=079867d6
 https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8?hls_ctx=338966du
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Scooby-Doo - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-scoobdoo/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-scoobdoo/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", South Park ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Thundercats - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-thundercats/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-thundercats/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Tom & Jerry - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-tom-e-jerry/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-tom-e-jerry/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS", Urban Kids ᴴᴰ 🟢
 http://200.194.238.229:8383/live/urbankids/playlist.m3u8?ROGERIOTORRES
@@ -772,13 +772,13 @@ https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?hls_ctx=20986d23
 https://br5093.streamingdevideo.com.br/bstv/bstv/chunklist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Chapolin Colorado - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-chapolin1/playlist.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-chapolin1/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Chaves - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-chaves-a-serie/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-chaves-a-serie/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Chaves Animação - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com:8080/24H-chavesdesenho/video.m3u8?ROGERIOTORRES
+http://24hrs.homelinux.com/24H-chavesdesenho/video.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="GEEK", Fox Kids ᴴᴰ 🟢
 https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8?ROGERIOTORRES
