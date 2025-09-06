@@ -402,6 +402,9 @@ https://dfr80qz435crc.cloudfront.net/EFGH/Amagi/Globo/GE_Fast_BR/GE_Fast.m3u8?RO
 #EXTINF:-1 group-title="ESPORTES", Glory Kickboxing ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="ESPORTES", GPTV ᴴᴰ 🟢
+https://amg26329-amg26329c1-amgplt0019.playout.now3.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="ESPORTES", Hard Knocks Fight Championship ᴴᴰ (ENG) 🟢
 https://d3uyzhwvmemdyf.cloudfront.net/scheduler/scheduleMaster/109.m3u8?ROGERIOTORRES
 
@@ -649,6 +652,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc5130fd98c0007f
 #EXTINF:-1 group-title="FILMES E SÉRIES", MacGyver ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea92/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Malhacao Fast ᴴᴰ 🟢
+https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Mr. Bean Series - 24h ᴴᴰ 🟢
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
 
@@ -866,6 +872,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63da6bcd6
 
 #EXTINF:-1 group-title="INFANTIL", Baby Shark TV ᴴᴰ 🟢
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/63da6bcd60bc8f0008a5d364/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 group-title="INFANTIL", Mr. Bean Animated ᴴᴰ 🟢
+https://amg00627-banijay-amg00627c35-tcl-us-4282.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-tclus/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="INFANTIL", Cocoricó - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62d969fd8451a30007f0fd94/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
