@@ -676,6 +676,9 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8?ROGERIOTORRES
 #EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo ᴴᴰ 🟢
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/4300.m3u8?ROGERIOTORRES
 
+#EXTINF:-1 group-title="FILMES E SÉRIES", Grjngo ᴴᴰ 🟢
+https://d185afac7321401888ff3bb2fae7ccfc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/TCL-br_GrjngoFilmesDeFaroeste/playlist.m3u8?ads.wurl_channel=1220&ads.wurl_name=GrjngoFilmesDeFaroeste&ads.coppa=0&ads.device_id=%7B%7BDID%7D%7D&ads.dnt=%7B%7BDNT%7D%7D&ads.us_privacy=%7B%7BUsPrivacy%7D%7D&ads.gdpr=%7B%7BGdpr%7D%7D&ads.app_name=%7B%7BappName%7D%7D&ads.app_bundle=%7B%7BappPackage%7D%7D&ads.app_store_url=%7B%7BAppStoreUrl%7D%7D&ads.ifa_type=%7BIFA_TYPE%7D&ads.custom=%7BCUSTOM%7D&ads.video_id=662b4f3e20e82808d84e0ae2&ads.consent=%7B%7BGdprConsent%7D%7D
+
 #EXTINF:-1 group-title="FILMES E SÉRIES", Hallo! Séries ᴴᴰ 🟢
 https://cdn-5.nxplay.com.br/HALLOSERIES/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
@@ -690,6 +693,9 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63eb9dc84e83e70008abea
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Malhacao Fast ᴴᴰ 🟢
 https://amg00716-globo-amg00716c4-tcl-br-9499.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Medo TV ᴴᴰ 🟢
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68c7aa9ee9e90f4e11dd42ea/bunnycontent_main.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Mr. Bean Series - 24h ᴴᴰ 🟢
 https://amg00627-banijay-amg00627c48-tcl-us-8096.playouts.now.amagi.tv/playlist.m3u8?ROGERIOTORRES
@@ -747,6 +753,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2553
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Crime ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4864
+
+#EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time Familia ᴴᴰ 🟢
+https://ssai-ads.api.leiniao.com/global-adinsertion-api/hls/live/v2/3ada6fb1fe464ae5aa5b8b60ae285c73/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="FILMES E SÉRIES", Run:Time TV e Filmes ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62c5d32e2c48f9000715b6e9livestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
