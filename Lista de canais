@@ -25,8 +25,11 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/625464a945b6a200079257
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Hallo Anime ᴴᴰ 🟢
 https://cdn-3.nxplay.com.br/HALLOANIME/index.m3u8?ROGERIOTORRES
 
-#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter - 24h ᴴᴰ 🟢
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter Pluto TV - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/65d9167818036500080e8780/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 group-title="ANIME E TOKUSATSU", Hunter x Hunter Movie Ark - 24h ᴴᴰ 🟢
+https://ffalconnow.api.leiniao.com/media-channel-api/ffalconLive/v1/68ed0ab66453bd1522dfe9b3/bunnycontent_main.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIME E TOKUSATSU", Inuyasha - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66b26681d2d50d00083abe8b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
