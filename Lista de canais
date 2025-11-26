@@ -156,44 +156,20 @@ https://2-fss-2.streamhoster.com/pl_140/amlst%3a200914-1298290/playlist.m3u8?ROG
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", PlayKids ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
 
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Pequeno Urso - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com/24H-pequenourso/video.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", PicaPau - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com/24H-picapau/playlist.m3u8?ROGERIOTORRES
-
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Pocoyo - 24h ᴴᴰ 🟢
 https://ani-pocptbr-samsungtvplus-ptbr.otteravision.com/ani/pocptbr_h265/pocptbr_h265.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL",Popeye - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com/24H-Popeye.S01/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL",PrimeToon ᴴᴰ 🟢
 https://pop.uniquetv.com.br/primetoon/tracks-v1a1/mono.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Retro Cartoon 🟢
-https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8?hls_ctx=7vr6o0o8
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Retro Cartoon 2 🟢
-https://stmv6.voxtvhd.com.br/retrotv2/retrotv2/playlist.m3u8?hls_ctx=079867d6
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Retro Cartoon 3 🟢
-https://stmv6.voxtvhd.com.br/retrotv3/retrotv3/playlist.m3u8?hls_ctx=338966du
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Scooby-Doo - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com/24H-scoobdoo/playlist.m3u8?ROGERIOTORRES
+https://stmv6.voxtvhd.com.br/retrotv/retrotv/playlist.m3u8
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", South Park ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae66b359b270007869ff1/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Teletubbies - 24h ᴴᴰ 🟢
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/64e50055286f6b000838c067/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Thundercats - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com/24H-thundercats/playlist.m3u8?ROGERIOTORRES
-
-#EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Tom & Jerry - 24h ᴴᴰ 🟢
-http://24hrs.homelinux.com/24H-tom-e-jerry/playlist.m3u8?ROGERIOTORRES
 
 #EXTINF:-1 group-title="ANIMAÇÕES CLASSICAS E INFANTIL", Toon Goggle ᴴᴰ 🟢
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=274
